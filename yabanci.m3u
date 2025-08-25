@@ -364,39 +364,7 @@ http://192.168.11.1:61292/udp/232.84.3.86:11542
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.66:11656
 #EXTINF:0 group-title="__THÔNG BÁO__",!!! Link XEM LẠI đã tách sang byvn.net/KHXg
-https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/1340a72613d825bab2a98873a6312a98.png",01h30 Novara vs Inter Milan U23 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/4d84d40f319c5d8523129998f6c2761c/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",01h30 Istanbulspor vs Manisa Futbol Kulübü 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/b2c2d55a2f44c0ac5e987878bc21cb82/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/50f7236acb882158a34df0e39900acc2.png",01h30 Sampdoria vs Modena 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/3aa25b7c246ce6d16f63d6c0924aa261/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/50f7236acb882158a34df0e39900acc2.png",01h30 Sampdoria vs Modena [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68ac97595bab7_103/index.m3u8?expire=1756746201&sign=f8ce0ac233f67d5c794176c5ace93b4d
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/50f7236acb882158a34df0e39900acc2.png",01h30 Sampdoria vs Modena [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68ac97595bab7_103.flv?expire=1756746201&sign=f8ce0ac233f67d5c794176c5ace93b4d
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/24e0296c0e78b83f660e8fbcaab255f4/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68aca4d25bab7_28/index.m3u8?expire=1756749650&sign=d78b27898e3b7fac790029d97dd76ffa
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68aca4d25bab7_28.flv?expire=1756749650&sign=d78b27898e3b7fac790029d97dd76ffa
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/7e3a84b5a5d586f6c4024c758b78dd78.png",01h45 Pau FC vs Stade DE Reims 1 (Bc)
+https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/7e3a84b5a5d586f6c4024c758b78dd78.png",01h45 Pau FC vs Stade DE Reims 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/a2669140dc071fcdb496d3f59f19349a/playlist.m3u8
@@ -500,46 +468,6 @@ https://2893950149.global.cdnfastest.com/live/68acb4532f364_5153.flv?expire=1756
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/d10f0af36c51412ccba8a9276c8fce4d/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/1340a72613d825bab2a98873a6312a98.png",01h30 Novara VS Inter Milan U23 (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/sFjnZ6m7JbnBGhm-3a193g/Fv2lucGIbhPi2caWYvF5Lg/1756168808891/live/sd-6MuPtT5keyM8kuDfdD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/50f7236acb882158a34df0e39900acc2.png",01h30 Sampdoria VS Modena (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/zgXytENKRSlHo7cJgMweKQ/Fv2lucGIbhPi2caWYvF5Lg/1756168809833/live/sd-6MuPtjKmSN3wwAiRtf/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",01h30 Istanbulspor VS Manisa Futbol Kulübü (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/iYx-8iFpGlkUoIVW_7qSEw/Fv2lucGIbhPi2caWYvF5Lg/1756168810242/live/sd-6MuTcdygTVUY9b2taX/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (CK) HD NHANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1756169411&sign=171bbc8950906637bbd0446fb9d6166d
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/YpQNXSb3Ans2N1gKiWtzDg/778e7779236aef8ae68b578426d0ddb4/1756169411/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/rJD_7LhXi66Blxff45aiSA/Fv2lucGIbhPi2caWYvF5Lg/1756169411519/live/meoSD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/jF3lRj9PlIdC5bv4GzTSaA/aa2414c41b563aa2e0f4a276a0f50172/1756169411/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (CK) Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/6JcdSyvgYPYFsGMEne3mgQ/Fv2lucGIbhPi2caWYvF5Lg/1756169411519/live/may6/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Ldc-xpyFxcSSG5iqyfALPg/Fv2lucGIbhPi2caWYvF5Lg/1756169411519/live/sd-6MuSNj13tBwJca2m4P/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (CK) Backup 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Bq_LfFqOhfYYbh1P1TMeOg/Fv2lucGIbhPi2caWYvF5Lg/1756169411519/live/hd-en-6MuSNj13tBwJca2m4P/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-Pau-FC-sgwa442.image/jpeg",01h45 Pau FC VS Reims (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -588,22 +516,6 @@ https://apisportzz179528093.nsnd.live/nS8HqJJs509GLPiAngL8Uw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/3XRXI3AwO9gFrUET3FPHVg/Fv2lucGIbhPi2caWYvF5Lg/1756170313232/live/sd-6MuPtT7xbyZ1qZdqT9/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/d5705ae311023dd3ecad812d9354a136.png",02h10 Daria Kasatkina vs Elena-Gabriela Ruse (CK) HD nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/hucHD.flv?expire=1756170906&sign=bbcfde04067a7a27990e61321bb5cc17
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/d5705ae311023dd3ecad812d9354a136.png",02h10 Daria Kasatkina vs Elena-Gabriela Ruse (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/UltTsnggWeSOD2wovR55Kw/e94fbd8082e0d1238fcf5da3554b20e5/1756170906/live/_definst_/stream_1_1bda7@hucHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/d5705ae311023dd3ecad812d9354a136.png",02h10 Daria Kasatkina vs Elena-Gabriela Ruse (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/PCDiIdOuq5neQNK4To0GbQ/Fv2lucGIbhPi2caWYvF5Lg/1756170906354/live/hucSD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/d5705ae311023dd3ecad812d9354a136.png",02h10 Daria Kasatkina vs Elena-Gabriela Ruse (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/u8Dw1hmULBMJovtpYBKlhQ/f13af37e22c82318c65a375473fc75f2/1756170906/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/GGgeTGwS-OtN6V8lD.png",02h15 Estrela vs Alverca (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1132,12 +1044,6 @@ https://179939170.vipcdnlive.xyz/live/momsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939170.vipcdnlive.xyz/live/momhd2/playlist.m3u8
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164869048578.png?win007=sell",01h30 Sampdoria vs Modena (LS) BLV KENCHU m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/KENCHU/index.m3u8?expire=1892009160&sign=30771bf570c67e55c06cc8aead1099ee
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164869048578.png?win007=sell",01h30 Sampdoria vs Modena (LS) BLV KENCHU flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/KENCHU.flv?expire=1892009160&sign=30771bf570c67e55c06cc8aead1099ee
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/16486899691.png?win007=sell",01h45 Inter Milan vs Torino (LS) BLV PEP m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/PEP/index.m3u8?expire=1893053880&sign=564c32b51eeac728648e7ecc50574dc7
@@ -1542,18 +1448,6 @@ https://qtcdn.livestreameuro.live/live/momsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/momhd1.flv
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (Rổ) HD Nhanh
-https://rblive.starxcdn.xyz/live/689c9b0abe538a3f55a735b1_l7oqdehgn5kxr51_football_hd.flv
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (Rổ) FHD Nhanh
-https://rblive.starxcdn.xyz/live/689c9b0abe538a3f55a735b1_l7oqdehgn5kxr51_football_fhd.flv
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (Rổ) SD Nhanh
-https://rblive.starxcdn.xyz/live/689c9b0abe538a3f55a735b1_l7oqdehgn5kxr51_football_sd.flv
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (Rổ) FHD
-https://cr7.rbncdn.net/live/689c9b0abe538a3f55a735b1_l7oqdehgn5kxr51_football_fhd/playlist.m3u8
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (Rổ) HD
-https://cr7.rbncdn.net/live/689c9b0abe538a3f55a735b1_l7oqdehgn5kxr51_football_hd/playlist.m3u8
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",01h45 Inter Milan vs Torino (Rổ) SD
-https://cr7.rbncdn.net/live/689c9b0abe538a3f55a735b1_l7oqdehgn5kxr51_football_sd/playlist.m3u8
 #EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",02h00 Newcastle United vs Liverpool (Rổ) HD Nhanh
 https://rblive.starxcdn.xyz/live/689c20cf37c4edde592f58ea_l5ergph43evpr8k_football_hd.flv
 #EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",02h00 Newcastle United vs Liverpool (Rổ) FHD Nhanh
@@ -1678,10 +1572,6 @@ https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/may1hd1/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/2e50915484566b238deb96a290c2579c/image/small",21h30 AC Milan U20 vs Sassuolo U20 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/289592c7a6437a79732bbcbad7b83194/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/5c9902626d683007441dd8850c6874a1/image/small",22h00 Bistrica vs Dravinja (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1994,6 +1884,10 @@ https://live.alilicloud.com/live/0b96a4068f96476f3805ad83be98939f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/996a6143f076759328a96e71fc53a4a1/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/bc206405fbeb8df4272cd53eaa5bb055/image/small",23h00 Kristiansund B vs Ranheim B (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6434a9d147400c263b6aae093ae784ef/playlist.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",01h30 Istanbulspor vs Manisa Futbol Kulübü (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2162,10 +2056,6 @@ https://179939170.vipcdnlive.xyz/live/momsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939170.vipcdnlive.xyz/live/momhd2/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/2e50915484566b238deb96a290c2579c/image/small",21h30 AC Milan U20 vs Sassuolo U20 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/289592c7a6437a79732bbcbad7b83194/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/213b3cac208014648b95665b6b486d67/image/small",22h00 FC Haka vs SJK Seinajoen (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2506,14 +2396,10 @@ https://live.alilicloud.com/live/6434a9d147400c263b6aae093ae784ef/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b2c2d55a2f44c0ac5e987878bc21cb82/playlist.m3u8
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/164869048578.png?win007=sell",01h30 Sampdoria vs Modena (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANTAI/index.m3u8?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/164869048578.png?win007=sell",01h30 Sampdoria vs Modena (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANTAI.flv?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/aa6702ca867a529e87ee86e3bb15d2f9/image/small",23h15 Connahs Quay Nomads FC vs Flint Town (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/908f7d4c10242adee20dad5a6d1520bb/playlist.m3u8
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/16486899691.png?win007=sell",01h45 Inter Milan vs Torino (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
