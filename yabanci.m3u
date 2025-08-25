@@ -364,19 +364,7 @@ http://192.168.11.1:61292/udp/232.84.3.86:11542
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.66:11656
 #EXTINF:0 group-title="__THÔNG BÁO__",!!! Link XEM LẠI đã tách sang byvn.net/KHXg
-https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/1512b09d35eefb7978faafe82bbd5ad7/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68ac1d702f363_39936/index.m3u8?expire=1756714992&sign=a2d1501756ca6b499a11339a3a266e00
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68ac1d702f363_39936.flv?expire=1756714992&sign=a2d1501756ca6b499a11339a3a266e00
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ffbed3f08e379e5d77277e44ab151d45.png",16h00 Kaohsiung Attackers(w) vs Royal Thimphu College (W) 1 (Bc)
+https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ffbed3f08e379e5d77277e44ab151d45.png",16h00 Kaohsiung Attackers(w) vs Royal Thimphu College (W) 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/e4062c20e379878741a855d9fb07130b/playlist.m3u8
@@ -388,14 +376,6 @@ https://2893254555.global.cdnfastest.com/live/68ac20995bab7_4439/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68ac20995bab7_4439.flv?expire=1756715801&sign=ce66a2a3d767f3e82eb1af820faab7bf
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/66f93e2019c7c81e1b061611a176980f.jpg",16h50 Victor LAI vs Edward LAU [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68ac08975bab7_5160/index.m3u8?expire=1756709655&sign=7d80e61d029f9a0956d85d4d7a75aa5d
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/66f93e2019c7c81e1b061611a176980f.jpg",16h50 Victor LAI vs Edward LAU [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68ac08975bab7_5160.flv?expire=1756709655&sign=7d80e61d029f9a0956d85d4d7a75aa5d
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ce420e1c7a8b93f3dfe28434e89a3e41.png",17h00 KSPO FC (w) vs Sejong Gumi Sportstoto (w) 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -436,6 +416,14 @@ https://2893254555.global.cdnfastest.com/live/68ac2bf52f363_18754/index.m3u8?exp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68ac2bf52f363_18754.flv?expire=1756718709&sign=9e4c33a3a195c0c0597cce2c3faa77ee
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/de1481fb124139924751aff7749e542d.jpg",17h30 Ozge BAYRAK vs Tiffany HO [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68ac08975bab7_5160/index.m3u8?expire=1756709655&sign=7d80e61d029f9a0956d85d4d7a75aa5d
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/de1481fb124139924751aff7749e542d.jpg",17h30 Ozge BAYRAK vs Tiffany HO [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68ac08975bab7_5160.flv?expire=1756709655&sign=7d80e61d029f9a0956d85d4d7a75aa5d
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 Lion City Sailors (w) VS 6 Yard Etihad (W) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -476,6 +464,10 @@ https://apisportzz179528093.nsnd.live/oKD95mCErD1x2ROD760YyQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/HzdBoRhZweWfz1wyuhcyfg/Fv2lucGIbhPi2caWYvF5Lg/1756137912242/live/sd-6MvXbwHhuT4tafQZkw/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Young_Buffaloes_FC_logo.png",17h00 Young Buffaloes FC (W) VS Kick 4 Life (W) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/HpiRFjLeg61UA4h699hRvg/Fv2lucGIbhPi2caWYvF5Lg/1756139105374/live/sd-6MvXMSdmwSPL5HB1By/playlist.m3u8
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -556,30 +548,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@tichsd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@tichhd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (Cà Khịa) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@tichsd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (Cà Khịa) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@tichhd1.flv
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/ce420e1c7a8b93f3dfe28434e89a3e41.png",17h00 KSPO FC (w) vs Sejong Gumi Sportstoto (w) (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -740,30 +708,6 @@ https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m302nd/playlist.m3u8 
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (LẤY KINH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@tichsd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (LẤY KINH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@tichhd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (LẤY KINH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@tichsd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (LẤY KINH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@tichhd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (LẤY KINH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (LẤY KINH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e6165cf3cd270c14fa4fdef169f14a33.png",17h00 Real Pharma Ovidiopol vs Nyva Ternopil (LẤY KINH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -982,36 +926,6 @@ https://hls.cdnokvip.com/live/TUNINH1/index.m3u8?expire=1891146780&sign=21db2bd2
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10590/1gwbdv1r9x2w.PNG?win007=sell",17h00 Suwon FMC (W) vs Hyundai Steel Red Angels (W) (LS) BLV TỪ NINH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnokvip.com/live/TUNINH1.flv?expire=1891146780&sign=21db2bd274e66eaaae0e233d68ac0778
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322172925.gif?win007=sell",17h00 Gyeongju FC (W) vs Boeun Sangmu (W) (LS) BLV CÔNG TÔN THẮNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TONTHANG/index.m3u8?expire=1873178820&sign=a9dad0b342ee9e5777f0157a66f6dec3
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322172925.gif?win007=sell",17h00 Gyeongju FC (W) vs Boeun Sangmu (W) (LS) BLV CÔNG TÔN THẮNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/TONTHANG.flv?expire=1873178820&sign=a9dad0b342ee9e5777f0157a66f6dec3
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322172925.gif?win007=sell",17h00 Gyeongju FC (W) vs Boeun Sangmu (W) (LS) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TRIEUTULONG/index.m3u8?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322172925.gif?win007=sell",17h00 Gyeongju FC (W) vs Boeun Sangmu (W) (LS) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/TRIEUTULONG.flv?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322172925.gif?win007=sell",17h00 Gyeongju FC (W) vs Boeun Sangmu (W) (LS) BLV CHU ĐỒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/CHUDONG/index.m3u8?expire=1877328540&sign=d23dd3c15a3caf3c3899b3194cd885f1
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322172925.gif?win007=sell",17h00 Gyeongju FC (W) vs Boeun Sangmu (W) (LS) BLV CHU ĐỒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/CHUDONG.flv?expire=1877328540&sign=d23dd3c15a3caf3c3899b3194cd885f1
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322172925.gif?win007=sell",17h00 Gyeongju FC (W) vs Boeun Sangmu (W) (LS) BLV DƯƠNG QUÁ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/DUONGQUA/index.m3u8?expire=1861716660&sign=3f4bf2e90f2c526fd4224d754b1a2827
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322172925.gif?win007=sell",17h00 Gyeongju FC (W) vs Boeun Sangmu (W) (LS) BLV DƯƠNG QUÁ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/DUONGQUA.flv?expire=1861716660&sign=3f4bf2e90f2c526fd4224d754b1a2827
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322172925.gif?win007=sell",17h00 Gyeongju FC (W) vs Boeun Sangmu (W) (LS) BLV TRƯƠNG THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TRUONGTHANH/index.m3u8?expire=1841990040&sign=a6b7a90de4038295b000304e02b20e5a
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322172925.gif?win007=sell",17h00 Gyeongju FC (W) vs Boeun Sangmu (W) (LS) BLV TRƯƠNG THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/TRUONGTHANH.flv?expire=1841990040&sign=a6b7a90de4038295b000304e02b20e5a
 #EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1092,30 +1006,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@tichsd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@tichhd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (Ra Khơi) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@tichsd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (Ra Khơi) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@tichhd1.flv
 #EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/ce420e1c7a8b93f3dfe28434e89a3e41.png",17h00 KSPO FC (w) vs Sejong Gumi Sportstoto (w) (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1224,10 +1114,6 @@ https://wtyi0525.edgemaxcdn.org/live/x17y3-0217/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x17y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/262134_small.png",16:00 Dominican Republic vs Mexico (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke1x2/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5810_small.png",16:00 Canada vs Spain (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1420,6 +1306,10 @@ https://live.alilicloud.com/live/2fabee88447000b19b012ab6322a6519/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/240276f00aa3bed442472796d5ebecc1/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a7310022b3bb408b1633a74e4156e502/image/small",17h00 Gyeongju Korea Hydro & Nuclear Power WFC vs Mungyeong Sangmu WFC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b25341cce4cf3aa14c3480509412995b/playlist.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1508,30 +1398,6 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m302nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@tichsd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@tichhd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@tichsd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@tichhd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) vs Boeun Sangmu (w) (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/5856c2f4a854359864b18f9aed3f8874.png!w100",17h00 Đức (W) vs Việt Nam (w) (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1756,14 +1622,10 @@ https://live.alilicloud.com/live/2fabee88447000b19b012ab6322a6519/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/240276f00aa3bed442472796d5ebecc1/playlist.m3u8
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="",15h45 Ittihad Amman (W) vs Lion City Sailors (W) (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="",15h45 Ittihad Amman (W) vs Lion City Sailors (W) (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/a7310022b3bb408b1633a74e4156e502/image/small",17h00 Gyeongju Korea Hydro & Nuclear Power WFC vs Mungyeong Sangmu WFC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/b25341cce4cf3aa14c3480509412995b/playlist.m3u8
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20200416232902.png?win007=sell",16h00 Kaohsiung Sunny Bank (W) vs Royal Thimphu College (W) (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1812,7 +1674,7 @@ https://hls.cdnvankhanh.com/live/VANDO/index.m3u8?expire=1892812920&sign=a0a29c9
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANDO.flv?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
-# Last forced update: 2025-08-25T09:59:40.332625Z
+# Last forced update: 2025-08-25T10:41:13.779004Z
 #EXTINF:-1  tvg-name="13th Street DE" tvg-id="skyde/13thstreet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/13th-street-de.png?raw=true" group-title="UDPTV Live Streams",13th Street DE
 https://ott.udptv.xyz/stream/skyde/13thstreet/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="A2Z" tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-title="UDPTV Live Streams",A2Z
@@ -4941,7 +4803,7 @@ http://178.134.1.158:8081/viasatsport/index.m3u8
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="🎎|Selection Sport|🎎", Setanta Sports 2
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
-# Last forced update: 2025-08-25T10:20:39.051739Z
+# Last forced update: 2025-08-25T10:41:13.779004Z
 #EXTINF:-1  tvg-name="13th Street DE" tvg-id="skyde/13thstreet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/13th-street-de.png?raw=true" group-title="UDPTV Live Streams",13th Street DE
 https://ott.udptv.xyz/stream/skyde/13thstreet/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="A2Z" tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-title="UDPTV Live Streams",A2Z
