@@ -3,7 +3,6 @@ import requests
 # Birleştirmek istediğin M3U dosyalarının URL'leri
 m3u_urls = [
     "https://raw.githubusercontent.com/kadirsener1/CanliTvListe/refs/heads/main/1.m3u",
-    "https://raw.githubusercontent.com/koprulu5564/trgoals2/refs/heads/main/trgoals2.m3u",
 ]
 
 # Çıktı dosyası adı
