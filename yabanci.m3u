@@ -408,6 +408,10 @@ https://2893254555.global.cdnfastest.com/live/68adb3002f364_5601/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68adb3002f364_5601.flv?expire=1756818816&sign=10b629614563e61450b2364347d6f405
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/8fab07dcd3e3136d859c697773e09caa.png",23h30 Austria Lustenau vs Kapfenberg 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/fad387af61f9e3b63b5e473d5f34456e/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/b3935cdb536302f05f8155ea5bf0f283.webp",23h30 Jannik Sinner vs Vit Kopriva [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -424,6 +428,14 @@ https://2893254555.global.cdnfastest.com/live/68addb365bab8_39467/index.m3u8?exp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68addb365bab8_39467.flv?expire=1756829110&sign=420f9e79012ee81ee4b77020dae0a2c5
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68ade1912f364_5153/index.m3u8?expire=1756830737&sign=e9bec2ea16461c513285c8a27e51b03e
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68ade1912f364_5153.flv?expire=1756830737&sign=e9bec2ea16461c513285c8a27e51b03e
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png!w100",20h30 Thái Lan (w) vs Hà Lan (W) (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -660,10 +672,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@tichsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@tichhd1.flv
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/8fab07dcd3e3136d859c697773e09caa.png",23h30 Austria Lustenau vs Kapfenberg (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Madagascar.png",21h30 Madagascar vs Sudan (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -684,10 +692,6 @@ https://apisportzz179528093.nsnd.live/E9wY3osC-49Qez01Tp6lyg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/gHZpD7xFs6RDX5Fnyko6VA/Fv2lucGIbhPi2caWYvF5Lg/1756242311787/live/sd-6MuPtLXY31zBSaAUG3/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/80a22815bd9c41c56b2aa57553046d81.png",22h00 Suzan Lamens vs Valerie Glozman (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ttL_O__zIoKs-pJkGmdQag/Fv2lucGIbhPi2caWYvF5Lg/1756242607358/live/may17/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/54e0d5a1af27fe927230f7500b8e7098.png",22h00 Matteo Arnaldi vs Francisco Cerundolo (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -800,6 +804,10 @@ https://hotlivezz179602324.akainu.xyz/LEor-bNg740S3iAC5v8ZTQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-xlvb.nsnd.live/VG7I5GZkbd48FYytskgSLQ/6b78b4ff262c15bca3bdb372d5d5d695/1756245915/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/8fab07dcd3e3136d859c697773e09caa.png",23h30 Austria Lustenau VS Kapfenberg (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Y-AIlEaCYIY8HxeE2t04jg/Fv2lucGIbhPi2caWYvF5Lg/1756247708514/live/sd-6MvXMPGt95mmEeMdfH/playlist.m3u8
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png!w100",20h30 Thái Lan (w) vs Hà Lan (W) (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1012,10 +1020,30 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoihd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/8fab07dcd3e3136d859c697773e09caa.png",23h30 Austria Lustenau vs Kapfenberg (Cà Khịa) Nhà đài
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lansd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lanhd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (Cà Khịa) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (Cà Khịa) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png!w100",20h30 Thái Lan (w) vs Hà Lan (W) (LẤY KINH) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1228,10 +1256,54 @@ https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/8fab07dcd3e3136d859c697773e09caa.png",23h30 Austria Lustenau vs Kapfenberg (LẤY KINH) Nhà đài
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (LẤY KINH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
+https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lansd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lanhd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018829121.png?win007=sell",21h30 Madagascar vs Sudan (LS) BLV KEVILL m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/KEVILL/index.m3u8?expire=1843660560&sign=c10b696ab4978fc4e5b85f2a2e842ab1
@@ -1244,24 +1316,12 @@ https://hls.cdnokvip.com/live/VITIEUBAO/index.m3u8?expire=1892967540&sign=3e0776
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018829121.png?win007=sell",21h30 Madagascar vs Sudan (LS) BLV VI TIỂU BẢO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnokvip.com/live/VITIEUBAO.flv?expire=1892967540&sign=3e07769216ee7d607fcc3b2807131a66
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018829121.png?win007=sell",21h30 Madagascar vs Sudan (LS) BLV TRƯƠNG VÔ KỴ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/VOKY/index.m3u8?expire=1873178820&sign=c47c50264a61b6bc86366646a533d178
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018829121.png?win007=sell",21h30 Madagascar vs Sudan (LS) BLV TRƯƠNG VÔ KỴ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/VOKY.flv?expire=1873178820&sign=c47c50264a61b6bc86366646a533d178
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018829121.png?win007=sell",21h30 Madagascar vs Sudan (LS) BLV HOA VINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/LOELOE6380K/index.m3u8?expire=1892013720&sign=8f511e15e38eb664f3f436cc2521eb10
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018829121.png?win007=sell",21h30 Madagascar vs Sudan (LS) BLV HOA VINH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnokvip.com/live/LOELOE6380K.flv?expire=1892013720&sign=8f511e15e38eb664f3f436cc2521eb10
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018829121.png?win007=sell",21h30 Madagascar vs Sudan (LS) BLV KAKA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/KAKA/index.m3u8?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018829121.png?win007=sell",21h30 Madagascar vs Sudan (LS) BLV KAKA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/KAKA.flv?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1741609025.jfif",22h00 Braga U23 vs Vizela U23 (LS) BLV ZORO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/ZORO/index.m3u8?expire=1891756320&sign=f1ddd14e4e981f2742fe828bfbf48623
@@ -1606,10 +1666,54 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoihd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/8fab07dcd3e3136d859c697773e09caa.png",23h30 Austria Lustenau vs Kapfenberg (Ra Khơi) Nhà đài
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
+https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (Ra Khơi) Lử SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lusd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (Ra Khơi) Lử HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@luhd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lansd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lanhd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (Ra Khơi) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (Ra Khơi) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1.flv
 #EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/b3a153ec4be947cbee37d78cead6552b.png",21h30 Madagascar vs Sudan (Rổ) HD Nhanh
 https://rblive.starxcdn.xyz/live/689c7d152eeb894ab75a5340_6ypq3nhv4wl6md7_football_hd.flv
 #EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/b3a153ec4be947cbee37d78cead6552b.png",21h30 Madagascar vs Sudan (Rổ) FHD Nhanh
@@ -1622,6 +1726,18 @@ https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_6ypq3nhv4wl6md7_football_fh
 https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_6ypq3nhv4wl6md7_football_hd/playlist.m3u8
 #EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/b3a153ec4be947cbee37d78cead6552b.png",21h30 Madagascar vs Sudan (Rổ) SD
 https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_6ypq3nhv4wl6md7_football_sd/playlist.m3u8
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (Rổ) HD Nhanh
+https://rblive.starxcdn.xyz/live/689c8fd35ae37172a548f9ed_y0or5jh8186dqwz_football_hd.flv
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (Rổ) FHD Nhanh
+https://rblive.starxcdn.xyz/live/689c8fd35ae37172a548f9ed_y0or5jh8186dqwz_football_fhd.flv
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (Rổ) SD Nhanh
+https://rblive.starxcdn.xyz/live/689c8fd35ae37172a548f9ed_y0or5jh8186dqwz_football_sd.flv
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (Rổ) FHD
+https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_y0or5jh8186dqwz_football_fhd/playlist.m3u8
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (Rổ) HD
+https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_y0or5jh8186dqwz_football_hd/playlist.m3u8
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (Rổ) SD
+https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_y0or5jh8186dqwz_football_sd/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",14:00 Giải Cầu lông vs Vô địch Thế giới (Sao kê) SÂN 4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1690,10 +1806,6 @@ https://stm6dad71710204.stream.hdplaylink.com/sklive/x6y2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x5/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/21fa7cc1f72af72dee14a1e8eafcf862/image/small",17h30 Eastern Suburbs SC Women vs Brisbane City Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8df4b045e80fdaebb13daa56909e070a/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/67a6d658f7b7597c6fea89a55ac528f1/image/small",19h00 Tunisia U21 vs Ukraine U21 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1746,34 +1858,38 @@ https://live4.fastestcdn-global.com/live4/ea493950b94f4bb890f12e2db628b837_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live4.fastestcdn-global.com/live4/ea493950b94f4bb890f12e2db628b837_720/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/3db9141614cc58320e9e5f347619b335/image/small",02h00 Sheffield Wednesday vs Leeds United (Khán Đài A) source
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/de8a6e3c7cbff02a4ada403d7c3a9d50/image/small",23h45 FC Kairat Almaty vs Celtic FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5aa4c7324c1c643c6441bfe1708393aa/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/3db9141614cc58320e9e5f347619b335/image/small",02h00 Sheffield Wednesday vs Leeds United (Khán Đài A) sd_1
+https://live.alilicloud.com/live/ba7972d828381d580fd1363ba8281804/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/de8a6e3c7cbff02a4ada403d7c3a9d50/image/small",23h45 FC Kairat Almaty vs Celtic FC (Khán Đài A) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/0a1f532e58b34e8d9304dd46a803d6e8_480/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/3db9141614cc58320e9e5f347619b335/image/small",02h00 Sheffield Wednesday vs Leeds United (Khán Đài A) hd_1
+https://stm02bc48435558.stream.hdplaylink.com/live3/53c88ae4a4d04a59bd5debf7981b48ab_480/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/de8a6e3c7cbff02a4ada403d7c3a9d50/image/small",23h45 FC Kairat Almaty vs Celtic FC (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/0a1f532e58b34e8d9304dd46a803d6e8_720/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/3db9141614cc58320e9e5f347619b335/image/small",02h00 Sheffield Wednesday vs Leeds United (Khán Đài A) sd_2
+https://stm02bc48435558.stream.hdplaylink.com/live3/53c88ae4a4d04a59bd5debf7981b48ab_720/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/de8a6e3c7cbff02a4ada403d7c3a9d50/image/small",23h45 FC Kairat Almaty vs Celtic FC (Khán Đài A) sd_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/0a1f532e58b34e8d9304dd46a803d6e8_480/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/3db9141614cc58320e9e5f347619b335/image/small",02h00 Sheffield Wednesday vs Leeds United (Khán Đài A) hd_2
+https://live3.fastestcdn-global.com/live3/53c88ae4a4d04a59bd5debf7981b48ab_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/de8a6e3c7cbff02a4ada403d7c3a9d50/image/small",23h45 FC Kairat Almaty vs Celtic FC (Khán Đài A) hd_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/0a1f532e58b34e8d9304dd46a803d6e8_720/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/3db9141614cc58320e9e5f347619b335/image/small",02h00 Sheffield Wednesday vs Leeds United (Khán Đài A) sd_3
+https://live3.fastestcdn-global.com/live3/53c88ae4a4d04a59bd5debf7981b48ab_720/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/de8a6e3c7cbff02a4ada403d7c3a9d50/image/small",23h45 FC Kairat Almaty vs Celtic FC (Khán Đài A) sd_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/0a1f532e58b34e8d9304dd46a803d6e8_480/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/3db9141614cc58320e9e5f347619b335/image/small",02h00 Sheffield Wednesday vs Leeds United (Khán Đài A) hd_3
+https://live4.fastestcdn-global.com/live4/53c88ae4a4d04a59bd5debf7981b48ab_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/de8a6e3c7cbff02a4ada403d7c3a9d50/image/small",23h45 FC Kairat Almaty vs Celtic FC (Khán Đài A) hd_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/0a1f532e58b34e8d9304dd46a803d6e8_720/index.m3u8
+https://live4.fastestcdn-global.com/live4/53c88ae4a4d04a59bd5debf7981b48ab_720/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a62df992983252f66df09c029ed37ff7/image/small",23h30 SC Austria Lustenau vs Kapfenberg SV 1919 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/fad387af61f9e3b63b5e473d5f34456e/playlist.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png!w100",20h30 Thái Lan (w) vs Hà Lan (W) (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1986,10 +2102,54 @@ https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/8fab07dcd3e3136d859c697773e09caa.png",23h30 Austria Lustenau vs Kapfenberg (QUAY TAY) Nhà đài
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
+https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/3ef04912f88c3166f1a47864cde71949.png",23h45 FC Kairat Almaty vs Celtic FC (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lansd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lanhd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/7774a1be5a0fb551d44ba25244760edd.png",00h00 Kalmar vs Helsingborg (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132450_f5f26915.png",23h45 ngày 26 Kairat Almaty vs Celtic (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2242,6 +2402,10 @@ https://stm02bc43163716.stream.hdplaylink.com/live7/2ce897298466486b8045fabea0c7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc43163716.stream.hdplaylink.com/live7/2ce897298466486b8045fabea0c7eefa_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/a62df992983252f66df09c029ed37ff7/image/small",23h30 SC Austria Lustenau vs Kapfenberg SV 1919 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/fad387af61f9e3b63b5e473d5f34456e/playlist.m3u8
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/165018829121.png?win007=sell",21h30 Madagascar vs Sudan (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
