@@ -372,18 +372,6 @@ https://2893254555.global.cdnfastest.com/live/68aefb425bab8_5601/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68aefb425bab8_5601.flv?expire=1756902850&sign=f8e8ca753dadcae75f0c06d38299ca0c
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",20h15 Krylya Sovetov vs Dynamo Moscow 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/f7888a20efffcf001342ed2bd8571d6a/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",20h15 Krylya Sovetov vs Dynamo Moscow [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68aefbc72f364_103/index.m3u8?expire=1756902983&sign=06121df58b46490ef5c04e0fcf611c5a
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",20h15 Krylya Sovetov vs Dynamo Moscow [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68aefbc72f364_103.flv?expire=1756902983&sign=06121df58b46490ef5c04e0fcf611c5a
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/462fdf966375be2082e2437dc8e90912.png",20h30 Ba Lan vs Đức [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -432,6 +420,10 @@ https://2893254555.global.cdnfastest.com/live/68aede595bab8_42127/index.m3u8?exp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68aede595bab8_42127.flv?expire=1756895449&sign=c5810f744f29eadd64db7b7b228e027e
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FC Sochi vs FK Krasnodar 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/66f0819c3ca694ebf5da5ca49af4ac3f/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FC Sochi vs FK Krasnodar [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -480,10 +472,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1.flv
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/9e033dde06190d44817b6e37a4bc0b2b.png",20h30 Dinamo Samarqand vs Shurtan Guzor (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m105qt/playlist.m3u8
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/1f47cef5e38c952f94c5d61726027439.png!w100",20h30 Poland (w) vs Germany (w) (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -644,10 +632,78 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m303nd/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/743394beff4b1282ba735e5e3723ed74.jpg",22h30 Follo vs Lyn Oslo (CH) Nhà đài
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
+https://179939170.vipcdnlive.xyz/live/momsd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/momhd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momsd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momsd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nungsd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nunghd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/nungsd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/nunghd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",20h15 Krylya Sovetov vs Dynamo Moscow (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1068,10 +1124,30 @@ https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/743394beff4b1282ba735e5e3723ed74.jpg",22h30 Follo vs Lyn Oslo (Cà Khịa) Nhà đài
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
+https://179939170.vipcdnlive.xyz/live/momsd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/momhd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momsd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (Cà Khịa) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momsd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (Cà Khịa) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Herentals_Queens_logo.jpg",20h00 Herentals Queens (W) vs Olympic de Moroni (W) (LẤY KINH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1100,10 +1176,6 @@ https://ckhot-179939170.cdnfree.pro/live/musd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/muhd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/9e033dde06190d44817b6e37a4bc0b2b.png",20h30 Dinamo Samarqand vs Shurtan Guzor (LẤY KINH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m105qt/playlist.m3u8
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",20h15 Krylya Sovetov vs Dynamo Moscow (LẤY KINH) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1288,70 +1360,78 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m303nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/743394beff4b1282ba735e5e3723ed74.jpg",22h30 Follo vs Lyn Oslo (LẤY KINH) Nhà đài
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (LẤY KINH) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",20h15 Krylya Sovetov vs Dynamo Moscow (LS) BLV KEVILL m3u
+https://qtcdn.livestreameuro.live/live/momsd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (LẤY KINH) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/KEVILL/index.m3u8?expire=1843660560&sign=c10b696ab4978fc4e5b85f2a2e842ab1
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",20h15 Krylya Sovetov vs Dynamo Moscow (LS) BLV KEVILL flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (LẤY KINH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/KEVILL.flv?expire=1843660560&sign=c10b696ab4978fc4e5b85f2a2e842ab1
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",20h15 Krylya Sovetov vs Dynamo Moscow (LS) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/momsd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (LẤY KINH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TRIEUTULONG/index.m3u8?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",20h15 Krylya Sovetov vs Dynamo Moscow (LS) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (LẤY KINH) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/TRIEUTULONG.flv?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",20h15 Krylya Sovetov vs Dynamo Moscow (LS) BLV NHỊ KA m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/momsd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (LẤY KINH) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/NHIKA1/index.m3u8?expire=1893162300&sign=8d891171b693962b26ed1e3528cdaf2a
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",20h15 Krylya Sovetov vs Dynamo Moscow (LS) BLV NHỊ KA flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/momhd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (LẤY KINH) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/NHIKA1.flv?expire=1893162300&sign=8d891171b693962b26ed1e3528cdaf2a
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",20h15 Krylya Sovetov vs Dynamo Moscow (LS) BLV NGŨ CA m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (LẤY KINH) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/NGUCA/index.m3u8?expire=1873178820&sign=048e17f5ad626d49d56198ff1419c2e9
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",20h15 Krylya Sovetov vs Dynamo Moscow (LS) BLV NGŨ CA flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (LẤY KINH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/NGUCA.flv?expire=1873178820&sign=048e17f5ad626d49d56198ff1419c2e9
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",20h15 Krylya Sovetov vs Dynamo Moscow (LS) BLV ZORO m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (LẤY KINH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/ZORO/index.m3u8?expire=1891756320&sign=f1ddd14e4e981f2742fe828bfbf48623
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",20h15 Krylya Sovetov vs Dynamo Moscow (LS) BLV ZORO flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (LẤY KINH) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/ZORO.flv?expire=1891756320&sign=f1ddd14e4e981f2742fe828bfbf48623
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9912/1h6swyvem71m.png?win007=sell",20h30 Dinamo Samarqand vs Shurtan Guzor (LS) BLV TRƯƠNG THANH m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (LẤY KINH) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TRUONGTHANH/index.m3u8?expire=1841990040&sign=a6b7a90de4038295b000304e02b20e5a
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9912/1h6swyvem71m.png?win007=sell",20h30 Dinamo Samarqand vs Shurtan Guzor (LS) BLV TRƯƠNG THANH flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (LẤY KINH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/TRUONGTHANH.flv?expire=1841990040&sign=a6b7a90de4038295b000304e02b20e5a
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9912/1h6swyvem71m.png?win007=sell",20h30 Dinamo Samarqand vs Shurtan Guzor (LS) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nungsd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (LẤY KINH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/QUANVU/index.m3u8?expire=1856940180&sign=ba4f215f940638a709b2f47036e1078f
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9912/1h6swyvem71m.png?win007=sell",20h30 Dinamo Samarqand vs Shurtan Guzor (LS) BLV QUAN VŨ flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nunghd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (LẤY KINH) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnokvip.com/live/QUANVU.flv?expire=1856940180&sign=ba4f215f940638a709b2f47036e1078f
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9912/1h6swyvem71m.png?win007=sell",20h30 Dinamo Samarqand vs Shurtan Guzor (LS) BLV KAKA m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (LẤY KINH) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/KAKA/index.m3u8?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9912/1h6swyvem71m.png?win007=sell",20h30 Dinamo Samarqand vs Shurtan Guzor (LS) BLV KAKA flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (LẤY KINH) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/KAKA.flv?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9912/1h6swyvem71m.png?win007=sell",20h30 Dinamo Samarqand vs Shurtan Guzor (LS) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (LẤY KINH) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/LYUNG1/index.m3u8?expire=1892637000&sign=9e3eb83ad3d4934128de4e70bd09eff2
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9912/1h6swyvem71m.png?win007=sell",20h30 Dinamo Samarqand vs Shurtan Guzor (LS) BLV LÝ ỨNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/LYUNG1.flv?expire=1892637000&sign=9e3eb83ad3d4934128de4e70bd09eff2
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9912/1h6swyvem71m.png?win007=sell",20h30 Dinamo Samarqand vs Shurtan Guzor (LS) BLV PHONG VÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/PHONGVAN/index.m3u8?expire=1861716660&sign=0ce887abc0189ffdc7842fb929b2aeae
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9912/1h6swyvem71m.png?win007=sell",20h30 Dinamo Samarqand vs Shurtan Guzor (LS) BLV PHONG VÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/PHONGVAN.flv?expire=1861716660&sign=0ce887abc0189ffdc7842fb929b2aeae
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/60637/1gqrk4a3mj3.png?win007=sell",21h00 SK Brann (W) vs Inter Milan (W) (LS) BLV DƯƠNG HÙNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/BLVDUONGHUNG1/index.m3u8?expire=1892728380&sign=f838ff4fb6091a2925ec658011875e7a
@@ -1400,6 +1480,18 @@ https://flv.cdnokvip.com/live/VUONGANH.flv?expire=1861716660&sign=02fefa0e2833e6
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/6345/1gv5cw5ztp7.png?win007=sell",21h30 CS Sanatatea Cluj vs FC Unirea 2004 Slobozia (LS) BLV DƯƠNG KHANG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2451/1gtqm0cjh82.png?win007=sell",22h30 FK Sochi vs FC Krasnodar (LS) BLV PEP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/PEP/index.m3u8?expire=1893053880&sign=564c32b51eeac728648e7ecc50574dc7
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2451/1gtqm0cjh82.png?win007=sell",22h30 FK Sochi vs FC Krasnodar (LS) BLV PEP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnokvip.com/live/PEP.flv?expire=1893053880&sign=564c32b51eeac728648e7ecc50574dc7
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2451/1gtqm0cjh82.png?win007=sell",22h30 FK Sochi vs FC Krasnodar (LS) BLV VI TIỂU BẢO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/VITIEUBAO/index.m3u8?expire=1892967540&sign=3e07769216ee7d607fcc3b2807131a66
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2451/1gtqm0cjh82.png?win007=sell",22h30 FK Sochi vs FC Krasnodar (LS) BLV VI TIỂU BẢO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnokvip.com/live/VITIEUBAO.flv?expire=1892967540&sign=3e07769216ee7d607fcc3b2807131a66
 #EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",20h00 AS Roma (w) vs S  ZHFK Aktobe (W) (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1652,22 +1744,66 @@ https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/743394beff4b1282ba735e5e3723ed74.jpg",22h30 Follo vs Lyn Oslo (Ra Khơi) Nhà đài
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",20h15 Krylya Sovetov vs Dynamo Moscow (Rổ) HD Nhanh
-https://rblive.starxcdn.xyz/live/689c20cf37c4edde592f58ea_965mkyhkendpr1g_football_hd.flv
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",20h15 Krylya Sovetov vs Dynamo Moscow (Rổ) FHD Nhanh
-https://rblive.starxcdn.xyz/live/689c20cf37c4edde592f58ea_965mkyhkendpr1g_football_fhd.flv
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",20h15 Krylya Sovetov vs Dynamo Moscow (Rổ) SD Nhanh
-https://rblive.starxcdn.xyz/live/689c20cf37c4edde592f58ea_965mkyhkendpr1g_football_sd.flv
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",20h15 Krylya Sovetov vs Dynamo Moscow (Rổ) FHD
-https://cr7.rbncdn.net/live/689c20cf37c4edde592f58ea_965mkyhkendpr1g_football_fhd/playlist.m3u8
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",20h15 Krylya Sovetov vs Dynamo Moscow (Rổ) HD
-https://cr7.rbncdn.net/live/689c20cf37c4edde592f58ea_965mkyhkendpr1g_football_hd/playlist.m3u8
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",20h15 Krylya Sovetov vs Dynamo Moscow (Rổ) SD
-https://cr7.rbncdn.net/live/689c20cf37c4edde592f58ea_965mkyhkendpr1g_football_sd/playlist.m3u8
+https://179939170.vipcdnlive.xyz/live/momsd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/momhd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momsd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momsd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nungsd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nunghd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FC Sochi vs FK Krasnodar (Rổ) HD Nhanh
+https://rblive.starxcdn.xyz/live/689c9b0abe538a3f55a735b1_y39mp1h6y1lvmoj_football_hd.flv
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FC Sochi vs FK Krasnodar (Rổ) FHD Nhanh
+https://rblive.starxcdn.xyz/live/689c9b0abe538a3f55a735b1_y39mp1h6y1lvmoj_football_fhd.flv
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FC Sochi vs FK Krasnodar (Rổ) SD Nhanh
+https://rblive.starxcdn.xyz/live/689c9b0abe538a3f55a735b1_y39mp1h6y1lvmoj_football_sd.flv
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FC Sochi vs FK Krasnodar (Rổ) FHD
+https://cr7.rbncdn.net/live/689c9b0abe538a3f55a735b1_y39mp1h6y1lvmoj_football_fhd/playlist.m3u8
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FC Sochi vs FK Krasnodar (Rổ) HD
+https://cr7.rbncdn.net/live/689c9b0abe538a3f55a735b1_y39mp1h6y1lvmoj_football_hd/playlist.m3u8
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FC Sochi vs FK Krasnodar (Rổ) SD
+https://cr7.rbncdn.net/live/689c9b0abe538a3f55a735b1_y39mp1h6y1lvmoj_football_sd/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",14:00 Giải Cầu lông vs Vô địch Thế giới (Sao kê) SÂN 4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1744,6 +1880,18 @@ https://wtyi0525.edgemaxcdn.org/live/saoke4x2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x8/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/195601_small.png",22:30 Sochi và Krasnodar (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x16y1/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/195601_small.png",22:30 Sochi và Krasnodar (Sao kê) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x16y3-0130/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/195601_small.png",22:30 Sochi và Krasnodar (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x16y2/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/cce24c0c1f9718605cf570ab1ac1638f/image/small",16h30 Suruchi Sangha vs Bengal Nagpur Railway FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2264,10 +2412,78 @@ https://qtcdn.livestreameuro.live/live/nguumavuongsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/743394beff4b1282ba735e5e3723ed74.jpg",22h30 Follo vs Lyn Oslo (QUAY TAY) Nhà đài
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
+https://qtcdn.livestreameuro.live/live/momsd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/momsd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/momsd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6f2f50342dc0a240f8d65efd7e3023aa.png",22h30 FK Sochi vs FC Krasnodar (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/momhd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",23h00 Kauno Zalgiris vs Hegelmann Litauen (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nungsd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nunghd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/debfa04038fad9c9ec388f9146800d1b.png",23h00 FC Dornbirn vs Red Bull Salzburg (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://media.api-sports.io/volley/teams/2224.png",20h30 ngày 27 Poland W vs Germany W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2289,30 +2505,6 @@ https://cyber.chuoichien.tv/chuoitay.flv
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://media.api-sports.io/volley/teams/2224.png",20h30 ngày 27 Poland W vs Germany W (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133811_25a30272.png",22h30 ngày 27 FC Sochi vs FC Krasnodar (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133811_25a30272.png",22h30 ngày 27 FC Sochi vs FC Krasnodar (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133811_25a30272.png",22h30 ngày 27 FC Sochi vs FC Krasnodar (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133811_25a30272.png",22h30 ngày 27 FC Sochi vs FC Krasnodar (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133811_25a30272.png",22h30 ngày 27 FC Sochi vs FC Krasnodar (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133811_25a30272.png",22h30 ngày 27 FC Sochi vs FC Krasnodar (Chuối Chiên) SD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitay.flv
@@ -2436,14 +2628,6 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/cce24c0c1f9718605cf570ab1ac1638f/image/small",16h30 Suruchi Sangha vs Bengal Nagpur Railway FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a2ec1bcb8b31a69c3c72c86506f4d87f/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/1bd4885fe7fa6aa418c23fa161514ecd/image/small",16h30 Nagoya Grampus vs Sanfrecce Hiroshima (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c3ad8c2018ffd6b85574340a0e7f18ff/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/fce3f7a2ca4eee49388f6bceb5418432/image/small",17h00 Gaborone United (W) vs Kick 4 Life (W) (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2552,22 +2736,10 @@ https://live.alilicloud.com/live/50703c748e4cfec59f372463fdcc3256/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/57918da27470cfef9bfcf6bd56635517/playlist.m3u8
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/165095551520.png?win007=sell",20h15 Krylya Sovetov vs Dynamo Moscow (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANVY/index.m3u8?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/165095551520.png?win007=sell",20h15 Krylya Sovetov vs Dynamo Moscow (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANVY.flv?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/9912/1h6swyvem71m.png?win007=sell",20h30 Dinamo Samarqand vs Shurtan Guzor (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANMILAN/index.m3u8?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/9912/1h6swyvem71m.png?win007=sell",20h30 Dinamo Samarqand vs Shurtan Guzor (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANMILAN.flv?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/057407ac216f8188d2ae7a590fdb7935/image/small",22h30 FC Sochi vs FK Krasnodar (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/66f0819c3ca694ebf5da5ca49af4ac3f/playlist.m3u8
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/60637/1gqrk4a3mj3.png?win007=sell",21h00 SK Brann (W) vs Inter Milan (W) (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -2584,6 +2756,14 @@ https://flv.cdnvankhanh.com/live/VANNHOM.flv?expire=1891841280&sign=67c3f970d8b3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANKHANG.flv?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/2451/1gtqm0cjh82.png?win007=sell",22h30 FK Sochi vs FC Krasnodar (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/2451/1gtqm0cjh82.png?win007=sell",22h30 FK Sochi vs FC Krasnodar (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
 # Generated: 2025-08-26T14:08:07.229468+00:00 UTC
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - EFL Trophy : Oldham Athletic vs Manchester City U21 (Aug 26, 2025 6:00 PM UK / Aug 26, 2025 11:00 AM MT / Aug 26, 2025 1:00 PM EST)
@@ -3229,29 +3409,29 @@ https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="🎎|Selection Sport|🎎", Setanta Sports 2
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="skyspnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_sports_news_2021_logo.svg/1200px-Sky_sports_news_2021_logo.svg.png",Sky Sports News
-http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:11:4F:9F&stream=11125&extension=ts&play_token=AZOZpa5D6p
+http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/116391
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
-http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/98783.ts
+http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/56239
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="skypl" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",Sky Sport Premier League
-http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/98775.ts
+http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/193624
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
-http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/98857.ts
+http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/193623
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="skytennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1200px-Sky_Sport_Tennis.svg.png",Sky Sport Tennis
-http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/118612.ts
+http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/193622
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="spd" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
 http://filex.me:8080/live/drzain/002808/293609.ts
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
 http://sansat.cc:88/02025033583654/1680219086/126831
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
-http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/110708.ts
+http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/102234
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="tnt2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 4Mbps for 4G
-http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/89213.ts
+http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/102235
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="tnt3" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3 4Mbps for 4G
-http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/89212.ts
+http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/102257
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="tnt4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4 4Mbps for 4G
-http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/89211.ts
+http://filex.me:8080/live/drzain/002808/495261.ts
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="tnt5" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/tntsport5.png",TNT Sports 5 4Mbps for 4G
-http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/100702.ts
+http://filex.me:8080/live/drzain/002808/495262.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="⚽| SPOTV",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
