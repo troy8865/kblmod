@@ -6,7 +6,7 @@ import requests
 import urllib.parse
 
 # İşlenecek olan M3U dosyasının URL'si
-SOURCE_URL = "https://raw.githubusercontent.com/zerodayip/m3u8file/main/rec%2Frecfilm.m3u"
+SOURCE_URL = "https://raw.githubusercontent.com/zerodayip/m3u8file/refs/heads/main/rec/recfilm.m3u"
 # Çıktı dosyasının adı
 OUTPUT_FILE = "biyokimya.m3u"
 # Kullanılacak olan sabit User-Agent değeri
