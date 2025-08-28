@@ -1,0 +1,50 @@
+# İş akışının adı
+name: Update IPTV Playlist
+
+# Bu iş akışını neyin tetikleyeceğini belirler
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+# YENİ EKLENEN KISIM: İş akışına yazma izni veriyoruz
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Adım: Depodaki kodları sanal makineye indirir
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # 2. Adım: Python 3.x ortamını kurar
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # 3. Adım: Gerekli Python kütüphanelerini yükler
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pyyaml
+
+      # 4. Adım: Python betiğimizi çalıştırarak listeyi dönüştürür
+      - name: Run the conversion script
+        run: python iptv_converter.py
+
+      # 5. Adım: Oluşturulan yeni dosyayı depoya geri commit'ler
+      - name: Commit and push if there are changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: Otomatik IPTV listesi güncellemesi"
+          file_pattern: "donusturulmus_liste.m3u8"
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
+          commit_author: "GitHub Actions Bot <actions@github.com>"
