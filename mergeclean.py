@@ -4,9 +4,9 @@ import re
 from datetime import datetime
 
 playlist_urls = [
-    "https://raw.githubusercontent.com/ahmet21ahmet/F-n/refs/heads/main/scripts/canli-tv.m3u",
-    "https://raw.githubusercontent.com/ahmet21ahmet/F-n/refs/heads/main/scripts/filmler.m3u",
     "https://raw.githubusercontent.com/ahmet21ahmet/F-n/refs/heads/main/scripts/diziler.m3u",
+    "https://raw.githubusercontent.com/ahmet21ahmet/F-n/refs/heads/main/scripts/filmler.m3u",
+    "https://raw.githubusercontent.com/ahmet21ahmet/F-n/refs/heads/main/scripts/canli-tv.m3u",
     
    
 ]
