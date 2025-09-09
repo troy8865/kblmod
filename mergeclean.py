@@ -9,7 +9,6 @@ playlist_urls = [
     "https://tabiptv.sbs/?action=get-m3u&source=trgoals",
     "https://tabiptv.sbs/?action=get-m3u&source=7-24-mac-tabiptv",
     "https://tabiptv.sbs/?action=get-m3u&source=justsporthd",
-    "https://cine10giris.org.tr/ulusaltv.m3u",
 ]
 
 UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
