@@ -4,11 +4,11 @@ import re
 from datetime import datetime
 
 playlist_urls = [
-    "https://tabiptv.sbs/?action=get-m3u&source=selcuk",
-    "https://tabiptv.sbs/?action=get-m3u&source=3taraftarium24",
-    "https://tabiptv.sbs/?action=get-m3u&source=trgoals",
-    "https://tabiptv.sbs/?action=get-m3u&source=7-24-mac-tabiptv",
-    "https://tabiptv.sbs/?action=get-m3u&source=justsporthd",
+    "https://cine10giris.org.tr/ulusaltv.m3u",
+    "https://raw.githubusercontent.com/ahmet21ahmet/F-n/main/scripts%2Fcanli-tv.m3u",
+    "https://raw.githubusercontent.com/ahmet21ahmet/Trgoalsvsdengetv/main/Birlesik.m3u"
+    "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u",
+    "https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/daddylive-events.m3u8",
 ]
 
 UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
