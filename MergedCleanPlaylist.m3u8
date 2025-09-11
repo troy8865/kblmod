@@ -227,6 +227,14 @@ https://live.alilicloud.com/live/49d2fbfc356441153a81504371cf4f31/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/d98c0885d17aec303f37db30fd15b23d/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/b1cac6380900d22bdb0d31763c658434.png",05h30 Cruzeiro Esporte Clube vs Atletico Mineiro [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68c34a2b2f366_4733.flv?expire=1758233771&sign=51eb8e0dc6536e6118bd85f9742ccd39
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/b1cac6380900d22bdb0d31763c658434.png",05h30 Cruzeiro Esporte Clube vs Atletico Mineiro [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68c34a2b2f366_4733/index.m3u8?expire=1758233771&sign=51eb8e0dc6536e6118bd85f9742ccd39
 
 #EXTGRP:CHUỐI CHIÊN
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132255_fc95b09f.png",03h30 ngày 12 Guayaquil City FC vs San Antonio (Chuối Chiên) HD1
@@ -256,27 +264,27 @@ https://stream.chuoichien.tv/chuoi99.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125539_21b1f972.png",05h30 ngày 12 Cruzeiro vs Atletico-MG (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125539_21b1f972.png",05h30 ngày 12 Cruzeiro vs Atletico-MG (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze/index.m3u8
+https://cyber.chuoichien.tv/chuoitay/index.m3u8
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125539_21b1f972.png",05h30 ngày 12 Cruzeiro vs Atletico-MG (Chuối Chiên) HD3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze.flv
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125539_21b1f972.png",05h30 ngày 12 Cruzeiro vs Atletico-MG (Chuối Chiên) HD4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze.flv
+https://cyber.chuoichien.tv/chuoitay.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125539_21b1f972.png",05h30 ngày 12 Cruzeiro vs Atletico-MG (Chuối Chiên) SD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze/index.m3u8
+https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125539_21b1f972.png",05h30 ngày 12 Cruzeiro vs Atletico-MG (Chuối Chiên) SD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze.flv
+https://stream.chuoichien.tv/chuoitay.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125535_77dbb009.png",07h30 ngày 12 Botafogo vs Vasco DA Gama (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -466,15 +474,15 @@ https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@musd1.flv
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/0c3d0494786e5fbea399a874335cf53d.png",03h30 ngày 12.09 Club Leones del Norte VS Gualaceo SC (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/t--XhbdGaRSbzHTGG8yBtA/Fv2lucGIbhPi2caWYvF5Lg/1757648167587/live/sd-6MvXMPNmX9fmRWw6wV/playlist.m3u8
+https://apisportzz179528093.nsnd.live/JVZDuU9uxngHajA93OV_5w/Fv2lucGIbhPi2caWYvF5Lg/1757650688678/live/sd-6MvXMPNmX9fmRWw6wV/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/06c168e54604cc2392646b4c8cea7d9b.png",03h30 ngày 12.09 Guayaquil City VS San Antonio(ECU) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/fOx0roVFpwr0EE4vNewtYQ/Fv2lucGIbhPi2caWYvF5Lg/1757648165552/live/sd-6MvXMPNmgYkwGVpNyq/playlist.m3u8
+https://apisportzz179528093.nsnd.live/7JhJ67QzcveNvAB-vIixqQ/Fv2lucGIbhPi2caWYvF5Lg/1757650686412/live/sd-6MvXMPNmgYkwGVpNyq/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/866f1487c62861e6284afc5ad80b224d.png",04h00 ngày 12.09 Atletico Tucuman Reserve VS River Plate R (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/-YnfDhDs_7z6tt-8yU9gUw/Fv2lucGIbhPi2caWYvF5Lg/1757648167911/live/sd-6MvY6XtUM7uV8dvM3Z/playlist.m3u8
+https://apisportzz179528093.nsnd.live/U7O9hmOhq342fd5fes0aBA/Fv2lucGIbhPi2caWYvF5Lg/1757650689106/live/sd-6MvY6XtUM7uV8dvM3Z/playlist.m3u8
 
 #EXTGRP:Diğer
 #EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer",FASHION TV
@@ -625,38 +633,10 @@ https://live.alilicloud.com/live/4ec3f47cbb2b7e6d99d7b4199d3cfce1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/49d2fbfc356441153a81504371cf4f31/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/e447bbd9586b1513c6fee2030fd850fa/image/small",22h00 FC Metalurgi Rustavi vs FC Sioni Bolnisi (Gà Vàng) source
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/821b665ea6ce36447fae41aad31dee8e/image/small",05h00 Atletico Tucuman Reserve vs River Plate R (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9c9cf8ac3fd3871b4d59e630ddc81a68/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/4e6e84bba24c03ea8e6bf6ddcbdf39e9/image/small",23h00 Al Hidd vs Malkiya (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/5e09423b92cadbbb00adf2b1495a8a9c/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/c1eb081304f46c3962ca14d3cb8724d7/image/small",23h00 Aris Limassol (w) vs Anderlecht Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7f8349cfc587d420a798a4d5fbbd7f7e/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/36d80d391fe605e4c33a436f14868427/image/small",23h00 GKS Katowice Women vs FC Twente Enschede Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/b2b307d4478f7ec673a8fbda4c1ad900/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/6a98afd3aaaf5f7c5c61268e31f639e4/image/small",23h00 Sitra vs Bahrain SC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/e6c665035870a28b4cfec43984935f22/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/0567000f41b1433e69f538b2e2414e8d/image/small",23h00 St. Polten Women vs Fortuna Hjorring Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/fd9aded5249506cda03f3f32e1187c7f/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/30e1c8667b6572db97ff581971dd4743/image/small",23h00 Valerenga Women vs Ferencvarosi TC Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c035c3572176a497e4c71d79ca333b10/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/ade73fe64284225be522bbcb117d833b/image/small",23h00 Vidar vs Hinna (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/e37cd720d20b4816a9453a74a70183b4/playlist.m3u8
+https://live.alilicloud.com/live/d98c0885d17aec303f37db30fd15b23d/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/74a449be6074c101728465edb3096745/image/small",23h15 Khor Fakkan SSC vs AlvsSharjah (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -831,38 +811,10 @@ https://live.alilicloud.com/live/4ec3f47cbb2b7e6d99d7b4199d3cfce1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/49d2fbfc356441153a81504371cf4f31/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/e447bbd9586b1513c6fee2030fd850fa/image/small",22h00 FC Metalurgi Rustavi vs FC Sioni Bolnisi (Khán Đài A) source
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/821b665ea6ce36447fae41aad31dee8e/image/small",05h00 Atletico Tucuman Reserve vs River Plate R (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9c9cf8ac3fd3871b4d59e630ddc81a68/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/4e6e84bba24c03ea8e6bf6ddcbdf39e9/image/small",23h00 Al Hidd vs Malkiya (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5e09423b92cadbbb00adf2b1495a8a9c/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/c1eb081304f46c3962ca14d3cb8724d7/image/small",23h00 Aris Limassol (w) vs Anderlecht Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7f8349cfc587d420a798a4d5fbbd7f7e/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/36d80d391fe605e4c33a436f14868427/image/small",23h00 GKS Katowice Women vs FC Twente Enschede Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b2b307d4478f7ec673a8fbda4c1ad900/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/6a98afd3aaaf5f7c5c61268e31f639e4/image/small",23h00 Sitra vs Bahrain SC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e6c665035870a28b4cfec43984935f22/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/0567000f41b1433e69f538b2e2414e8d/image/small",23h00 St. Polten Women vs Fortuna Hjorring Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/fd9aded5249506cda03f3f32e1187c7f/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/30e1c8667b6572db97ff581971dd4743/image/small",23h00 Valerenga Women vs Ferencvarosi TC Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c035c3572176a497e4c71d79ca333b10/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/ade73fe64284225be522bbcb117d833b/image/small",23h00 Vidar vs Hinna (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e37cd720d20b4816a9453a74a70183b4/playlist.m3u8
+https://live.alilicloud.com/live/d98c0885d17aec303f37db30fd15b23d/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/74a449be6074c101728465edb3096745/image/small",23h15 Khor Fakkan SSC vs AlvsSharjah (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1115,6 +1067,18 @@ https://wtyi0525.edgemaxcdn.org/live/x1y3-2742/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9781_small.png",05:30 Cruzeiro và Atletico MG (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x9y2/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9781_small.png",05:30 Cruzeiro và Atletico MG (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x9y1/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9781_small.png",05:30 Cruzeiro và Atletico MG (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x9y3-3328/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",12:45 TRỰC TIẾP CẦU LÔNG vs GIẢI VIỆT NAM MỞ RỘNG (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1355,6 +1319,30 @@ https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1757584785-0-0-e360
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1757584785-0-0-6ef33b1ef382abb42c1055a4158a2f04
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BRA Cup: Cruzeiro Esporte Clube vs Atletico Mineiro [BLV VODKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1757632305-0-0-7560d8c20b5e7efd3eed41772a546169
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BRA Cup: Cruzeiro Esporte Clube vs Atletico Mineiro [BLV VODKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1757632305-0-0-758b195e3e5c1b816abe268955439711
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BRA Cup: Cruzeiro Esporte Clube vs Atletico Mineiro [BLV VODKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1757632305-0-0-d14ed24f270a5c4002cb7124bcbd5b83
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BRA Cup: Cruzeiro Esporte Clube vs Atletico Mineiro [BLV VODKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1757632305-0-0-e11cbd802950586e647779aeb4de8992
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BRA Cup: Cruzeiro Esporte Clube vs Atletico Mineiro [VỊT BẠC] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1757631945-0-0-382378eec4cfafc921d55412a6d5e349
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BRA Cup: Cruzeiro Esporte Clube vs Atletico Mineiro [VỊT BẠC] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1757631945-0-0-c395a44fa5df4655ee54da09441ce2eb
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BRA Cup: Cruzeiro Esporte Clube vs Atletico Mineiro [VỊT BẠC] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1757631945-0-0-d5c2b53f8946b82180d7fab8035c398e
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BRA Cup: Cruzeiro Esporte Clube vs Atletico Mineiro [VỊT BẠC] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1757631945-0-0-f306c4c11e8ff2153656c47d966c6a11
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",KSA D1: Abha vs Al-Faisaly Harmah [CÂY KHẾ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/532257-480p.flv
