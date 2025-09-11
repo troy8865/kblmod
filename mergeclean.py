@@ -8,6 +8,7 @@ playlist_urls = [
     "https://raw.githubusercontent.com/ahmet21ahmet/F-n/main/scripts%2Fcanli-tv.m3u",
     "https://raw.githubusercontent.com/ahmet21ahmet/Trgoalsvsdengetv/main/Birlesik.m3u"
     "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u",
+    "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda2.m3u",
     "https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/daddylive-events.m3u8",
 ]
 
