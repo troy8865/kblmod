@@ -223,6 +223,10 @@ https://live.alilicloud.com/live/4ec3f47cbb2b7e6d99d7b4199d3cfce1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/49d2fbfc356441153a81504371cf4f31/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/866f1487c62861e6284afc5ad80b224d.png",04h00 Atletico Tucuman Reserve vs River Plate R 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/d98c0885d17aec303f37db30fd15b23d/playlist.m3u8
 
 #EXTGRP:CHUỐI CHIÊN
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132255_fc95b09f.png",03h30 ngày 12 Guayaquil City FC vs San Antonio (Chuối Chiên) HD1
@@ -459,46 +463,34 @@ https://179245845.cdnfree.pro/live/musd2/playlist.m3u8
 https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@musd1.flv
 
 #EXTGRP:CÁ KÈO
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/e07qMpUgH82Xhs-DoAfW9Q/aa2414c41b563aa2e0f4a276a0f50172/1757647090/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/KSWwOs-9d-EJcnzqkHL_Cw/778e7779236aef8ae68b578426d0ddb4/1757647090/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1757647090&sign=4c75cb221d94cc6612c81516725b75df
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/9h7AD1jTnYkY_vAfARTO5Q/Fv2lucGIbhPi2caWYvF5Lg/1757647090794/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/0c3d0494786e5fbea399a874335cf53d.png",03h30 ngày 12.09 Club Leones del Norte VS Gualaceo SC (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/eJo4HJwr4_ZfwjYTCmswaQ/Fv2lucGIbhPi2caWYvF5Lg/1757645650826/live/sd-6MvXMPNmX9fmRWw6wV/playlist.m3u8
+https://apisportzz179528093.nsnd.live/mL_LAEQ7wx_DU6d0sv8tnw/Fv2lucGIbhPi2caWYvF5Lg/1757647090350/live/sd-6MvXMPNmX9fmRWw6wV/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/06c168e54604cc2392646b4c8cea7d9b.png",03h30 ngày 12.09 Guayaquil City VS San Antonio(ECU) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/zHpd-8Usbk4jTrsGylZZ0A/Fv2lucGIbhPi2caWYvF5Lg/1757645647254/live/sd-6MvXMPNmgYkwGVpNyq/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a6bce9adfac7903426bed2b253991a18.png",05h00 ngày 11.09 Fluminense RJ vs Bahia (CK) FullHD
+https://apisportzz179528093.nsnd.live/X0wKdg7rmzz0-o5vqf5llw/Fv2lucGIbhPi2caWYvF5Lg/1757647087760/live/sd-6MvXMPNmgYkwGVpNyq/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/866f1487c62861e6284afc5ad80b224d.png",04h00 ngày 12.09 Atletico Tucuman Reserve VS River Plate R (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/G92d9fD1F14ccJYhGW4SHg/aa2414c41b563aa2e0f4a276a0f50172/1757645647/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a6bce9adfac7903426bed2b253991a18.png",05h00 ngày 11.09 Fluminense RJ vs Bahia (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://70309c91hls.edgemaxcdn.org/1757645647/df2cf7de2110715bcdebf864df61cf5e/314258550/live/meoHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a6bce9adfac7903426bed2b253991a18.png",05h00 ngày 11.09 Fluminense RJ vs Bahia (CK) HD NHANH
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://70309c91hls.edgemaxcdn.org/1757645647/58e04a11c830851eccb921dbb2e0847e/341679148/live/meoHD.flv
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a6bce9adfac7903426bed2b253991a18.png",05h00 ngày 11.09 Fluminense RJ vs Bahia (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/p2VDj8YPtidV5C-Y0oqoTg/Fv2lucGIbhPi2caWYvF5Lg/1757645647988/live/meoSD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h30 ngày 11.09 Corinthians Paulista (SP) vs Athletico Paranaense (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/CEp9ESRIdXuZ1aI5NStAsA/f7d74fcca7b86aaec98d69192d99ee8f/1757645649/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h30 ngày 11.09 Corinthians Paulista (SP) vs Athletico Paranaense (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/nWKn6YZF15paCp9ZzOIBOw/e106295966a1a26dfddb5b60b193571b/1757645649/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h30 ngày 11.09 Corinthians Paulista (SP) vs Athletico Paranaense (CK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1757645649&sign=ce91fa8d5d7fc341747bb12fad8f1b2d
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h30 ngày 11.09 Corinthians Paulista (SP) vs Athletico Paranaense (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/4R1WKmVoZN2trwSh50r0OA/Fv2lucGIbhPi2caWYvF5Lg/1757645649077/live/coSD/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Offs4GZuFUGckl8r_4NGAg/Fv2lucGIbhPi2caWYvF5Lg/1757647091348/live/sd-6MvY6XtUM7uV8dvM3Z/playlist.m3u8
 
 #EXTGRP:Diğer
 #EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer",FASHION TV
@@ -1123,18 +1115,6 @@ https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0hfIl8EBRgyVzZaJDxaBj8L.m3u8
 
 #EXTGRP:SAO KÊ
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10096_small.png",01:00 Union vs Independiente Rivadavia (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x11y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10096_small.png",01:00 Union vs Independiente Rivadavia (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x11y11/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10096_small.png",01:00 Union vs Independiente Rivadavia (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x11y3-0278/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584402_small.png",01:30 Roma (W) và Sporting CP (W) (Sao kê) HD 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1159,6 +1139,10 @@ https://saoke.cdn.khmer-hd.com/x1y1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x1y3-2742/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/161727_small.png",04:00 Atletico Tucuman vs River Plate (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",12:45 TRỰC TIẾP CẦU LÔNG vs GIẢI VIỆT NAM MỞ RỘNG (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1423,18 +1407,6 @@ https://stream-flv.dfsfe.top/lives/406865-720p.m3u8
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ROM D2: FC Voluntari vs Concordia Chiajna [BLV ANH TÀI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/406865-480p.m3u8
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UEFA WCL: AS Roma Women vs Sporting CP Women [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1757626321-0-0-1877c220b0458c28d76dbd8fdfa923d7
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UEFA WCL: AS Roma Women vs Sporting CP Women [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1757626321-0-0-d3aa7c52adc2ddf7a31c4de49945940d
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UEFA WCL: AS Roma Women vs Sporting CP Women [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1757626321-0-0-d15544238f637f53d133429f7da119cb
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UEFA WCL: AS Roma Women vs Sporting CP Women [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1757626321-0-0-f6e2f2bdbb104d9eb25cd05b6a4cf1cd
 
 #EXTGRP:Spor
 #EXTINF:-1 tvg-id="130" tvg-name="A Spor HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" group-title="Spor",A Spor HD
