@@ -311,6 +311,10 @@ https://live.alilicloud.com/live/960fa79466f6ce4968ba4ff8ce3eb516/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/9e443c800615b1a89aa115fff3fb2389/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/95d6e2903bf243c9ded49b6788088c56/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -319,10 +323,6 @@ https://2893950149.global.cdnfastest.com/live/68c306da5bab9_161.flv?expire=17582
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c306da5bab9_161/index.m3u8?expire=1758216538&sign=05d8a077a33a82c8bf59cf65f97cab22
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/fe0953f1eb38d8b2d226f1ce82bb1405/playlist.m3u8
 
 #EXTGRP:CHUỐI CHIÊN
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144148_2bc350b1.png",00h00 ngày 12 Brann W vs Manchester United W (Chuối Chiên) HD1
@@ -477,14 +477,6 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_141118_3addc27a.png",23h30 ngày 11 Saturn Ramenskoye vs Broke Boys (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_141118_3addc27a.png",23h30 ngày 11 Saturn Ramenskoye vs Broke Boys (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 
 #EXTGRP:CRICKET
 #EXTINF:-1 tvg-id="51ba4b5b1e1ae2f66ffa9882c2a079a9" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="CRICKET",Asia Cup : Bangladesh vs Hong Kong (ASTRO CRICKET)
@@ -715,138 +707,34 @@ https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cf2cbc64b23da5252afc6492d776da98.png",22h40 Al-Baten vs Al-Jabalain (Cà Khịa) HD 1
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (Cà Khịa) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cf2cbc64b23da5252afc6492d776da98.png",22h40 Al-Baten vs Al-Jabalain (Cà Khịa) HD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (Cà Khịa) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/hplushd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cf2cbc64b23da5252afc6492d776da98.png",22h40 Al-Baten vs Al-Jabalain (Cà Khịa) HD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (Cà Khịa) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cf2cbc64b23da5252afc6492d776da98.png",22h40 Al-Baten vs Al-Jabalain (Cà Khịa) SD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cf2cbc64b23da5252afc6492d776da98.png",22h40 Al-Baten vs Al-Jabalain (Cà Khịa) SD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (Cà Khịa) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/hplussd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cf2cbc64b23da5252afc6492d776da98.png",22h40 Al-Baten vs Al-Jabalain (Cà Khịa) SD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (Cà Khịa) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png",22h50 Abha vs Al-Faisaly Harmah (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cohd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png",22h50 Abha vs Al-Faisaly Harmah (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png",22h50 Abha vs Al-Faisaly Harmah (Cà Khịa) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cohd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png",22h50 Abha vs Al-Faisaly Harmah (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cosd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png",22h50 Abha vs Al-Faisaly Harmah (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png",22h50 Abha vs Al-Faisaly Harmah (Cà Khịa) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cosd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (Cà Khịa) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (Cà Khịa) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/d48527b5d4ada3bf125ec037ce168798.png",23h00 Aris Limassol (w) vs Anderlecht (w) (Cà Khịa) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m403nd/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/1696f2f8d0a760268154a795175339fd.png",23h00 GKS Katowice (w) vs FC Twente Enschede (w) (Cà Khịa) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m402nd/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/bfd8e426ddf1063cdf2b005a734c3d5c.png",23h00 Sitra vs Bahrain SC (Cà Khịa) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/bfd8e426ddf1063cdf2b005a734c3d5c.png",23h00 Sitra vs Bahrain SC (Cà Khịa) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/bfd8e426ddf1063cdf2b005a734c3d5c.png",23h00 Sitra vs Bahrain SC (Cà Khịa) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/buihd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/bfd8e426ddf1063cdf2b005a734c3d5c.png",23h00 Sitra vs Bahrain SC (Cà Khịa) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/bfd8e426ddf1063cdf2b005a734c3d5c.png",23h00 Sitra vs Bahrain SC (Cà Khịa) SD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/bfd8e426ddf1063cdf2b005a734c3d5c.png",23h00 Sitra vs Bahrain SC (Cà Khịa) SD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/buisd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/8d6f17114e0621695fe8b29bdc6fc91d.png",23h00 Vllaznia Shkoder (w) vs Kolos Kovalivka (w) (Cà Khịa) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momhd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/momhd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (Cà Khịa) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momhd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momsd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/momsd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (Cà Khịa) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momsd1.flv
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/05e87b1dbb904915a4a97fc095b73d20.png",23h15 Shabab AlAhli vs Baniyas Club (Cà Khịa) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -877,58 +765,10 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunsd1.flv
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m402nd/playlist.m3u8
 
 #EXTGRP:CÁ HEO
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/duongtienhd2/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (CH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/duongtiensd2/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (CH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/8d6f17114e0621695fe8b29bdc6fc91d.png",23h00 Vllaznia Shkoder (w) vs Kolos Kovalivka (w) (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momhd1/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/momsd2/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (CH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momhd1.flv
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momsd1/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/momsd2/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (CH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momsd1.flv
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/05e87b1dbb904915a4a97fc095b73d20.png",23h15 Shabab AlAhli vs Baniyas Club (CH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1055,30 +895,26 @@ https://apisportzz179528093.nsnd.live/MqxNc40gDixX7i6kuhYU8Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/73DHWOucwLuzFkfAUGIAOQ/Fv2lucGIbhPi2caWYvF5Lg/1757635928774/live/sd-6MvY6XtUMA6y17kGCT/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 ngày 11.09 Al Hidd VS Malkiya (CK) Backup 1
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/UesZWpsUxisXqe8-AUi46w/Fv2lucGIbhPi2caWYvF5Lg/1757635952693/live/sd-6MvY6XuDfpX3wgKfeK/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 ngày 11.09 Khor Fakkan SSC vs Al-Sharjah (CK) Backup 1
+https://apisportzz179528093.nsnd.live/If9TxXTn3W7Hv4eUNIGlmg/Fv2lucGIbhPi2caWYvF5Lg/1757637388014/live/sd-6MvY6XuDftv1gdyVx7/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Z_AJL-6DUn4e4s5gqlohvQ/Fv2lucGIbhPi2caWYvF5Lg/1757635930796/live/sd-6MvXMfacC6mvvD8ii7/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 ngày 11.09 Khor Fakkan SSC vs Al-Sharjah (CK) FullHD
+https://live-xlvb.nsnd.live/vdwVfv1eRc3MEXV3OPURQQ/aa2414c41b563aa2e0f4a276a0f50172/1757637388/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/e2oFV1UuXjmcWzobOTruhg/83de23c4424f537b01b08ca40d8e3c83/1757635930/live/_definst_/stream_1_1bda7@heFHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 ngày 11.09 Khor Fakkan SSC vs Al-Sharjah (CK) HD
+https://live-xlvb.nsnd.live/xDuqNADzP0JVtr7l07WD7Q/778e7779236aef8ae68b578426d0ddb4/1757637388/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/c6oDFsgPo8AHyqHF1EqLAA/c447692e6da13744a99dfc2b26df7bc6/1757635930/live/_definst_/stream_1_1bda7@heHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 ngày 11.09 Khor Fakkan SSC vs Al-Sharjah (CK) HD NHANH
+https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1757637388&sign=ad9eae4a1bcb276ab852921c8bb51810
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1757635930&sign=a22e274a66f95ce4614e7f75f75db370
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 ngày 11.09 Khor Fakkan SSC vs Al-Sharjah (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ghm2LiHYS-O6-eQcE5OETA/Fv2lucGIbhPi2caWYvF5Lg/1757635930796/live/heSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/xYwgstsXJ3xdaMp60NErmQ/Fv2lucGIbhPi2caWYvF5Lg/1757637388014/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/05e87b1dbb904915a4a97fc095b73d20.png",23h15 ngày 11.09 Shabab AlAhli VS Baniyas Club (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1543,10 +1379,10 @@ https://live.alilicloud.com/live/960fa79466f6ce4968ba4ff8ce3eb516/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9e443c800615b1a89aa115fff3fb2389/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/dc9ca68c3592902ac035cc0691f0df00/image/small",19h30 Mzuzu City Hammers vs Mighty Wanderers (Khán Đài A) source
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/9cb368111987ffe788c871d880c50728/image/small",01h30 AS Roma Women vs Sporting CP Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f6245e99a6c43984cb338c5b9db8e9e4/playlist.m3u8
+https://live.alilicloud.com/live/95d6e2903bf243c9ded49b6788088c56/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/156a0974847e4112a33fc810c3de244f/image/small",20h00 Zimbabw U17 vs Mozambique U17 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1599,34 +1435,6 @@ https://live.alilicloud.com/live/e37cd720d20b4816a9453a74a70183b4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/567839e8bd3cc0a2e15b261652b5cdd6/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/872c2925a38be90c1c64553ea02d47d2/image/small",23h15 Shabab Al Ahli vs Baniyas Club (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/cd65d12226b94e28a2aa40e7180eca89_720/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/872c2925a38be90c1c64553ea02d47d2/image/small",23h15 Shabab Al Ahli vs Baniyas Club (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/cd65d12226b94e28a2aa40e7180eca89_720/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/872c2925a38be90c1c64553ea02d47d2/image/small",23h15 Shabab Al Ahli vs Baniyas Club (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/cd65d12226b94e28a2aa40e7180eca89_720/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/872c2925a38be90c1c64553ea02d47d2/image/small",23h15 Shabab Al Ahli vs Baniyas Club (Khán Đài A) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/cd65d12226b94e28a2aa40e7180eca89_480/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/872c2925a38be90c1c64553ea02d47d2/image/small",23h15 Shabab Al Ahli vs Baniyas Club (Khán Đài A) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/cd65d12226b94e28a2aa40e7180eca89_480/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/872c2925a38be90c1c64553ea02d47d2/image/small",23h15 Shabab Al Ahli vs Baniyas Club (Khán Đài A) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/cd65d12226b94e28a2aa40e7180eca89_480/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/872c2925a38be90c1c64553ea02d47d2/image/small",23h15 Shabab Al Ahli vs Baniyas Club (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5fbad1409c3281dc29b63d4cb8fb6425/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a6829c354ec49afd971eb1e90c0635fd/image/small",23h30 FC Saturn Ramenskoe vs Broke Boys (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1765,18 +1573,48 @@ https://flv.cdnok9.com/live/VUONGANH.flv?expire=1788427256&sign=2bef3d835693f1f8
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/12501/1gpytknswrh.png?win007=sell",00h40 Al-Arabi(KSA) vs Al Anwar SA (LS) BLV VƯƠNG ANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VUONGANH/index.m3u8?expire=1788427256&sign=2bef3d835693f1f820133e2c8b0d3fd4
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/405/1gy3wxpwb41t.png?win007=sell",23h30 Saturn Moscow vs Broke Boys (LS) BLV DƯƠNG HÙNG flv
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV DƯƠNG QUÁ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/BLVDUONGHUNG1.flv?expire=1788427256&sign=79930f1c3496c86e41f0e85de922a495
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/405/1gy3wxpwb41t.png?win007=sell",23h30 Saturn Moscow vs Broke Boys (LS) BLV DƯƠNG HÙNG m3u
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV DƯƠNG QUÁ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/BLVDUONGHUNG1/index.m3u8?expire=1788427256&sign=79930f1c3496c86e41f0e85de922a495
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/405/1gy3wxpwb41t.png?win007=sell",23h30 Saturn Moscow vs Broke Boys (LS) BLV TÂY MÔN KHÁNH flv
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV DẾ LỬA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DELUA.flv?expire=1788427256&sign=9dd993124248e5a36c61b6f96f5f8dfe
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV DẾ LỬA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DELUA/index.m3u8?expire=1788427256&sign=9dd993124248e5a36c61b6f96f5f8dfe
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/405/1gy3wxpwb41t.png?win007=sell",23h30 Saturn Moscow vs Broke Boys (LS) BLV TÂY MÔN KHÁNH m3u
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV TÂY MÔN KHÁNH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP (W) (LS) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTGRP:LẤY KINH
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/9ea788376ee5eb240491893729802749.png",00h00 Akranes vs Breidablik (LẤY KINH) HD 1
@@ -1971,58 +1809,34 @@ https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (LẤY KINH) HD 1
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (LẤY KINH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (LẤY KINH) HD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (LẤY KINH) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (LẤY KINH) HD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (LẤY KINH) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (LẤY KINH) SD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (LẤY KINH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (LẤY KINH) SD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (LẤY KINH) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (LẤY KINH) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (LẤY KINH) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/8d6f17114e0621695fe8b29bdc6fc91d.png",23h00 Vllaznia Shkoder (w) vs Kolos Kovalivka (w) (LẤY KINH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (LẤY KINH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/momsd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (LẤY KINH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momsd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (LẤY KINH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momhd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (LẤY KINH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/momsd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (LẤY KINH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momsd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (LẤY KINH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momsd1/playlist.m3u8
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/05e87b1dbb904915a4a97fc095b73d20.png",23h15 Shabab AlAhli vs Baniyas Club (LẤY KINH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2301,58 +2115,34 @@ https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (QUAY TAY) HD 1
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (QUAY TAY) HD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (QUAY TAY) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (QUAY TAY) HD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (QUAY TAY) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (QUAY TAY) SD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (QUAY TAY) SD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (QUAY TAY) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (QUAY TAY) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/8d6f17114e0621695fe8b29bdc6fc91d.png",23h00 Vllaznia Shkoder (w) vs Kolos Kovalivka (w) (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/momsd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momsd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momhd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/momsd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momsd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e1113e780b7ceaee329d95bedc2de575.png",23h15 Khor Fakkan SSC vs Al-Sharjah (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momsd1/playlist.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/05e87b1dbb904915a4a97fc095b73d20.png",23h15 Shabab AlAhli vs Baniyas Club (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2575,110 +2365,30 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cf2cbc64b23da5252afc6492d776da98.png",22h40 Al-Baten vs Al-Jabalain (Ra Khơi) HD 1
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cf2cbc64b23da5252afc6492d776da98.png",22h40 Al-Baten vs Al-Jabalain (Ra Khơi) HD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (Ra Khơi) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cf2cbc64b23da5252afc6492d776da98.png",22h40 Al-Baten vs Al-Jabalain (Ra Khơi) HD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (Ra Khơi) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cf2cbc64b23da5252afc6492d776da98.png",22h40 Al-Baten vs Al-Jabalain (Ra Khơi) SD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cf2cbc64b23da5252afc6492d776da98.png",22h40 Al-Baten vs Al-Jabalain (Ra Khơi) SD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (Ra Khơi) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cf2cbc64b23da5252afc6492d776da98.png",22h40 Al-Baten vs Al-Jabalain (Ra Khơi) SD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 AS Roma (w) vs Sporting CP (w) (Ra Khơi) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png",22h50 Abha vs Al-Faisaly Harmah (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cohd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png",22h50 Abha vs Al-Faisaly Harmah (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png",22h50 Abha vs Al-Faisaly Harmah (Ra Khơi) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cohd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png",22h50 Abha vs Al-Faisaly Harmah (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cosd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png",22h50 Abha vs Al-Faisaly Harmah (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png",22h50 Abha vs Al-Faisaly Harmah (Ra Khơi) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cosd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 Al Hidd vs Malkiya (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/d48527b5d4ada3bf125ec037ce168798.png",23h00 Aris Limassol (w) vs Anderlecht (w) (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m403nd/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/1696f2f8d0a760268154a795175339fd.png",23h00 GKS Katowice (w) vs FC Twente Enschede (w) (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m402nd/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/bfd8e426ddf1063cdf2b005a734c3d5c.png",23h00 Sitra vs Bahrain SC (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/bfd8e426ddf1063cdf2b005a734c3d5c.png",23h00 Sitra vs Bahrain SC (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/buihd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/bfd8e426ddf1063cdf2b005a734c3d5c.png",23h00 Sitra vs Bahrain SC (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/bfd8e426ddf1063cdf2b005a734c3d5c.png",23h00 Sitra vs Bahrain SC (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/bfd8e426ddf1063cdf2b005a734c3d5c.png",23h00 Sitra vs Bahrain SC (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/buisd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/bfd8e426ddf1063cdf2b005a734c3d5c.png",23h00 Sitra vs Bahrain SC (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 #EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/8d6f17114e0621695fe8b29bdc6fc91d.png",23h00 Vllaznia Shkoder (w) vs Kolos Kovalivka (w) (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2841,18 +2551,8 @@ https://rblive.starxcdn.xyz/live/_pxwrxlhy2kd2ryk_football_hd.flv
 https://cr7.rbncdn.net/live/_pxwrxlhy2kd2ryk_football_sd/playlist.m3u8
 #EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/54ac7c788c3b646dbb8d82af1c94111f.png",00h30 Vorskla Poltava W vs Leuven W (Rổ) SD Nhanh
 https://rblive.starxcdn.xyz/live/_pxwrxlhy2kd2ryk_football_sd.flv
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys (Rổ) FHD
-https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_pxwrxlhy2kwkryk_football_fhd/playlist.m3u8
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys (Rổ) FHD Nhanh
-https://rblive.starxcdn.xyz/live/689c7d152eeb894ab75a5340_pxwrxlhy2kwkryk_football_fhd.flv
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys (Rổ) HD
-https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_pxwrxlhy2kwkryk_football_hd/playlist.m3u8
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys (Rổ) HD Nhanh
-https://rblive.starxcdn.xyz/live/689c7d152eeb894ab75a5340_pxwrxlhy2kwkryk_football_hd.flv
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys (Rổ) SD
-https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_pxwrxlhy2kwkryk_football_sd/playlist.m3u8
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys (Rổ) SD Nhanh
-https://rblive.starxcdn.xyz/live/689c7d152eeb894ab75a5340_pxwrxlhy2kwkryk_football_sd.flv
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/09c9433cfa1c306e6b774a272da7f5a9.png",01h30 AS Roma W vs Sporting CP W (Rổ) FHD
+https://rblive.starxcdn.xyz/live/y0or5jh8027zqwz_football_fhd/playlist.m3u8
 
 #EXTGRP:SAO KÊ
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4182_small.png",00:00 Brann (W) và Manchester United (W) (Sao kê) HD 3
@@ -2919,38 +2619,6 @@ https://saoke.cdn.khmer-hd.com/x16y1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/149993_small.png",23:15 Khorfakkan và Sharjah Cultural Club (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102119_small.png",23:15 Shabab Al-Ahli Dubai FC và Baniyas (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x21y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102119_small.png",23:15 Shabab Al-Ahli Dubai FC và Baniyas (Sao kê) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x21y3-https://wtyi0525.edgemaxcdn.org/live/x21y3-8058/playlist.m3u8/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102119_small.png",23:15 Shabab Al-Ahli Dubai FC và Baniyas (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x21y1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102119_small.png",23:15 Shabab Al-Ahli Dubai FC và Baniyas (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x21y3-8058/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://img0.aiscore.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png!w60",23:30 CLB Saturn Moscow vs Broke Boys (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x2y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://img0.aiscore.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png!w60",23:30 CLB Saturn Moscow vs Broke Boys (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x2y1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://img0.aiscore.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png!w60",23:30 CLB Saturn Moscow vs Broke Boys (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x2y3-4575/playlist.m3u8
 
 #EXTGRP:Sinema
 #EXTINF:-1 tvg-id="76" tvg-name="BS ACTION 1" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/1883f1dfa1e69b6788849eaab4b1f8e7.png" group-title="Sinema",BS ACTION 1
@@ -3319,18 +2987,6 @@ https://stream-flv.dfsfe.top/lives/532257-720p.m3u8
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",KSA D1: Abha vs Al-Faisaly Harmah [CÂY KHẾ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/532257-480p.m3u8
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",KSA D1: Al-Arabi(KSA) vs Al Anwar SA [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=82547dbc6fa17acc7eb03ff216e88eb6&txTime=68c366a9
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",KSA D1: Al-Arabi(KSA) vs Al Anwar SA [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=57bfcb1d1291d5754090b1aefb2aaabe&txTime=68c366a9
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",KSA D1: Al-Arabi(KSA) vs Al Anwar SA [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=57bfcb1d1291d5754090b1aefb2aaabe&txTime=68c366a9
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",KSA D1: Al-Arabi(KSA) vs Al Anwar SA [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=82547dbc6fa17acc7eb03ff216e88eb6&txTime=68c366a9
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ROM D2: FC Voluntari vs Concordia Chiajna [BLV ANH TÀI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/406865-480p.flv
@@ -3343,30 +2999,6 @@ https://stream-flv.dfsfe.top/lives/406865-720p.m3u8
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ROM D2: FC Voluntari vs Concordia Chiajna [BLV ANH TÀI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/406865-480p.m3u8
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UAE LP: Khor Fakkan SSC vs Al-Sharjah [BLV Hổ Lùn] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lsd.flv?txSecret=38dbc3ba6bfbd9bd5bcf42a1a9eaeaac&txTime=68c366a9
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UAE LP: Khor Fakkan SSC vs Al-Sharjah [BLV Hổ Lùn] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lhd.flv?txSecret=4d8cc0f4b5cfeeb6cd5efef2318163ef&txTime=68c366a9
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UAE LP: Khor Fakkan SSC vs Al-Sharjah [BLV Hổ Lùn] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=4d8cc0f4b5cfeeb6cd5efef2318163ef&txTime=68c366a9
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UAE LP: Khor Fakkan SSC vs Al-Sharjah [BLV Hổ Lùn] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=38dbc3ba6bfbd9bd5bcf42a1a9eaeaac&txTime=68c366a9
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UAE LP: Shabab Al Ahli vs Baniyas Club [BLV FIREMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1757618265-0-0-256e94fe8788e5f82863f146313eaf20
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UAE LP: Shabab Al Ahli vs Baniyas Club [BLV FIREMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1757618265-0-0-78c0c37e31e29ab9939a1ed45a163adf
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UAE LP: Shabab Al Ahli vs Baniyas Club [BLV FIREMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1757618265-0-0-f4f3e39b9b960080d5333b1ef399cdba
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UAE LP: Shabab Al Ahli vs Baniyas Club [BLV FIREMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1757618265-0-0-72a5e10e2172ef7b151088c73853928e
 
 #EXTGRP:Spor
 #EXTINF:-1 tvg-id="130" tvg-name="A Spor HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" group-title="Spor",A Spor HD
@@ -3739,14 +3371,14 @@ https://flv.cdnvankhanh.com/live/VANCONA.flv?expire=1892707800&sign=4579e25a0f10
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/VANCONA/index.m3u8?expire=1892707800&sign=4579e25a0f1074c0ba42757f6b09cfb9
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/405/1gy3wxpwb41t.png?win007=sell",23h30 Saturn Moscow vs Broke Boys (Văn Khánh) FLV
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP  (W) (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/405/1gy3wxpwb41t.png?win007=sell",23h30 Saturn Moscow vs Broke Boys (Văn Khánh) M3U
+https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/18691/1gtqpzxrvb2k.png?win007=sell",01h30 Roma CF (W) vs Sporting CP  (W) (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
 
 #EXTGRP:WWE
 #EXTINF:-1 tvg-id="b2bfd3b8668600066d6c98d1466f82c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="WWE",TNA iMPACT! (AXS TV USA)
