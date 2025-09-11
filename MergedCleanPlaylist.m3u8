@@ -391,6 +391,14 @@ https://2893950149.global.cdnfastest.com/live/68c2f55b5bab9_44731.flv?expire=175
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c2f55b5bab9_44731/index.m3u8?expire=1758212059&sign=67db707590675cc42d25241372bf72f9
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/59390e2ab3fa6e830410f9f08f9cb27d.png",00h40 Al-Arabi(KSA) vs Al Anwar SA [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68c2f9305bab9_17480.flv?expire=1758213040&sign=0e580a3e5888bd03b92127d88046d47c
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/59390e2ab3fa6e830410f9f08f9cb27d.png",00h40 Al-Arabi(KSA) vs Al Anwar SA [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68c2f9305bab9_17480/index.m3u8?expire=1758213040&sign=0e580a3e5888bd03b92127d88046d47c
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/f105da768299b0eece32a15bb3c30574.png",22h00 FC Voluntari vs Concordia Chiajna 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -447,6 +455,10 @@ https://2893950149.global.cdnfastest.com/live/68c2e97f5bab9_4908.flv?expire=1758
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c2e97f5bab9_4908/index.m3u8?expire=1758209023&sign=18a46a7e7ef8bb5da1043a189e399f40
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/fe0953f1eb38d8b2d226f1ce82bb1405/playlist.m3u8
 
 #EXTGRP:CHUỐI CHIÊN
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144148_2bc350b1.png",00h00 ngày 12 Brann W vs Manchester United W (Chuối Chiên) HD1
@@ -500,11 +512,11 @@ https://stream.chuoichien.tv/chuoitay.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125819_e6c9b811.png",23h15 ngày 11 Khorfakkan vs Sharjah FC (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/nhadai/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125819_e6c9b811.png",23h15 ngày 11 Khorfakkan vs Sharjah FC (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/nhadai.flv
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125815_07a155b3.png",23h15 ngày 11 Shabab Al Ahli Dubai vs Baniyas SC (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -529,6 +541,14 @@ https://stream.chuoichien.tv/chuoilua/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoilua.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_141118_3addc27a.png",23h30 ngày 11 Saturn Ramenskoye vs Broke Boys (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_141118_3addc27a.png",23h30 ngày 11 Saturn Ramenskoye vs Broke Boys (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 
 #EXTGRP:CRICKET
 #EXTINF:-1 tvg-id="51ba4b5b1e1ae2f66ffa9882c2a079a9" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="CRICKET",Asia Cup : Bangladesh vs Hong Kong (ASTRO CRICKET)
@@ -1063,6 +1083,30 @@ https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1757629088&sign=c10cd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/XCqwLXprmgOE6WbLcZ6BTQ/Fv2lucGIbhPi2caWYvF5Lg/1757629088762/live/heSD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/05e87b1dbb904915a4a97fc095b73d20.png",23h15 ngày 11.09 Shabab AlAhli VS Baniyas Club (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/piyyiXRrX_whtBIkTRZ7OA/Fv2lucGIbhPi2caWYvF5Lg/1757629451468/live/sd-6MvXMfacCDNNXecUAo/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 ngày 11.09 FC Saturn Ramenskoe vs Broke Boys (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Mym_jhw8Yq2kPOL84-Obeg/Fv2lucGIbhPi2caWYvF5Lg/1757630187117/live/sd-6MvY6Xsiro1sFjgFV5/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 ngày 11.09 FC Saturn Ramenskoe vs Broke Boys (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/Aiytqoy5nt0XKOaGCKgn4A/e56ce8a755cda33e7f050da0b700d013/1757630187/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 ngày 11.09 FC Saturn Ramenskoe vs Broke Boys (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/vkQbwezONfBOnY8h9aDaKw/61b7c9f6fb3bff2f3c2273378af449b7/1757630187/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 ngày 11.09 FC Saturn Ramenskoe vs Broke Boys (CK) HD nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1757630187&sign=22d7661ad10e177ab2a4f864d30bf5d4
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 ngày 11.09 FC Saturn Ramenskoe vs Broke Boys (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/kfKpsXVqi3WVu26MENeHdw/Fv2lucGIbhPi2caWYvF5Lg/1757630187117/live/oldSD/playlist.m3u8
 
 #EXTGRP:DARTS
 #EXTINF:-1 tvg-id="5f75e62fd868af4870e2d7da4676a51e" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Players Championship 27 - Hall 39 Hildesheim (PDC TV)
@@ -1151,10 +1195,34 @@ https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GBB4yVzZaJDxaBj8L.m3u8
 
 #EXTGRP:GÀ VÀNG
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/5c402a0d0ced35cb4062feaaaa46e7ec/image/small",17h30 MEG vs Bengaluru Roots FC (Gà Vàng) source
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/693c739b52a4a50341fcddd2ccd7bc09/image/small",00h00 SK Brann Women vs Manchester United Women (Gà Vàng) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/708f77aff18716f2d3f5a9f636be6a56/playlist.m3u8
+https://stm02bc38017100.stream.hdplaylink.com/live8/6226a7723415415ea3c960b1bb9532a7_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/693c739b52a4a50341fcddd2ccd7bc09/image/small",00h00 SK Brann Women vs Manchester United Women (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/6226a7723415415ea3c960b1bb9532a7_720/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/693c739b52a4a50341fcddd2ccd7bc09/image/small",00h00 SK Brann Women vs Manchester United Women (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/6226a7723415415ea3c960b1bb9532a7_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/693c739b52a4a50341fcddd2ccd7bc09/image/small",00h00 SK Brann Women vs Manchester United Women (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/6226a7723415415ea3c960b1bb9532a7_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/693c739b52a4a50341fcddd2ccd7bc09/image/small",00h00 SK Brann Women vs Manchester United Women (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/6226a7723415415ea3c960b1bb9532a7_480/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/693c739b52a4a50341fcddd2ccd7bc09/image/small",00h00 SK Brann Women vs Manchester United Women (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/6226a7723415415ea3c960b1bb9532a7_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/693c739b52a4a50341fcddd2ccd7bc09/image/small",00h00 SK Brann Women vs Manchester United Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5502a4b2f202664fcaf7424aac176847/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/0e3e95201a1f8d59e0fb1ac50cacb501/image/small",18h00 Akademiya Ontustik vs FK Aktobe II (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1283,6 +1351,10 @@ https://live8.fastestcdn-global.com/live8/2abd04564e03481f9ef0a71250caf086_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc43163716.stream.hdplaylink.com/live7/2abd04564e03481f9ef0a71250caf086_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/a6829c354ec49afd971eb1e90c0635fd/image/small",23h30 FC Saturn Ramenskoe vs Broke Boys (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/fe0953f1eb38d8b2d226f1ce82bb1405/playlist.m3u8
 
 #EXTGRP:Haber
 #EXTINF:-1 tvg-id="97" tvg-name="24 HABER HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg" group-title="Haber",24 HABER HD
@@ -1457,10 +1529,6 @@ https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbAj9aJEYsNEgHIgY=.m3u8
 
 #EXTGRP:KHÁN ĐÀI A
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/5c402a0d0ced35cb4062feaaaa46e7ec/image/small",17h30 MEG vs Bengaluru Roots FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/708f77aff18716f2d3f5a9f636be6a56/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/0e3e95201a1f8d59e0fb1ac50cacb501/image/small",18h00 Akademiya Ontustik vs FK Aktobe II (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1569,6 +1637,10 @@ https://live4.fastestcdn-global.com/live4/cd65d12226b94e28a2aa40e7180eca89_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/5fbad1409c3281dc29b63d4cb8fb6425/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a6829c354ec49afd971eb1e90c0635fd/image/small",23h30 FC Saturn Ramenskoe vs Broke Boys (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/fe0953f1eb38d8b2d226f1ce82bb1405/playlist.m3u8
 
 #EXTGRP:LƯƠNG SƠN
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/15409/1gq6jfv3fgm.png?win007=sell",22h00 FC Voluntari vs Concordia Chiajna (LS) BLV KHỔNG MINH flv
@@ -1709,6 +1781,18 @@ https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d99670722
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3434/1gqgp4nfaw1e.png?win007=sell",23h15 Shabab Al Ahli vs Banni Yas (LS) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/405/1gy3wxpwb41t.png?win007=sell",23h30 Saturn Moscow vs Broke Boys (LS) BLV DƯƠNG HÙNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/BLVDUONGHUNG1.flv?expire=1788427256&sign=79930f1c3496c86e41f0e85de922a495
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/405/1gy3wxpwb41t.png?win007=sell",23h30 Saturn Moscow vs Broke Boys (LS) BLV DƯƠNG HÙNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/BLVDUONGHUNG1/index.m3u8?expire=1788427256&sign=79930f1c3496c86e41f0e85de922a495
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/405/1gy3wxpwb41t.png?win007=sell",23h30 Saturn Moscow vs Broke Boys (LS) BLV TÂY MÔN KHÁNH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/405/1gy3wxpwb41t.png?win007=sell",23h30 Saturn Moscow vs Broke Boys (LS) BLV TÂY MÔN KHÁNH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 #EXTGRP:LẤY KINH
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/f105da768299b0eece32a15bb3c30574.png",22h00 FC Voluntari vs Concordia Chiajna (LẤY KINH) HD 1
@@ -2419,6 +2503,18 @@ https://cr7.rbncdn.net/live/_l7oqdehge576r51_football_sd/playlist.m3u8
 https://rblive.starxcdn.xyz/live/_l7oqdehge576r51_football_sd.flv
 #EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/05e87b1dbb904915a4a97fc095b73d20.png",23h15 Shabab Al Ahli vs Baniyas Club (Rổ) FHD
 https://rblive.starxcdn.xyz/live/8yomo4h15xveq0j_football_fhd/playlist.m3u8
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys (Rổ) FHD
+https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_pxwrxlhy2kwkryk_football_fhd/playlist.m3u8
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys (Rổ) FHD Nhanh
+https://rblive.starxcdn.xyz/live/689c7d152eeb894ab75a5340_pxwrxlhy2kwkryk_football_fhd.flv
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys (Rổ) HD
+https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_pxwrxlhy2kwkryk_football_hd/playlist.m3u8
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys (Rổ) HD Nhanh
+https://rblive.starxcdn.xyz/live/689c7d152eeb894ab75a5340_pxwrxlhy2kwkryk_football_hd.flv
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys (Rổ) SD
+https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_pxwrxlhy2kwkryk_football_sd/playlist.m3u8
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png",23h30 FC Saturn Ramenskoe vs Broke Boys (Rổ) SD Nhanh
+https://rblive.starxcdn.xyz/live/689c7d152eeb894ab75a5340_pxwrxlhy2kwkryk_football_sd.flv
 
 #EXTGRP:SAO KÊ
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",12:45 TRỰC TIẾP CẦU LÔNG vs GIẢI VIỆT NAM MỞ RỘNG (Sao kê) Nhà đài
@@ -2867,6 +2963,66 @@ https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1757584785-0-0-e360
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1757584785-0-0-6ef33b1ef382abb42c1055a4158a2f04
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",DEN D1: Hobro vs Lyngby [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-356042_lsd.flv?txSecret=d293f12f49dc1ca3ac39c32725a158c1&txTime=68c34ec1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",DEN D1: Hobro vs Lyngby [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-356042_lhd.flv?txSecret=95d6797b364999771aa8a3c74a8a5d77&txTime=68c34ec1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",DEN D1: Hobro vs Lyngby [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=95d6797b364999771aa8a3c74a8a5d77&txTime=68c34ec1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",DEN D1: Hobro vs Lyngby [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=d293f12f49dc1ca3ac39c32725a158c1&txTime=68c34ec1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",DEN D1: Hobro vs Lyngby [BLV XAVI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-525090_lsd.flv?auth_key=1757611425-0-0-cd877360ef8501ca9cade9c018c868cb
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",DEN D1: Hobro vs Lyngby [BLV XAVI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-525090_lhd.flv?auth_key=1757611425-0-0-0680297e367c1936a90777b57b4b6670
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",DEN D1: Hobro vs Lyngby [BLV XAVI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-525090_lhd.m3u8?auth_key=1757611425-0-0-c7b5673c287e51ee03fe6a1776d335e2
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",DEN D1: Hobro vs Lyngby [BLV XAVI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-525090_lsd.m3u8?auth_key=1757611425-0-0-de45b5b770d72ac08f3f3be807e20bab
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ICE PR: Akranes vs Breidablik [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=ec87b614db5253b1660dea5ebeee95e9&txTime=68c34ec1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ICE PR: Akranes vs Breidablik [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=e9863a2c572ff8ec70d892ef9971bac4&txTime=68c34ec1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ICE PR: Akranes vs Breidablik [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=e9863a2c572ff8ec70d892ef9971bac4&txTime=68c34ec1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ICE PR: Akranes vs Breidablik [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=ec87b614db5253b1660dea5ebeee95e9&txTime=68c34ec1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ICE PR: Akranes vs Breidablik [BLV MASON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-524300_lsd.flv?auth_key=1757612145-0-0-a76d78db85af112f0044525dfb436d77
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ICE PR: Akranes vs Breidablik [BLV MASON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-524300_lhd.flv?auth_key=1757612145-0-0-4a816f49a0ffac55b97192e2d61361f3
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ICE PR: Akranes vs Breidablik [BLV MASON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-524300_lhd.m3u8?auth_key=1757612145-0-0-1e65dcfeee26f80367fdb67286ec9308
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ICE PR: Akranes vs Breidablik [BLV MASON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-524300_lsd.m3u8?auth_key=1757612145-0-0-7e70194328a8b88cadac5f3a8c77e0a7
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ICE PR: Akranes vs Breidablik [BLV VITAMIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1757612145-0-0-b3be1d629407086c445541a387b2fbeb
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ICE PR: Akranes vs Breidablik [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1757612145-0-0-b0097352ab6127446f62788f8bd2a831
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ICE PR: Akranes vs Breidablik [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1757612145-0-0-ba35710a93ba810ed1171067000caf6f
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ICE PR: Akranes vs Breidablik [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1757612145-0-0-f0005420036d3f35dcd6e5537dffd0b6
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",RUS Cup: FC Saturn Ramenskoe vs Broke Boys [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1757608905-0-0-5ab6b9b553bfab77f2e3224ccb414cb8
@@ -3035,6 +3191,18 @@ https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1757609985-0-0-2c15
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UAE LP: Shabab Al Ahli vs Baniyas Club [CÔNG CHẤT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1757609985-0-0-526ee813bacd4fc7bf913bac2d8ff5ff
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UEFA WCL: Eintracht Frankfurt Women vs Real Madrid Women [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1757612146-0-0-486717b30288b748c0e5b4fbc54763dd
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UEFA WCL: Eintracht Frankfurt Women vs Real Madrid Women [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1757612146-0-0-c721bc9128637d4fa6d9b3a4a0fc3bfb
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UEFA WCL: Eintracht Frankfurt Women vs Real Madrid Women [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1757612146-0-0-c6f0224ab538a623e8f96eaaab76d1af
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",UEFA WCL: Eintracht Frankfurt Women vs Real Madrid Women [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1757612146-0-0-4fbc1e0e655fd0d0f37bda90bb14313e
 
 #EXTGRP:Spor
 #EXTINF:-1 tvg-id="130" tvg-name="A Spor HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" group-title="Spor",A Spor HD
@@ -3533,6 +3701,14 @@ https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/405/1gy3wxpwb41t.png?win007=sell",23h30 Saturn Moscow vs Broke Boys (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/405/1gy3wxpwb41t.png?win007=sell",23h30 Saturn Moscow vs Broke Boys (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 
 #EXTGRP:WWE
 #EXTINF:-1 tvg-id="c5859f7bcc12f51550055536aca6d80f" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="WWE",All Elite Wrestling: Dynamite (FOX SPORTS PREMIUM MX)
