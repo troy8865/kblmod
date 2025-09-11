@@ -383,6 +383,14 @@ https://live.alilicloud.com/live/84fea990c80639cb0dd64ef0244237e4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/aa81422c82f37695a586faf49a68b3c6/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="",17h30 China Open WPA 9-Ball: BAI Ge WEI Tzu-Chien [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68c26d1b5bab9_17480.flv?expire=1758177179&sign=1b4e4a1b230903333097b8e57d4b7a38
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="",17h30 China Open WPA 9-Ball: BAI Ge WEI Tzu-Chien [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68c26d1b5bab9_17480/index.m3u8?expire=1758177179&sign=1b4e4a1b230903333097b8e57d4b7a38
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="",17h30 China Open WPA 9-Ball: WANG Xiaotong vs LIU Shasha [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -391,26 +399,10 @@ https://2893950149.global.cdnfastest.com/live/68c26d745bab9_97.flv?expire=175817
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c26d745bab9_97/index.m3u8?expire=1758177268&sign=1a97139ab4c616d8142ae9dceaadac41
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="",17h30 China Open WPA 9-Ball: YANG Zhiping Joshua FILLER [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68c26d1b5bab9_17480.flv?expire=1758177179&sign=1b4e4a1b230903333097b8e57d4b7a38
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="",17h30 China Open WPA 9-Ball: YANG Zhiping Joshua FILLER [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68c26d1b5bab9_17480/index.m3u8?expire=1758177179&sign=1b4e4a1b230903333097b8e57d4b7a38
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/0822416345e2d8d33a657df506467eea.png",17h30 MEG vs Bengaluru Roots FC 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/708f77aff18716f2d3f5a9f636be6a56/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/f1c69b4ed9cb031ab844404b5c2c7c77.jpg",17h45 Leo Rolly CARNANDO vs LIANG Wei Keng [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68c280422f365_5160.flv?expire=1758182082&sign=b1ea82010c7d143f0262370f52e554ed
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/f1c69b4ed9cb031ab844404b5c2c7c77.jpg",17h45 Leo Rolly CARNANDO vs LIANG Wei Keng [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68c280422f365_5160/index.m3u8?expire=1758182082&sign=b1ea82010c7d143f0262370f52e554ed
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/2d04da8def36713b38583013f513d06a.jpg",17h45 LIU Sheng Shu vs Rui HIROKAMI [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -443,6 +435,14 @@ https://2893950149.global.cdnfastest.com/live/68c2a3b75bab9_39936.flv?expire=175
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c2a3b75bab9_39936/index.m3u8?expire=1758191159&sign=87d6b77803090a75645e60b8735dea51
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5609b6945b08beae5a3914122873f712.jpg",18h45 TANG Chun Man vs Mads VESTERGAARD [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68c280422f365_5160.flv?expire=1758182082&sign=b1ea82010c7d143f0262370f52e554ed
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5609b6945b08beae5a3914122873f712.jpg",18h45 TANG Chun Man vs Mads VESTERGAARD [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68c280422f365_5160/index.m3u8?expire=1758182082&sign=b1ea82010c7d143f0262370f52e554ed
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -451,6 +451,14 @@ https://2893950149.global.cdnfastest.com/live/68c2ad132f366_4908.flv?expire=1758
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c2ad132f366_4908/index.m3u8?expire=1758193555&sign=11ad5eedf8384d8aa42cca8d6a4e021c
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png",19h15 Johor Darul Ta'zim FC vs Penang FC [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68c2b6302f366_4579.flv?expire=1758195888&sign=bf2ca92550193d3d2a191809e5c7a801
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png",19h15 Johor Darul Ta'zim FC vs Penang FC [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68c2b6302f366_4579/index.m3u8?expire=1758195888&sign=bf2ca92550193d3d2a191809e5c7a801
 
 #EXTGRP:CHUỐI CHIÊN
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130604_74c6b78d.png",18h00 ngày 11 Akademiya Ontustik vs Aktobe Jas (Chuối Chiên) HD1
@@ -679,6 +687,30 @@ https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@luluhd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Cà Khịa) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@luluhd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lulusd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Cà Khịa) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lulusd1.flv
 
 #EXTGRP:CÁ HEO
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/70fa2a42a5cfb5b712fb14677cc098ab.png",17h00 Comoros U17 vs Eswatini U17 (CH) Nhà đài
@@ -733,6 +765,30 @@ https://179245845.cdnfree.pro/live/duongtiensd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@luluhd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@luluhd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lulusd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@lulusd1.flv
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://static.flashscore.com/res/image/data/v192ukcM-OvMLJ256.png",19h30 FK MOIK Baku vs Shahdagh Qusar (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -742,7 +798,7 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m402nd/playlist.m
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/8ITBcOkl-4vob7cTR.png",01h00 ngày 25.09 AZ Alkmaar vs PEC Zwolle (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/R77lBlt_W55_y1RjpC3GTA/Fv2lucGIbhPi2caWYvF5Lg/1757612165641/live/may101/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/fisePW0QnYSKwfMPukeUQg/Fv2lucGIbhPi2caWYvF5Lg/1757612896400/live/may101/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/91cf23812e9c322f3095477dadbe2b52.png",04h10 ngày 12.09 Elise Mertens vs Elsa Jacquemot (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -947,6 +1003,62 @@ https://live8.fastestcdn-global.com/live8/1d29009081d14f3e80854f85cec0fd1e_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc43163716.stream.hdplaylink.com/live7/1d29009081d14f3e80854f85cec0fd1e_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/e2ad4c162ded4d0abbe44eb9feee9899_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/e2ad4c162ded4d0abbe44eb9feee9899_720/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/e2ad4c162ded4d0abbe44eb9feee9899_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/e2ad4c162ded4d0abbe44eb9feee9899_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/e2ad4c162ded4d0abbe44eb9feee9899_480/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/e2ad4c162ded4d0abbe44eb9feee9899_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6b2b2767c98dd24a03b2b7c070c5ee7d/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/255fa1bc310247ff82db01715b5a7a15_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/255fa1bc310247ff82db01715b5a7a15_720/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/255fa1bc310247ff82db01715b5a7a15_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/255fa1bc310247ff82db01715b5a7a15_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/255fa1bc310247ff82db01715b5a7a15_480/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/255fa1bc310247ff82db01715b5a7a15_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/de2e8897ca1f23675d4def56b080bd98/playlist.m3u8
 
 #EXTGRP:Haber
 #EXTINF:-1 tvg-id="97" tvg-name="24 HABER HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg" group-title="Haber",24 HABER HD
@@ -1189,10 +1301,70 @@ https://live3.fastestcdn-global.com/live3/1a6f43800d184f9a8557a475f2f7692a_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live4.fastestcdn-global.com/live4/1a6f43800d184f9a8557a475f2f7692a_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/0e3e95201a1f8d59e0fb1ac50cacb501/image/small",18h00 Akademiya Ontustik vs FK Aktobe II (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/fdcdee74e69c52454addcfd7c95797e2/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/fe1babccfe06ecc2b1f095790cd403c8/image/small",18h00 Yassy Turkistan vs Khan Tengri FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/475612246acada2b4a3925e6b23141ec/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/a2127bddb8da4c87ae6f223fd7d65b23_720/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/a2127bddb8da4c87ae6f223fd7d65b23_720/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/a2127bddb8da4c87ae6f223fd7d65b23_720/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Khán Đài A) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/a2127bddb8da4c87ae6f223fd7d65b23_480/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Khán Đài A) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/a2127bddb8da4c87ae6f223fd7d65b23_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Khán Đài A) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/a2127bddb8da4c87ae6f223fd7d65b23_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/66939a8a3a47b6f40f3b7ddfd19dd0ef/image/small",19h00 Persita Tangerang vs PSM Makassar (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6b2b2767c98dd24a03b2b7c070c5ee7d/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/7b33bcb8c1e14684828fd8c8da85dd04_720/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/7b33bcb8c1e14684828fd8c8da85dd04_720/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/7b33bcb8c1e14684828fd8c8da85dd04_720/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Khán Đài A) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/7b33bcb8c1e14684828fd8c8da85dd04_480/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Khán Đài A) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/7b33bcb8c1e14684828fd8c8da85dd04_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Khán Đài A) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/7b33bcb8c1e14684828fd8c8da85dd04_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a177bee3b894e33639bbb67240c5eeb2/image/small",19h15 Johor Darul Ta'zim FC vs Penang FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/de2e8897ca1f23675d4def56b080bd98/playlist.m3u8
 
 #EXTGRP:LƯƠNG SƠN
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/37310/1gxa4ree2a3.png?win007=sell",18h00 Akademiya Ontustik vs FK Aktobe II (LS) BLV HOÀNG LONG flv
@@ -1309,6 +1481,30 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@luluhd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@luluhd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lulusd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lulusd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://static.flashscore.com/res/image/data/v192ukcM-OvMLJ256.png",19h30 FK MOIK Baku vs Shahdagh Qusar (LẤY KINH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1423,6 +1619,30 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@luluhd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@luluhd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lulusd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lulusd1.flv
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://static.flashscore.com/res/image/data/v192ukcM-OvMLJ256.png",19h30 FK MOIK Baku vs Shahdagh Qusar (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1477,6 +1697,30 @@ https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@luluhd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Ra Khơi) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@luluhd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lulusd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Ra Khơi) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lulusd1.flv
 
 #EXTGRP:RUGBY LEAGUE
 #EXTINF:-1 tvg-id="39d9a838a577a8b1cb3b1d9921bd8d8f" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",National Rugby League Women : Sydney Roosters W vs Cronulla Sharks W (FOX SOCCER PLUS)
@@ -1503,18 +1747,18 @@ https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1508045_small.png",16:00 Irkutsk vs Tom Tomsk (Sao kê) HD 3
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165206_small.png",19:00 Xem trực tiếp bình luận bóng đá full HD hôm nay: Persita và PSM Makassar (Sao kê) HD 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x8y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1508045_small.png",16:00 Irkutsk vs Tom Tomsk (Sao kê) HD 3
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x16y2/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165206_small.png",19:00 Xem trực tiếp bình luận bóng đá full HD hôm nay: Persita và PSM Makassar (Sao kê) HD 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x8y3-0434/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1508045_small.png",16:00 Irkutsk vs Tom Tomsk (Sao kê) SD 2
+https://wtyi0525.edgemaxcdn.org/live/x16y3-0173/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165206_small.png",19:00 Xem trực tiếp bình luận bóng đá full HD hôm nay: Persita và PSM Makassar (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x8y1/playlist.m3u8
+https://saoke.cdn.khmer-hd.com/x16y1/playlist.m3u8
 
 #EXTGRP:Sinema
 #EXTINF:-1 tvg-id="76" tvg-name="BS ACTION 1" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/1883f1dfa1e69b6788849eaab4b1f8e7.png" group-title="Sinema",BS ACTION 1
@@ -1709,30 +1953,6 @@ https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbAgQFOkcsVjY4WgMiAw==.m3u8
 
 #EXTGRP:SOCOLIVE
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/f5c9938c5c52e6c5ee96e182931c06ef.png",17h00 ngày 11/09 Imus Braderhood vs Quezon Huskers [BLV BEAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/9912111-480p.flv
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/f5c9938c5c52e6c5ee96e182931c06ef.png",17h00 ngày 11/09 Imus Braderhood vs Quezon Huskers [BLV BEAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/9912111-720p.flv
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/f5c9938c5c52e6c5ee96e182931c06ef.png",17h00 ngày 11/09 Imus Braderhood vs Quezon Huskers [BLV BEAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/f5c9938c5c52e6c5ee96e182931c06ef.png",17h00 ngày 11/09 Imus Braderhood vs Quezon Huskers [BLV BEAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/f5c9938c5c52e6c5ee96e182931c06ef.png",17h00 ngày 11/09 Imus Braderhood vs Quezon Huskers [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=187e67700efb55267b67c5ae55ec2473&txTime=68c2edb9
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/f5c9938c5c52e6c5ee96e182931c06ef.png",17h00 ngày 11/09 Imus Braderhood vs Quezon Huskers [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=0de09b76a9b599a87fdac21994ce9568&txTime=68c2edb9
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/f5c9938c5c52e6c5ee96e182931c06ef.png",17h00 ngày 11/09 Imus Braderhood vs Quezon Huskers [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=0de09b76a9b599a87fdac21994ce9568&txTime=68c2edb9
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/f5c9938c5c52e6c5ee96e182931c06ef.png",17h00 ngày 11/09 Imus Braderhood vs Quezon Huskers [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=187e67700efb55267b67c5ae55ec2473&txTime=68c2edb9
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/10af73ca837929c61f4181e68c24afef.png",18h00 ngày 11/09 Akademiya Ontustik vs FK Aktobe II [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1757590545-0-0-5d29b5374adc2d788bed15d3b8a5a813
@@ -1805,6 +2025,30 @@ https://pull.niues.live/live/stream-536186_lhd.m3u8?auth_key=1757591265-0-0-f57a
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/65e804cc22ab426093b9df9d256dd3d4.png",18h00 ngày 11/09 Yassy Turkistan vs Khan Tengri FC [VIÊN THIỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-536186_lsd.m3u8?auth_key=1757591265-0-0-27f7274e6790a4aed8882a4857f738d9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/1c5e4b7f5234584c563d719a6d3dd9ae.png",19h00 ngày 11/09 Binan Tatak Gel vs Bacolod Tubo Slashers [BLV GẤU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912107_lsd.flv?auth_key=1757594865-0-0-f239347ed6f5e236fefc22725a85e9c3
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/1c5e4b7f5234584c563d719a6d3dd9ae.png",19h00 ngày 11/09 Binan Tatak Gel vs Bacolod Tubo Slashers [BLV GẤU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912107_lhd.flv?auth_key=1757594865-0-0-1f19f267836747eefa1c1d497f09e1b4
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/1c5e4b7f5234584c563d719a6d3dd9ae.png",19h00 ngày 11/09 Binan Tatak Gel vs Bacolod Tubo Slashers [BLV GẤU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1757594865-0-0-b053c51de8eccb7e0e4d887d4d01dccc
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/1c5e4b7f5234584c563d719a6d3dd9ae.png",19h00 ngày 11/09 Binan Tatak Gel vs Bacolod Tubo Slashers [BLV GẤU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1757594865-0-0-fcdbe6959f4ae03e028a5bbeb0bc5fdc
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/1c5e4b7f5234584c563d719a6d3dd9ae.png",19h00 ngày 11/09 Binan Tatak Gel vs Bacolod Tubo Slashers [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=2ed52e09af9e128ac2d0ad210d15fc39&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/1c5e4b7f5234584c563d719a6d3dd9ae.png",19h00 ngày 11/09 Binan Tatak Gel vs Bacolod Tubo Slashers [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=f6e008fdcd576c6bdd441a401b21eb16&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/1c5e4b7f5234584c563d719a6d3dd9ae.png",19h00 ngày 11/09 Binan Tatak Gel vs Bacolod Tubo Slashers [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=f6e008fdcd576c6bdd441a401b21eb16&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/1c5e4b7f5234584c563d719a6d3dd9ae.png",19h00 ngày 11/09 Binan Tatak Gel vs Bacolod Tubo Slashers [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=2ed52e09af9e128ac2d0ad210d15fc39&txTime=68c30b41
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1757593785-0-0-4bbd11687cfe15a32d3dcf5eb926b632
@@ -1817,6 +2061,18 @@ https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1757593785-0-0-ce76
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1757593785-0-0-5c33fe6cab9b303e65bec703dbffc3e4
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [BLV SATIVA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1757594865-0-0-8964234a75a6e43932f4cbb3d17e5338
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [BLV SATIVA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1757594865-0-0-05bc56bce12e0271536cd79bf9fe4026
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [BLV SATIVA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1757594865-0-0-216b22c05479272d7a8521e54312c16e
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [BLV SATIVA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1757594865-0-0-1b0a3189f9146b11631a0d5d8fc4a957
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912110_lsd.flv?txSecret=58f1577f50de080a67cdaf2aae365356&txTime=68c305a1
@@ -1829,6 +2085,18 @@ https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=ef7293f1fb82e389351
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=58f1577f50de080a67cdaf2aae365356&txTime=68c305a1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1757594865-0-0-798850046828ac4674097d32a2b6737d
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1757594865-0-0-ff10aeadff2891ec29ec95b2f7e9108d
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1757594865-0-0-0eab51cf08bd3abad1659d29668be48c
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1757594865-0-0-6dc16e3363e6c83abef27db575e38d95
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [SÙNG A MÚP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1757593784-0-0-c332d1dea0f4ac3a255e994ca77cceed
@@ -1853,6 +2121,90 @@ https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=b9acf6e236a793d4157
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [TAM MAO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=18ba46241e26ce9bb5b9f9fb58f4b6bc&txTime=68c3071a
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1757594865-0-0-309b8b46f5d9ebbbe21cc4a9f4510d1c
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1757594865-0-0-d63c5293d61eff0146b61a02420fb39c
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1757594865-0-0-c404751f1d1b45902a624fd331525e23
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1757594865-0-0-748b4c7cc582d346f64643250c597481
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=01eb85fb439af2b43aadf8c7c40f9d96&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=6aab15ad2c1b08ea848cc21d751e5534&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=6aab15ad2c1b08ea848cc21d751e5534&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=01eb85fb439af2b43aadf8c7c40f9d96&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV PIRLO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=a39cb2e857aa8fe2964cb3de3752219c&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV PIRLO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=9c9ca0be4fade1abcdbcac8f6976c766&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV PIRLO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=9c9ca0be4fade1abcdbcac8f6976c766&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV PIRLO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=a39cb2e857aa8fe2964cb3de3752219c&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=65d7fcc7a6aa6d7b8c6f15a505924a9b&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=7669666804e2f50cc9208ed6722d7254&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=7669666804e2f50cc9208ed6722d7254&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=65d7fcc7a6aa6d7b8c6f15a505924a9b&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912101_lsd.flv?auth_key=1757594865-0-0-995af94017ed45223653737f5ee559fd
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912101_lhd.flv?auth_key=1757594865-0-0-55f8834342ba5820516d6475a0eeb047
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1757594865-0-0-6a6e429dad74e9f09b4f60d05aea22f6
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1757594865-0-0-6d4d5f6918d529326c0fd6c770e878f1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=fd69857d27a374a97213d7a186a3a3d5&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=b726f27d85951e6206f7bd4cc7cbb4ac&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b726f27d85951e6206f7bd4cc7cbb4ac&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/4e240507309fb2eed910fdeff533bc07.png",19h15 ngày 11/09 Johor Darul Ta'zim FC vs Penang FC [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=fd69857d27a374a97213d7a186a3a3d5&txTime=68c30b41
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/78701dab8c88cac904cc783d0d9388cb.png",19h30 ngày 11/09 FK MOIK Baku vs Shahdagh Qusar [BLV AK47] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912092-480p.flv
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/78701dab8c88cac904cc783d0d9388cb.png",19h30 ngày 11/09 FK MOIK Baku vs Shahdagh Qusar [BLV AK47] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912092-720p.flv
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/78701dab8c88cac904cc783d0d9388cb.png",19h30 ngày 11/09 FK MOIK Baku vs Shahdagh Qusar [BLV AK47] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912092-720p.m3u8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/78701dab8c88cac904cc783d0d9388cb.png",19h30 ngày 11/09 FK MOIK Baku vs Shahdagh Qusar [BLV AK47] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912092-480p.m3u8
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1757584785-0-0-b00451300a5506d7b49b2a3c44ca19db
