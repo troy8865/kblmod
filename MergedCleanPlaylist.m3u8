@@ -215,10 +215,6 @@ https://image.yorganuzmani.lol/live/yaban.m3u8?token=3Cu7J5vqrbiZnkIy8YliZw&tms=
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8AACdSKUklOV8GIh4=.m3u8
 
 #EXTGRP:BÚN CHẢ
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ecfc2fc9c6b819398b09dc3d112b13fe.png",00h30 Ajax Amsterdam (w) vs Sturm Graz/Stattegg (w) 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/6a66a69bf02b1c18560753fd037d2d02/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/59390e2ab3fa6e830410f9f08f9cb27d.png",00h40 Al-Arabi(KSA) vs Al Anwar SA 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -269,14 +265,6 @@ https://2893950149.global.cdnfastest.com/live/68c306da5bab9_161.flv?expire=17582
 https://2893254555.global.cdnfastest.com/live/68c306da5bab9_161/index.m3u8?expire=1758216538&sign=05d8a077a33a82c8bf59cf65f97cab22
 
 #EXTGRP:CHUỐI CHIÊN
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140332_5ee1729c.png",00h30 ngày 12 St. Pölten W vs Fortuna Hjørring (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140332_5ee1729c.png",00h30 ngày 12 St. Pölten W vs Fortuna Hjørring (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x4.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133742_94d1bbd1.png",01h30 ngày 12 Roma W vs Sporting CP W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -373,6 +361,30 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_135807_71eeb0d7.png",16h00 ngày 12 Bà Rịa Vũng Tàu vs Đồng Tháp (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilun/playlist.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_135807_71eeb0d7.png",16h00 ngày 12 Bà Rịa Vũng Tàu vs Đồng Tháp (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilun/index.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_135807_71eeb0d7.png",16h00 ngày 12 Bà Rịa Vũng Tàu vs Đồng Tháp (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilun.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_135807_71eeb0d7.png",16h00 ngày 12 Bà Rịa Vũng Tàu vs Đồng Tháp (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilun.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_135807_71eeb0d7.png",16h00 ngày 12 Bà Rịa Vũng Tàu vs Đồng Tháp (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilun/index.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_135807_71eeb0d7.png",16h00 ngày 12 Bà Rịa Vũng Tàu vs Đồng Tháp (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilun.flv
 
 #EXTGRP:CRICKET
 #EXTINF:-1 tvg-id="51ba4b5b1e1ae2f66ffa9882c2a079a9" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="CRICKET",Asia Cup : Bangladesh vs Hong Kong (ASTRO CRICKET)
@@ -661,30 +673,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunsd1.flv
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m402nd/playlist.m3u8
 
 #EXTGRP:CÁ HEO
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nunghd1/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/nunghd2/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (CH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nungsd1/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/nungsd2/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (CH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/3d8dd7d2d4eb22caf9cf721087d2236f.png",00h40 Al-Arabi(KSA) vs Al Anwar SA (CH) HD (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -735,66 +723,70 @@ https://179245845.cdnfree.pro/live/caysd2/playlist.m3u8
 https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 
 #EXTGRP:CÁ KÈO
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/ecfc2fc9c6b819398b09dc3d112b13fe.png",00h30 ngày 12.09 Ajax Amsterdam (w) VS Sturm Graz/Stattegg (w) (CK) Backup 1
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/9ebd79de8504a6573dce8c419ff16b10.png",00h00 ngày 12.09 Eintracht Frankfurt (w) vs Real Madrid (w) (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/aISiLDgFKY6pZjiJR5eF9g/Fv2lucGIbhPi2caWYvF5Lg/1757639896431/live/sd-6MvY6pBU5VYFN9x6V9/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 ngày 12.09 CSA Steaua Bucuresti VS FCM Targu Mures (CK) Backup 1
+https://live-xlvb.nsnd.live/uTWUQ1RGMP-DyunTAF8MoA/cac03b136a8c356be180b4618c6bfeb5/1757641337/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/9ebd79de8504a6573dce8c419ff16b10.png",00h00 ngày 12.09 Eintracht Frankfurt (w) vs Real Madrid (w) (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/rjP45jr9BEksqAgNFV2hUw/Fv2lucGIbhPi2caWYvF5Lg/1757639892089/live/sd-6MuQ9HKsu3yN5eW147/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/b455fced1f99bb2ef00b03c3e693cb8c.png",00h30 ngày 12.09 St. Polten (w) VS Fortuna Hjorring (w) (CK) Backup 1
+https://live-xlvb.nsnd.live/jJN2bHYMSPeUIy_EedyWIA/0aafe7a6d19bfafd5e27cf7084b37d51/1757641337/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/9ebd79de8504a6573dce8c419ff16b10.png",00h00 ngày 12.09 Eintracht Frankfurt (w) vs Real Madrid (w) (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/ZAMKvPsvnLvqS-j7fWOaRQ/Fv2lucGIbhPi2caWYvF5Lg/1757639887678/live/sd-6MvY6XuDqBQjvBP2Xm/playlist.m3u8
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1757641337&sign=3c28910f9c31c0a1f6e57ae3e5ca2b37
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/9ebd79de8504a6573dce8c419ff16b10.png",00h00 ngày 12.09 Eintracht Frankfurt (w) vs Real Madrid (w) (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/_lS36QQdyGT9mBd20tCi7w/Fv2lucGIbhPi2caWYvF5Lg/1757641337629/live/xienSD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/59390e2ab3fa6e830410f9f08f9cb27d.png",00h40 ngày 12.09 Al-Arabi(KSA) VS Al Anwar SA (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/rO5ZA_-hPxYnBBlcEuYLMA/Fv2lucGIbhPi2caWYvF5Lg/1757639888306/live/sd-6MvXbwFV7puVrU3c8j/playlist.m3u8
+https://apisportzz179528093.nsnd.live/XZ4NuN9CFF4jTmHswpJ0aQ/Fv2lucGIbhPi2caWYvF5Lg/1757641327386/live/sd-6MvXbwFV7puVrU3c8j/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/dce7eaa8186e85d556de98ae219c28b7.png",01h00 ngày 12.09 Argentinos Jrs Reserves VS Banfield Reserves (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/nFf8z48qD0zhbByZcC9RYw/Fv2lucGIbhPi2caWYvF5Lg/1757639889423/live/sd-6MvY6XtVBn4Ueeh3zj/playlist.m3u8
+https://apisportzz179528093.nsnd.live/sEYfwaxDsZ9jGPXon6roYw/Fv2lucGIbhPi2caWYvF5Lg/1757641328465/live/sd-6MvY6XtVBn4Ueeh3zj/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/591cd3c2ab45ee154bada8fba71e55aa.png",01h00 ngày 12.09 CA Independiente Reserves VS San Lorenzo Reserves (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/hdFdhP6cQPfwEpSXu1AyDQ/Fv2lucGIbhPi2caWYvF5Lg/1757639902026/live/sd-6MvY6XtVBMtC5NbyJs/playlist.m3u8
+https://apisportzz179528093.nsnd.live/7tOJNjrpn2eC82gRRCmjaA/Fv2lucGIbhPi2caWYvF5Lg/1757641339274/live/sd-6MvY6XtVBMtC5NbyJs/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/93aab746452a7b96eee2fb4ba202a276.png",01h00 ngày 12.09 Godoy Cruz Reserves VS Instituto AC Cordoba II (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/et_8_d4rgMbmwSZIm6tm2Q/Fv2lucGIbhPi2caWYvF5Lg/1757639898134/live/sd-6MvY6XtVBtevG6AoTR/playlist.m3u8
+https://apisportzz179528093.nsnd.live/-rT1LfVxW8C9l9sKjYSpgg/Fv2lucGIbhPi2caWYvF5Lg/1757641335756/live/sd-6MvY6XtVBtevG6AoTR/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/5481983905b70c5cb7835edef949af6e.png",01h00 ngày 12.09 Huracan Reserves VS Racing Club Reserves (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/JXoREEvHvGhOJzWi7kF2OQ/Fv2lucGIbhPi2caWYvF5Lg/1757639899929/live/sd-6MvY6XtVBrTSPcLtJX/playlist.m3u8
+https://apisportzz179528093.nsnd.live/yWwERTKK4q2ENkk7w6Yd1A/Fv2lucGIbhPi2caWYvF5Lg/1757641337977/live/sd-6MvY6XtVBrTSPcLtJX/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/0eb31150ef52b29724fdad15b7cb9005.png",01h00 ngày 12.09 Lanus Reserves VS Platense Reserves (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/f4humgwNBo3KBw92Y23tFg/Fv2lucGIbhPi2caWYvF5Lg/1757639897406/live/sd-6MvY6XtVBKgiCtn49y/playlist.m3u8
+https://apisportzz179528093.nsnd.live/euIEaZYU7uchwqOWA_5_pg/Fv2lucGIbhPi2caWYvF5Lg/1757641335386/live/sd-6MvY6XtVBKgiCtn49y/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/b02204a3b6d1417648066a16ac321669.png",01h00 ngày 12.09 Union Santa Fe Reserves VS Independiente Rivadavia Reserves (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/gg8jgVjhuiQ01IG_nkLweA/Fv2lucGIbhPi2caWYvF5Lg/1757639886685/live/sd-6MvY6XtUMA6y17kGCT/playlist.m3u8
+https://apisportzz179528093.nsnd.live/v9mFqBZhp4TA0cOQat6C_Q/Fv2lucGIbhPi2caWYvF5Lg/1757641326354/live/sd-6MvY6XtUMA6y17kGCT/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/RGSTGLICF2VGTQxoVqHE5g/Fv2lucGIbhPi2caWYvF5Lg/1757639901568/live/sd-6MvY6XuDftv1gdyVx7/playlist.m3u8
+https://apisportzz179528093.nsnd.live/FgF_GWyf_C291vlP8Kk8dw/Fv2lucGIbhPi2caWYvF5Lg/1757641338844/live/sd-6MvY6XuDftv1gdyVx7/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/-2SSsAsOcvVIwMDfMr7Cyg/aa2414c41b563aa2e0f4a276a0f50172/1757639901/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/fIbg-3DDlXxfltLAm8LJjg/aa2414c41b563aa2e0f4a276a0f50172/1757641338/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/ZqSbWo3C64BS6FskynHwhQ/778e7779236aef8ae68b578426d0ddb4/1757639901/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/LfNrt9oxOfKNwWQBMAiQDQ/778e7779236aef8ae68b578426d0ddb4/1757641338/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1757639901&sign=3059b9e086faca361f52788af439a139
+https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1757641338&sign=eef912974799def3380fc8a92c971c7c
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a02272123b0c499eb1de481aa466b9e9.png",01h30 ngày 12.09 AS Roma (w) vs Sporting CP (w) (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ANu0SzB174TVRyY18eNenw/Fv2lucGIbhPi2caWYvF5Lg/1757639901569/live/meoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ItgxlwYrEv3oTlawmlwuig/Fv2lucGIbhPi2caWYvF5Lg/1757641338845/live/meoSD/playlist.m3u8
 
 #EXTGRP:Diğer
 #EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer",FASHION TV
@@ -1309,30 +1301,6 @@ https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d99670722
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTGRP:LẤY KINH
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (LẤY KINH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nunghd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (LẤY KINH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (LẤY KINH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (LẤY KINH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nungsd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (LẤY KINH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (LẤY KINH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/3d8dd7d2d4eb22caf9cf721087d2236f.png",00h40 Al-Arabi(KSA) vs Al Anwar SA (LẤY KINH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1439,30 +1407,6 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8?toke
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8?token=o08PEmjVJ6tBP3osOS1ZbA&tms=1756725008
 
 #EXTGRP:QUAY TAY
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nunghd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nungsd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/11195709883b36ac5758a1fcca882fe1.png",00h30 CSA Steaua Bucuresti vs FCM Targu Mures (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/3d8dd7d2d4eb22caf9cf721087d2236f.png",00h40 Al-Arabi(KSA) vs Al Anwar SA (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1811,42 +1755,6 @@ https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl
 https://rblive.starxcdn.xyz/live/y0or5jh8027zqwz_football_fhd/playlist.m3u8
 
 #EXTGRP:SAO KÊ
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4182_small.png",00:00 Brann (W) và Manchester United (W) (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x10y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4182_small.png",00:00 Brann (W) và Manchester United (W) (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x10y3-1362/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4182_small.png",00:00 Brann (W) và Manchester United (W) (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x10y1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/294857_small.png",00:00 Eintracht Frankfurt (W) và Real Madrid (W) (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x20y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/294857_small.png",00:00 Eintracht Frankfurt (W) và Real Madrid (W) (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x20y1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/294857_small.png",00:00 Eintracht Frankfurt (W) và Real Madrid (W) (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x20y3-1117/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9950_small.png",00:00 Hobro và Lyngby (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x8y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9950_small.png",00:00 Hobro và Lyngby (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x8y3-0435/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9950_small.png",00:00 Hobro và Lyngby (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x8y1/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10096_small.png",01:00 Union vs Independiente Rivadavia (Sao kê) HD 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -2027,42 +1935,6 @@ https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbAgQFOkcsVjY4WgMiAw==.m3u8
 
 #EXTGRP:SOCOLIVE
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/8e95c149caf4e0e7fcb0ce764c35a04d.png",00h30 ngày 12/09 Steaua Bucuresti vs FCM Targu Mures [BLV VIP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=63f0bbe342dd88c5d645adc52330b693&txTime=68c35732
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/8e95c149caf4e0e7fcb0ce764c35a04d.png",00h30 ngày 12/09 Steaua Bucuresti vs FCM Targu Mures [BLV VIP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=7df14ef8c582d069bde1dd26c1cd9ecd&txTime=68c35732
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/8e95c149caf4e0e7fcb0ce764c35a04d.png",00h30 ngày 12/09 Steaua Bucuresti vs FCM Targu Mures [BLV VIP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=7df14ef8c582d069bde1dd26c1cd9ecd&txTime=68c35732
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/8e95c149caf4e0e7fcb0ce764c35a04d.png",00h30 ngày 12/09 Steaua Bucuresti vs FCM Targu Mures [BLV VIP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=63f0bbe342dd88c5d645adc52330b693&txTime=68c35732
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/8e95c149caf4e0e7fcb0ce764c35a04d.png",00h30 ngày 12/09 Steaua Bucuresti vs FCM Targu Mures [QUANG VINH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1757614306-0-0-073dd27c08a96a0c4c713bdb20432e6c
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/8e95c149caf4e0e7fcb0ce764c35a04d.png",00h30 ngày 12/09 Steaua Bucuresti vs FCM Targu Mures [QUANG VINH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1757614306-0-0-48e88872dab04241956d17456e59b89b
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/8e95c149caf4e0e7fcb0ce764c35a04d.png",00h30 ngày 12/09 Steaua Bucuresti vs FCM Targu Mures [QUANG VINH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1757614306-0-0-42448d4eb532230c596679b4323173b6
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/8e95c149caf4e0e7fcb0ce764c35a04d.png",00h30 ngày 12/09 Steaua Bucuresti vs FCM Targu Mures [QUANG VINH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1757614306-0-0-4f5ce0657fb4a0883d20706f6b825b76
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/8e95c149caf4e0e7fcb0ce764c35a04d.png",00h30 ngày 12/09 Steaua Bucuresti vs FCM Targu Mures [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/501412-480p.flv
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/8e95c149caf4e0e7fcb0ce764c35a04d.png",00h30 ngày 12/09 Steaua Bucuresti vs FCM Targu Mures [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/501412-720p.flv
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/8e95c149caf4e0e7fcb0ce764c35a04d.png",00h30 ngày 12/09 Steaua Bucuresti vs FCM Targu Mures [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/501412-720p.m3u8
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/8e95c149caf4e0e7fcb0ce764c35a04d.png",00h30 ngày 12/09 Steaua Bucuresti vs FCM Targu Mures [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/501412-480p.m3u8
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/cefe604405aa8026226850a5eb1b63c9.png",01h30 ngày 12/09 AS Roma Women vs Sporting CP Women [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1757617546-0-0-571f56b74d904adb51eac9f0bb4110d7
