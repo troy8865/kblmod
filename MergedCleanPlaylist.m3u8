@@ -1891,10 +1891,6 @@ https://2893950149.global.cdnfastest.com/live/68c64e0e5baba_17480.flv?expire=175
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c64e0e5baba_17480/index.m3u8?expire=1758431374&sign=2e82246b3c609f45d1159d36d2b662e3
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ea3865088681eb7132afcbfb47319d2b.jpg",13h00 Canberra FC (w) vs Canberra Olympic (w) 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/464907b0a810b8df644c3dcd1929faa9/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/8a4488c177d9dc8c3da7c745c89ca214.jpg",13h00 Okayama Yunogo Belle (w) vs Orca Kamogawa FC 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -1927,6 +1923,10 @@ https://2893950149.global.cdnfastest.com/live/68c657f02f366_5160.flv?expire=1758
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c657f02f366_5160/index.m3u8?expire=1758433904&sign=d06b9ddd56a328ec9e6942b5b1888e41
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/bd461f24b9bff7f868e9b94d80978e10.png",14h00 Irkutsk vs FK Kosmos Dolgoprudny 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/193611865ae27ed95c5ff98e2ab66a24/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/3466ec3855405f63da99ce7013d3444b.png",14h00 Pyeongtaek Citizen vs Gijang United 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -1947,6 +1947,14 @@ https://2893950149.global.cdnfastest.com/live/68c66bc12f366_44731.flv?expire=175
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c66bc12f366_44731/index.m3u8?expire=1758438977&sign=b4735d81f3e618ed0402bf2d753caa22
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/fef70eb7dee84d19446f52cb3490fd71.png",15h00 Shanghai Port B vs Guangdong Mingtu [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68c66da85baba_161.flv?expire=1758439464&sign=42a68f2a3f87f0929b582e0b0ec8d61e
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/fef70eb7dee84d19446f52cb3490fd71.png",15h00 Shanghai Port B vs Guangdong Mingtu [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68c66da85baba_161/index.m3u8?expire=1758439464&sign=42a68f2a3f87f0929b582e0b0ec8d61e
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/4a5873c2f4d2aea786dc787a37b4b34c.png",17h30 AS Roma vs Torino 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -2259,10 +2267,6 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m306nd/playlist.m
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8
 
 #EXTGRP:CÁ KÈO
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/30ca9ce3f25e8a430b25b27e776b9dc0.png",12h00 ngày 14.09 SKA Khabarovsk VS FK Chelyabinsk (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/hSD6TNCSg_1pYJqqWZgS-A/Fv2lucGIbhPi2caWYvF5Lg/1757853381986/live/sd-6MvY6UeERpVPeSoBoR/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/ea3865088681eb7132afcbfb47319d2b.jpg",13h00 ngày 14.09 Canberra FC (w) VS Canberra Olympic (w) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2537,6 +2541,10 @@ https://live.alilicloud.com/live/e0e16a85504d5bc3d2932057cf391db9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/8261ea9a4a04fe29982409b65f40585a/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/edb0a3222685cdddf7f6131f8db4bb5f/image/small",13h00 Canberra FC Women vs Canberra Olympic Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/464907b0a810b8df644c3dcd1929faa9/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/61f504095954c39271777967e1610aab/image/small",13h00 Okayama Yunogo Belle Women vs Orca Kamogawa FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -3719,10 +3727,6 @@ https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8FDBkyVzZaJDxaBj8L.m3u8
 
 #EXTGRP:SAO KÊ
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",12:30 Iran vs Egypt (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",12:45 TRỰC TIẾP CẦU LÔNG vs GIẢI VIỆT NAM MỞ RỘNG (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -3851,6 +3855,30 @@ https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1757832105-0-0-44c
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/2c19b329a14f4c18aad515a9777aa852.png",13h00 ngày 14/09 Pocheon FC vs Gyeongju KHNP [BLV SHOGUN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1757832105-0-0-88216ac37a5bed8dfddca1d4b7576c3e
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/2cf52b9824a59d4d684e38517598a343.png",15h00 ngày 14/09 CSM Satu Mare vs Corvinul Hunedoara [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1757838225-0-0-7cdd08f161a65f14d22ba5eb7402e452
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/2cf52b9824a59d4d684e38517598a343.png",15h00 ngày 14/09 CSM Satu Mare vs Corvinul Hunedoara [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1757838225-0-0-f2f97fbfd59334d7da643c2b0f333870
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/2cf52b9824a59d4d684e38517598a343.png",15h00 ngày 14/09 CSM Satu Mare vs Corvinul Hunedoara [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1757838225-0-0-a2bd116b2ab55574efc6b1bf29537947
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/2cf52b9824a59d4d684e38517598a343.png",15h00 ngày 14/09 CSM Satu Mare vs Corvinul Hunedoara [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1757838225-0-0-f21fff0c93edc41120d633d0241affd3
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/d40de0a9820d6d28918046ffa8f48ba5.png",15h00 ngày 14/09 Shanghai Port B vs Guangdong Mingtu [BLV XO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1757838225-0-0-1de7cf78054ac23367fab13c108c1020
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/d40de0a9820d6d28918046ffa8f48ba5.png",15h00 ngày 14/09 Shanghai Port B vs Guangdong Mingtu [BLV XO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1757838225-0-0-8513485911b66fa6810576c09ddf81a7
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/d40de0a9820d6d28918046ffa8f48ba5.png",15h00 ngày 14/09 Shanghai Port B vs Guangdong Mingtu [BLV XO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1757838225-0-0-56afb1293d5d678c91f331207b38db81
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/d40de0a9820d6d28918046ffa8f48ba5.png",15h00 ngày 14/09 Shanghai Port B vs Guangdong Mingtu [BLV XO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1757838225-0-0-3e0478f1dca91271ee3df421125b477f
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1757584785-0-0-b00451300a5506d7b49b2a3c44ca19db
@@ -3863,18 +3891,6 @@ https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1757584785-0-0-e360
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1757584785-0-0-6ef33b1ef382abb42c1055a4158a2f04
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",Tường thuật: ENG PR - Brentford vs Chelsea [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1757837505-0-0-dacd1cda4ba2d3ba9ea17c151b691c1b
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",Tường thuật: ENG PR - Brentford vs Chelsea [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1757837505-0-0-0dfa3492cce36f1356969385db83b70b
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",Tường thuật: ENG PR - Brentford vs Chelsea [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1757837505-0-0-33709003b38176ba18965e5c2d339b09
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",Tường thuật: ENG PR - Brentford vs Chelsea [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1757837505-0-0-4cb664dcdadfd7e6cafe5988d95d09a8
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",Tường thuật: ENG PR - Everton vs Aston Villa [Sóc phụ hồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1757837505-0-0-151b67c1c548b2409f7e8e14bbf1df90
@@ -3887,18 +3903,6 @@ https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1757837505-0-0-17fc
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",Tường thuật: ENG PR - Everton vs Aston Villa [Sóc phụ hồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1757837505-0-0-1e15ede33beab3a7cdd1fa273e7e5b8a
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",Tường thuật: ENG PR - West Ham United vs Tottenham Hotspur [Sóc chó điên] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1757837505-0-0-8985c7605d11257edb81e37bc863b913
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",Tường thuật: ENG PR - West Ham United vs Tottenham Hotspur [Sóc chó điên] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1757837505-0-0-7fe1ad74877a21806806ca584379669d
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",Tường thuật: ENG PR - West Ham United vs Tottenham Hotspur [Sóc chó điên] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1757837505-0-0-ff4646447ff3e5eebe64caec1eb9a56b
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",Tường thuật: ENG PR - West Ham United vs Tottenham Hotspur [Sóc chó điên] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1757837505-0-0-09f6e6f2347e75c5549bcff1f137dadc
 
 #EXTGRP:Spor
 #EXTINF:-1 tvg-id="130" tvg-name="A Spor HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" group-title="Spor",A Spor HD
