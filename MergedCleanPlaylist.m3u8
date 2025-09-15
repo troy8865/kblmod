@@ -455,14 +455,14 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/0aeb9e45116030fea6b21e1476192950/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/2d72b0e95b0bfecf732445967080a121.png",05h00 Club Sportivo Trinidense vs Deportivo Recoleta 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/73cd57d9d7b39bf1951bcdc6f7402d40/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/de569a6e3baefad0c13cb9295014364b.png",05h00 Estudiantes Rio Cuarto vs Atletico Mitre de Santiago del Estero 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/cfc5bd571fad95a4185362ea039ccc85/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/7f194b2fd96278717d9bedfd872efeb7.png",05h00 Orsomarso vs Real Santander 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/dc2ef3976fc50a131462d5fa610d928a/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/fb735adffa94a7306c7f68b9609d929f.png",05h00 Ponte Preta vs Brusque FC 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -559,6 +559,10 @@ https://live.alilicloud.com/live/b2432fc059f9c8a5cadea8650ab7c4b2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/3ec1ab2bef436171a34d162f79a6e3db/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/8afa9625ba59bd9bd11a87b403861293.png",06h30 Monagas SC vs Universidad Central de Venezuela 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/eeb4ea51d827db58b88d9d9f7fc9bafe/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/f68cbeb0644c8a79a5ff392e33feb3d1.png",07h00 Irapuato vs Tepatitlan de Morelos [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -977,10 +981,6 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/97f1608bfe5c72492cb5e201f93a6cda.png",06h30 Independiente Petrolero vs Blooming (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m205nd/playlist.m3u8
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/475ed561f388e211be0941b91e012e92.png",06h30 Miramar Misiones FC vs Montevideo Wanderers FC (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1883,10 +1883,6 @@ https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m202nd/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/ed16dd3c5970174b77eb04b0ea5b0960.png",04h30 Athletic Club MG vs Botafogo SP (LẤY KINH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m304nd/playlist.m3u8
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/7b4bf20f67bd2d8dd86d9a756296c64b.png",05h00 Carabobo FC vs Caracas FC (LẤY KINH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2405,10 +2401,6 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/97f1608bfe5c72492cb5e201f93a6cda.png",06h30 Independiente Petrolero vs Blooming (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m205nd/playlist.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/475ed561f388e211be0941b91e012e92.png",06h30 Miramar Misiones FC vs Montevideo Wanderers FC (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2751,6 +2743,22 @@ https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x4/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49728_small.png",07:00 San Carlos vs Cartaginés (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x11y2/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49728_small.png",07:00 San Carlos vs Cartaginés (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x11y11/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49728_small.png",07:00 San Carlos vs Cartaginés (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x11y3-0287/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2548_small.png",07:00 Xem trực tiếp bình luận bóng đá full HD hôm nay: Irapuato và Tepatitlan FC (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x5/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",12:45 TRỰC TIẾP CẦU LÔNG vs GIẢI VIỆT NAM MỞ RỘNG (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -4193,6 +4201,42 @@ https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1757894745-0-0-93e7
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/1cec787770c19f2158da8f69e626bb2f.png",06h30 ngày 15/09 Clube de Regatas Vasco da Gama vs Ceara [BLV NIBO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1757894745-0-0-651dd049a445bd4164f0a2e4c188d3c5
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/1cec787770c19f2158da8f69e626bb2f.png",06h30 ngày 15/09 Clube de Regatas Vasco da Gama vs Ceara [BLV SHIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=7955605949f1af2de2a35fff8bfdd6be&txTime=68c7a9e9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/1cec787770c19f2158da8f69e626bb2f.png",06h30 ngày 15/09 Clube de Regatas Vasco da Gama vs Ceara [BLV SHIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=3ad2145f57d09795c6737272cf2a2672&txTime=68c7a9e9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/1cec787770c19f2158da8f69e626bb2f.png",06h30 ngày 15/09 Clube de Regatas Vasco da Gama vs Ceara [BLV SHIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=3ad2145f57d09795c6737272cf2a2672&txTime=68c7a9e9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/1cec787770c19f2158da8f69e626bb2f.png",06h30 ngày 15/09 Clube de Regatas Vasco da Gama vs Ceara [BLV SHIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=7955605949f1af2de2a35fff8bfdd6be&txTime=68c7a9e9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/d73d4487401c158bb0211ab2de4131d3.png",07h00 ngày 15/09 Freseros vs Dorados [BLV BEAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912111-480p.flv
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/d73d4487401c158bb0211ab2de4131d3.png",07h00 ngày 15/09 Freseros vs Dorados [BLV BEAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912111-720p.flv
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/d73d4487401c158bb0211ab2de4131d3.png",07h00 ngày 15/09 Freseros vs Dorados [BLV BEAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/d73d4487401c158bb0211ab2de4131d3.png",07h00 ngày 15/09 Freseros vs Dorados [BLV BEAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/d73d4487401c158bb0211ab2de4131d3.png",07h00 ngày 15/09 Freseros vs Dorados [BLV GẤU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912107_lsd.flv?auth_key=1757897625-0-0-127c1707c495e0ada010a7eacd5e2d7f
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/d73d4487401c158bb0211ab2de4131d3.png",07h00 ngày 15/09 Freseros vs Dorados [BLV GẤU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912107_lhd.flv?auth_key=1757897625-0-0-59c66ac165366ca124e4314a511117c3
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/d73d4487401c158bb0211ab2de4131d3.png",07h00 ngày 15/09 Freseros vs Dorados [BLV GẤU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1757897625-0-0-389fdef5a5ed2e6e1d437ffc61613830
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/d73d4487401c158bb0211ab2de4131d3.png",07h00 ngày 15/09 Freseros vs Dorados [BLV GẤU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1757897625-0-0-f30ca18b8ba75a34737d9c63b66f6146
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/d73d4487401c158bb0211ab2de4131d3.png",07h00 ngày 15/09 Freseros vs Dorados [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=68fb58948daaa04ad502444ab20e65d3&txTime=68c7a5b1
@@ -4205,6 +4249,30 @@ https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=49ec07bf2a88f333179
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/d73d4487401c158bb0211ab2de4131d3.png",07h00 ngày 15/09 Freseros vs Dorados [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=68fb58948daaa04ad502444ab20e65d3&txTime=68c7a5b1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/a5aa569ba84797f052716050351049fd.png",07h00 ngày 15/09 Halcones de Xalapa vs Abejas [BLV DUSTIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=9bf2d53d301be922f0ab68129dc9fb86&txTime=68c7a9e9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/a5aa569ba84797f052716050351049fd.png",07h00 ngày 15/09 Halcones de Xalapa vs Abejas [BLV DUSTIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=0cfeda0d603dcdf77bfbad10b4840ee5&txTime=68c7a9e9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/a5aa569ba84797f052716050351049fd.png",07h00 ngày 15/09 Halcones de Xalapa vs Abejas [BLV DUSTIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=0cfeda0d603dcdf77bfbad10b4840ee5&txTime=68c7a9e9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/a5aa569ba84797f052716050351049fd.png",07h00 ngày 15/09 Halcones de Xalapa vs Abejas [BLV DUSTIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=9bf2d53d301be922f0ab68129dc9fb86&txTime=68c7a9e9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/a5aa569ba84797f052716050351049fd.png",07h00 ngày 15/09 Halcones de Xalapa vs Abejas [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1757897625-0-0-3b51c6733d187da86011567d31b6007e
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/a5aa569ba84797f052716050351049fd.png",07h00 ngày 15/09 Halcones de Xalapa vs Abejas [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1757897625-0-0-b32e31a15da8d831c4a480b5cd85234d
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/a5aa569ba84797f052716050351049fd.png",07h00 ngày 15/09 Halcones de Xalapa vs Abejas [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1757897625-0-0-b3aee5a060c21387d7e5763e4a2baa20
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/a5aa569ba84797f052716050351049fd.png",07h00 ngày 15/09 Halcones de Xalapa vs Abejas [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1757897625-0-0-6f92ce81f5c6dcc735a3d6d90624c9fc
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/0cea17f0237838187f3fbcf57c8d83c8.png",07h00 ngày 15/09 Irapuato vs Tepatitlan de Morelos [BLV KAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=273a6aad3939f7d19e68d41bb079b33e&txTime=68c7a5b1
@@ -4241,18 +4309,18 @@ https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1757584785-0-0-e360
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1757584785-0-0-6ef33b1ef382abb42c1055a4158a2f04
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BRA D2: Athletic Club vs Botafogo SP [BLV SHIN] (Socolive) flv
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",LNBP : Halcones de Xalapa vs Abejas [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=b2727d288f5bab199bace71341d75297&txTime=68c7a5b1
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BRA D2: Athletic Club vs Botafogo SP [BLV SHIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1757897625-0-0-3a97f54e7274ebb20331a029abf34e67
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",LNBP : Halcones de Xalapa vs Abejas [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=2c7e53c080d9f26f98f8dba030bdfd4a&txTime=68c7a5b1
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BRA D2: Athletic Club vs Botafogo SP [BLV SHIN] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1757897625-0-0-6ffe71d52cf65617ff0144dda748494a
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",LNBP : Halcones de Xalapa vs Abejas [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=2c7e53c080d9f26f98f8dba030bdfd4a&txTime=68c7a5b1
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BRA D2: Athletic Club vs Botafogo SP [BLV SHIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1757897625-0-0-4634c4e5245db759bb347f1c142b3719
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",LNBP : Halcones de Xalapa vs Abejas [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=b2727d288f5bab199bace71341d75297&txTime=68c7a5b1
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1757897625-0-0-ea0de98bdf599a2f50c2c765f71c6611
 
 #EXTGRP:Spor
 #EXTINF:-1 tvg-id="130" tvg-name="A Spor HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" group-title="Spor",A Spor HD
