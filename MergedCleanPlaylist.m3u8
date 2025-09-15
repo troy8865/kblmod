@@ -85,10 +85,6 @@ https://2893254555.global.cdnfastest.com/live/68c7e0272f366_42127/index.m3u8?exp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/f29c50adc550ac605ae835ce86db2747/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/cacb5828a6843392559f476f919b2b5f.png",20h00 Eswatini U17 vs Mozambique U17 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/488b8e58d7c937f61209750d9a075ef4/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/66b3836d1ca52c4aa07cecac8ae89f35.png",20h00 Penang FC vs Melaka FC 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -105,7 +101,11 @@ https://2893950149.global.cdnfastest.com/live/68c800742f366_4439.flv?expire=1758
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c800742f366_4439/index.m3u8?expire=1758542580&sign=c7e060fddcc5e50c33c0cdbaba1d4e62
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/d3388340534301c5b069a93854523ea9.png",20h00 Zimbabw U17 vs Comoros U17 1 (Bc)
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/cacb5828a6843392559f476f919b2b5f.png",20h15 Eswatini U17 vs Mozambique U17 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/488b8e58d7c937f61209750d9a075ef4/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/d3388340534301c5b069a93854523ea9.png",20h15 Zimbabw U17 vs Comoros U17 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/66312938b9afb82e61fb0417f324b90a/playlist.m3u8
@@ -321,6 +321,30 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (Cà Khịa) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (Cà Khịa) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (Cà Khịa) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (Cà Khịa) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (Cà Khịa) SD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (Cà Khịa) SD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buisd2/playlist.m3u8
 
 #EXTGRP:CÁ HEO
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/20bf90d9a55ef5dc4a503754db3f8b49.png",19h00 PSS Sleman vs Persiba Balikpapan (CH) HD 1
@@ -411,6 +435,54 @@ https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png",21h00 FK Graficar Beograd vs Dinamo Jug (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrahd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png",21h00 FK Graficar Beograd vs Dinamo Jug (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/natrahd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png",21h00 FK Graficar Beograd vs Dinamo Jug (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@natrahd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png",21h00 FK Graficar Beograd vs Dinamo Jug (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrasd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png",21h00 FK Graficar Beograd vs Dinamo Jug (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/natrasd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png",21h00 FK Graficar Beograd vs Dinamo Jug (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@natrasd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (CH) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (CH) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/buisd2/playlist.m3u8
 
 #EXTGRP:CÁ KÈO
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/20bf90d9a55ef5dc4a503754db3f8b49.png",19h00 ngày 15.09 PSS Sleman VS Balikpapan United (CK) Backup 1
@@ -597,6 +669,38 @@ https://live8.fastestcdn-global.com/live8/23e45df2b0b7413ca2fa0f56de6df7ae_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc43163716.stream.hdplaylink.com/live7/23e45df2b0b7413ca2fa0f56de6df7ae_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/ff8875741391b1c8b0a4daa98a934b3c/image/small",20h30 Poland vs Qatar (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/cd48bc6fe4f2c0647e151bd6cf3df775/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/822a21cceebce96fb2e39b59a8157c61/image/small",20h45 AlvsSharjah vs AlvsGharafa (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/d623cda5e1784d54843f4493e60998aa_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/822a21cceebce96fb2e39b59a8157c61/image/small",20h45 AlvsSharjah vs AlvsGharafa (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/d623cda5e1784d54843f4493e60998aa_720/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/822a21cceebce96fb2e39b59a8157c61/image/small",20h45 AlvsSharjah vs AlvsGharafa (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/d623cda5e1784d54843f4493e60998aa_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/822a21cceebce96fb2e39b59a8157c61/image/small",20h45 AlvsSharjah vs AlvsGharafa (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/d623cda5e1784d54843f4493e60998aa_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/822a21cceebce96fb2e39b59a8157c61/image/small",20h45 AlvsSharjah vs AlvsGharafa (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/d623cda5e1784d54843f4493e60998aa_480/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/822a21cceebce96fb2e39b59a8157c61/image/small",20h45 AlvsSharjah vs AlvsGharafa (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/d623cda5e1784d54843f4493e60998aa_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/822a21cceebce96fb2e39b59a8157c61/image/small",20h45 AlvsSharjah vs AlvsGharafa (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/deb404a5231410cad7a261fa4b063fbe/playlist.m3u8
 
 #EXTGRP:Haber
 #EXTINF:-1 tvg-id="97" tvg-name="24 HABER HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg" group-title="Haber",24 HABER HD
@@ -785,6 +889,10 @@ https://live3.fastestcdn-global.com/live3/a97ca7104b40408cb0e5fcecc8ce48d8_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live4.fastestcdn-global.com/live4/a97ca7104b40408cb0e5fcecc8ce48d8_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/6f433ed48bb35ba5b127531c2078c224/image/small",20h00 USA vs Portugal (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d2d5cec8a33c1b6ffbbf66d19f434dee/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/eda3af5102f871943422ecc20fc7c237/image/small",20h00 Verona U20 vs Cesena U20 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -817,6 +925,10 @@ https://live3.fastestcdn-global.com/live3/7628893f620e40f291571ab2ef1f42f1_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live4.fastestcdn-global.com/live4/7628893f620e40f291571ab2ef1f42f1_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ff8875741391b1c8b0a4daa98a934b3c/image/small",20h30 Poland vs Qatar (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/cd48bc6fe4f2c0647e151bd6cf3df775/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/822a21cceebce96fb2e39b59a8157c61/image/small",20h45 AlvsSharjah vs AlvsGharafa (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -841,6 +953,10 @@ https://live3.fastestcdn-global.com/live3/b478fc9c3d794af4828df6148a8fedb1_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live4.fastestcdn-global.com/live4/b478fc9c3d794af4828df6148a8fedb1_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/822a21cceebce96fb2e39b59a8157c61/image/small",20h45 AlvsSharjah vs AlvsGharafa (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/deb404a5231410cad7a261fa4b063fbe/playlist.m3u8
 
 #EXTGRP:LƯƠNG SƠN
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3618/1gtzdegdpa23.png?win007=sell",20h00 Penang vs Melaka FC (LS) BLV MÃ LÂN flv
@@ -909,6 +1025,42 @@ https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d99670722
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/18115/1hbcsevdnv0.png?win007=sell",20h00 Verona U20 vs Cesena U20 (LS) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (LS) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (LS) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (LS) BLV KAKA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (LS) BLV KAKA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (LS) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (LS) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (LS) BLV NHỊ KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (LS) BLV NHỊ KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (LS) BLV RICARDO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/RICARDO.flv?expire=1788427256&sign=a956b265a5fbe0508d6033243c880515
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (LS) BLV RICARDO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/RICARDO/index.m3u8?expire=1788427256&sign=a956b265a5fbe0508d6033243c880515
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (LS) BLV SÁCH SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/SACHSIEU1.flv?expire=1788427256&sign=db0c3e1d3d520e4ddb0a8740f0b6aa29
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (LS) BLV SÁCH SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/SACHSIEU1/index.m3u8?expire=1788427256&sign=db0c3e1d3d520e4ddb0a8740f0b6aa29
 
 #EXTGRP:LẤY KINH
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/20bf90d9a55ef5dc4a503754db3f8b49.png",19h00 PSS Sleman vs Persiba Balikpapan (LẤY KINH) HD 1
@@ -999,6 +1151,30 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (LẤY KINH) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179421011.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (LẤY KINH) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179421011.cdnfree.pro/live/buisd2/playlist.m3u8
 
 #EXTGRP:Müzik
 #EXTINF:-1 tvg-id="51" tvg-name="DREAM TÜRK TV HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/9756196c45fab27cf682ca813c12ceee.png" group-title="Müzik",DREAM TÜRK TV HD
@@ -1115,6 +1291,30 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (QUAY TAY) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179421011.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (QUAY TAY) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179421011.cdnfree.pro/live/buisd2/playlist.m3u8
 
 #EXTGRP:RA KHƠI
 #EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/20bf90d9a55ef5dc4a503754db3f8b49.png",19h00 PSS Sleman vs Persiba Balikpapan (Ra Khơi) HD 1
@@ -1205,6 +1405,34 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buisd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/5d3aea0577c74a7ab5221c0d0cbfd127.png",21h00 FK Ufa vs Ural Sverdlovsk Oblast (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
+
+#EXTGRP:RỔ BÓNG
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/c471de7682d1c900df7981bb2cf6536c.png",20h45 Al Sharjah vs Al Gharafa (Rổ) FHD
+https://2988376792.global.cdnfastest.com/auto_hls/jw2r09hk1gy1rz8_football_fhd/index.m3u8
 
 #EXTGRP:SAO KÊ
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585847_small.png",19:00 PSS Sleman vs Balikpapan United (Sao kê) HD 3
@@ -1343,18 +1571,6 @@ https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1757940465-0-0-329
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/1c1bf2970494e4797ad56a3c6823fa8d.jpg",19h00 ngày 15/09 Batangas City vs Bulacan Kuyas [BLV GẤU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1757940465-0-0-bbffbcd122e29d95976737bc7844218d
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/1c1bf2970494e4797ad56a3c6823fa8d.jpg",19h00 ngày 15/09 Batangas City vs Bulacan Kuyas [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=2f4a55e1ef1c826694d593fb7e60a779&txTime=68c85141
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/1c1bf2970494e4797ad56a3c6823fa8d.jpg",19h00 ngày 15/09 Batangas City vs Bulacan Kuyas [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=9f762fb8d120c7d7f05bbb5ff52d46d1&txTime=68c85141
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/1c1bf2970494e4797ad56a3c6823fa8d.jpg",19h00 ngày 15/09 Batangas City vs Bulacan Kuyas [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=9f762fb8d120c7d7f05bbb5ff52d46d1&txTime=68c85141
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/1c1bf2970494e4797ad56a3c6823fa8d.jpg",19h00 ngày 15/09 Batangas City vs Bulacan Kuyas [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=2f4a55e1ef1c826694d593fb7e60a779&txTime=68c85141
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/301473717cd9538b8cd79c80ad2ac37b.png",20h00 ngày 15/09 Penang FC vs Melaka FC [BLV KUDO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-334434_lsd.flv?auth_key=1757941545-0-0-b333cdd5f923d6a3b853414c13c8870d
@@ -1511,6 +1727,18 @@ https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=45a5ef55ba8833291a6d
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/a987db1dc51bffd1096cb73352dba24d.png",20h45 ngày 15/09 Al-Sharjah vs Al-Gharafa [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=d437cbe6ec078bce8736f5f17ac4c34d&txTime=68c86659
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/3cf1e38f03793b14e19c4bf97a4d4d7e.png",21h00 ngày 15/09 FK Ufa vs Ural Yekaterinburg [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=237351c91a989ca29b53624960722a30&txTime=68c86a91
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/3cf1e38f03793b14e19c4bf97a4d4d7e.png",21h00 ngày 15/09 FK Ufa vs Ural Yekaterinburg [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=fa2c9ca0f4b6a76999e99a9a7ecc477c&txTime=68c86a91
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/3cf1e38f03793b14e19c4bf97a4d4d7e.png",21h00 ngày 15/09 FK Ufa vs Ural Yekaterinburg [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=fa2c9ca0f4b6a76999e99a9a7ecc477c&txTime=68c86a91
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/3cf1e38f03793b14e19c4bf97a4d4d7e.png",21h00 ngày 15/09 FK Ufa vs Ural Yekaterinburg [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=237351c91a989ca29b53624960722a30&txTime=68c86a91
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/3cf1e38f03793b14e19c4bf97a4d4d7e.png",21h00 ngày 15/09 FK Ufa vs Ural Yekaterinburg [TAM MAO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=fc189d2958ab94d336fe4fdb6e9eda97&txTime=68c867c1
@@ -1833,6 +2061,14 @@ https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANTAI.flv?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANTAI/index.m3u8?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
 
 #EXTGRP:Çocuk
 #EXTINF:-1 tvg-id="36" tvg-name="CARTON NETWORK" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/1a8262974a202c19d6543b82335e39de.jpg" group-title="Çocuk",CARTON NETWORK
