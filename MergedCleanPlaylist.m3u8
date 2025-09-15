@@ -89,6 +89,14 @@ https://2893950149.global.cdnfastest.com/live/68c7bf902f366_4579.flv?expire=1758
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c7bf902f366_4579/index.m3u8?expire=1758525968&sign=c31bc1adb65f8bd755ffd40d841ac708
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/f56c716018da872bea80885498f14ba0.png",15h30 Niigata XI U17 vs Wales U18 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/0308384210c7a9356cd33c2dc4eb7b2c/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/e25b3c116f921e16474813c883d84b79.png",15h30 Persela Lamongan vs Deltras Sidoarjo 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/5e627bdcfaefdbb09963481d5d4547b1/playlist.m3u8
 
 #EXTGRP:CHUỐI CHIÊN
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144236_c73ca875.png",15h00 ngày 15 Cerezo Osaka W vs Tokyo Verdy Beleza W (Chuối Chiên) HD1
@@ -245,6 +253,34 @@ https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuongsd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phuhd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phuhd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (Cà Khịa) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phusd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phusd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (Cà Khịa) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/944e230995864bf1a42772c0d2cced30.png",16h00 Kinondoni MC vs APR FC (Cà Khịa) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
 
 #EXTGRP:CÁ HEO
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e3eeed340658b68dc6b1cc2997997954.png",15h00 Cerezo Osaka Sakai vs NTV Tokyo Verdy Beleza (CH) HD 1
@@ -319,6 +355,34 @@ https://179245845.cdnfree.pro/live/nguumavuongsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuongsd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phuhd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/live/phuhd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phusd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/phusd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/944e230995864bf1a42772c0d2cced30.png",16h00 Kinondoni MC vs APR FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
 
 #EXTGRP:CÁ KÈO
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/5f3962e0ee45cd87cea045227d87ffb0.png",14h00 ngày 15.09 Benxi Qingfan Logistics Park FC VS Daqing Angel Melody FC (CK) Backup 1
@@ -337,6 +401,14 @@ https://apisportzz179528093.nsnd.live/k7ZF_k-vvMT6-rEt1lIffg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/B9cBuFiQIC58S8Nu_iV-gw/Fv2lucGIbhPi2caWYvF5Lg/1757946253168/live/sd-6MtMPDnbLHZTh3KGpT/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="",15h30 ngày 15.09 Niigata XI U17 VS Wales U18 (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/JyWgPHjCmW3uj1y2NzbJ2Q/Fv2lucGIbhPi2caWYvF5Lg/1757946972430/live/sd-6MvY6hdzczVcVoicHy/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e25b3c116f921e16474813c883d84b79.png",15h30 ngày 15.09 Persela Lamongan VS Deltras Sidoarjo (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/2nL05WUUwdqeVdx33ZTArg/Fv2lucGIbhPi2caWYvF5Lg/1757946971249/live/sd-6MvY6pCCa2a4yRKd8P/playlist.m3u8
 
 #EXTGRP:Diğer
 #EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer",FASHION TV
@@ -349,10 +421,6 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8?token=fskT7kt_WlYgsgdE9qQR0g&tms=1756725009
 
 #EXTGRP:GÀ VÀNG
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/e3fb951907a897f6de6b0af0f5baa253/image/small",09h30 Turkey vs Libya (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7a3ff3a0396fd1232c93ab62fb3dae5c/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/4e11be712d829b3f7e016ffcc2ee02e2/image/small",12h00 NGU Nagoya Women vs Speranza TakatsukiWomen (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -449,6 +517,14 @@ https://live.alilicloud.com/live/6f133ba1720d6480b038b2877bfb4cf2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/7989d3b04af362dcf172e0f2d20fda81/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/ab7860ed35095506d2df470906c4b6da/image/small",15h30 Niigata XI U17 vs Wales U18 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0308384210c7a9356cd33c2dc4eb7b2c/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/72b0fadd02761e608678a930c1889196/image/small",15h30 Persela Lamongan vs Deltras Sidoarjo (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5e627bdcfaefdbb09963481d5d4547b1/playlist.m3u8
 
 #EXTGRP:Haber
 #EXTINF:-1 tvg-id="97" tvg-name="24 HABER HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg" group-title="Haber",24 HABER HD
@@ -513,30 +589,6 @@ https://live.alilicloud.com/live/6522979650e451c442fefb0461455aeb/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f3749f93c7bbf7bfe47f645e1c35e5e5/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/c86b0c1a2432cc40eaa553d043cbbd17/image/small",12h30 Germany vs Chile (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc67274262.stream.hdplaylink.com/live4/86e7a74e982d45c6b3e0ab763b653c3b_720/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/c86b0c1a2432cc40eaa553d043cbbd17/image/small",12h30 Germany vs Chile (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/86e7a74e982d45c6b3e0ab763b653c3b_720/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/c86b0c1a2432cc40eaa553d043cbbd17/image/small",12h30 Germany vs Chile (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/86e7a74e982d45c6b3e0ab763b653c3b_720/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/c86b0c1a2432cc40eaa553d043cbbd17/image/small",12h30 Germany vs Chile (Khán Đài A) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc67274262.stream.hdplaylink.com/live4/86e7a74e982d45c6b3e0ab763b653c3b_480/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/c86b0c1a2432cc40eaa553d043cbbd17/image/small",12h30 Germany vs Chile (Khán Đài A) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/86e7a74e982d45c6b3e0ab763b653c3b_480/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/c86b0c1a2432cc40eaa553d043cbbd17/image/small",12h30 Germany vs Chile (Khán Đài A) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/86e7a74e982d45c6b3e0ab763b653c3b_480/index.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/c86b0c1a2432cc40eaa553d043cbbd17/image/small",12h30 Germany vs Chile (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -573,14 +625,16 @@ https://live.alilicloud.com/live/6f133ba1720d6480b038b2877bfb4cf2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/7989d3b04af362dcf172e0f2d20fda81/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/ab7860ed35095506d2df470906c4b6da/image/small",15h30 Niigata XI U17 vs Wales U18 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/0308384210c7a9356cd33c2dc4eb7b2c/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/72b0fadd02761e608678a930c1889196/image/small",15h30 Persela Lamongan vs Deltras Sidoarjo (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5e627bdcfaefdbb09963481d5d4547b1/playlist.m3u8
 
 #EXTGRP:LƯƠNG SƠN
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1757912216.png",12h00 Everton vs Aston Villa (LS) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1757912216.png",12h00 Everton vs Aston Villa (LS) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/21304/1h8qpdzweb2z.png?win007=sell",15h00 Cerezo Osaka Sakai (W) vs NTV Beleza (W) (LS) BLV KENCHU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
@@ -727,6 +781,34 @@ https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuongsd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phuhd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phuhd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phusd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phusd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/944e230995864bf1a42772c0d2cced30.png",16h00 Kinondoni MC vs APR FC (LẤY KINH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
 
 #EXTGRP:Müzik
 #EXTINF:-1 tvg-id="51" tvg-name="DREAM TÜRK TV HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/9756196c45fab27cf682ca813c12ceee.png" group-title="Müzik",DREAM TÜRK TV HD
@@ -827,6 +909,34 @@ https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuongsd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phuhd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phuhd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phusd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phusd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/944e230995864bf1a42772c0d2cced30.png",16h00 Kinondoni MC vs APR FC (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
 
 #EXTGRP:RA KHƠI
 #EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/e3eeed340658b68dc6b1cc2997997954.png",15h00 Cerezo Osaka Sakai vs NTV Tokyo Verdy Beleza (Ra Khơi) HD 1
@@ -901,6 +1011,34 @@ https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuongsd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phuhd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phuhd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phusd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phusd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/8c351a1504dd19cd202007c9c83990c2.png",16h00 FC Ryukyu vs Zweigen Kanazawa FC (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/944e230995864bf1a42772c0d2cced30.png",16h00 Kinondoni MC vs APR FC (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
 
 #EXTGRP:SAO KÊ
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/652102_small.png",15:00 Xem trực tiếp bình luận bóng đá full HD hôm nay: Cerezo Osaka Sakai và NTV Tokyo Verdy Beleza (Sao kê) HD 3
@@ -1127,6 +1265,30 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1757926066-0-0-7ce
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/e81131311c3920e7f42daa69d67e0585.jpg",15h00 ngày 15/09 Quezon City vs Nueva Ecija Vanguards [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1757926066-0-0-c08db9311b8f10e8cf55c94dca938cd1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/76ddc4c289f93c21e29269f9fd508c4b.png",16h00 ngày 15/09 FC Ryukyu Okinawa vs Zweigen Kanazawa FC [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532081_lsd.flv?txSecret=2e023c831c2b5bb17bf5d0298bf2c253&txTime=68c822da
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/76ddc4c289f93c21e29269f9fd508c4b.png",16h00 ngày 15/09 FC Ryukyu Okinawa vs Zweigen Kanazawa FC [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532081_lhd.flv?txSecret=40e9a4f66a50cce7d2a55558f851728d&txTime=68c822da
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/76ddc4c289f93c21e29269f9fd508c4b.png",16h00 ngày 15/09 FC Ryukyu Okinawa vs Zweigen Kanazawa FC [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=40e9a4f66a50cce7d2a55558f851728d&txTime=68c822da
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/76ddc4c289f93c21e29269f9fd508c4b.png",16h00 ngày 15/09 FC Ryukyu Okinawa vs Zweigen Kanazawa FC [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=2e023c831c2b5bb17bf5d0298bf2c253&txTime=68c822da
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/76ddc4c289f93c21e29269f9fd508c4b.png",16h00 ngày 15/09 FC Ryukyu Okinawa vs Zweigen Kanazawa FC [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1757928945-0-0-528204b85daf3d960c3d831ebaaae620
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/76ddc4c289f93c21e29269f9fd508c4b.png",16h00 ngày 15/09 FC Ryukyu Okinawa vs Zweigen Kanazawa FC [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1757928945-0-0-56408c15df8fbb8a104e1f31a7fe7257
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/76ddc4c289f93c21e29269f9fd508c4b.png",16h00 ngày 15/09 FC Ryukyu Okinawa vs Zweigen Kanazawa FC [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1757928945-0-0-ce4f9fdd5d7ebd637225e67ba9e26124
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/76ddc4c289f93c21e29269f9fd508c4b.png",16h00 ngày 15/09 FC Ryukyu Okinawa vs Zweigen Kanazawa FC [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1757928945-0-0-acda03382fe801fb393afb107a1c2984
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1757584785-0-0-b00451300a5506d7b49b2a3c44ca19db
