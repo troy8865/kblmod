@@ -541,10 +541,6 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8?token=3Cu7J5vqrbiZn
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8?token=3Cu7J5vqrbiZnkIy8YliZw&tms=1756725007
 
 #EXTGRP:KHÁN ĐÀI A
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/02c1dcde1b35eb13b0dc8d4408cff55b/image/small",07h30 North Texas SC vs Sporting Kansas CityReserves (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/707996d08e1b5a55052990ee58322913/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/f28104ca4974d6796f1da29a751ed375/image/small",08h00 Pachuca Women vs Club Necaxa Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -641,6 +637,10 @@ https://live4.fastestcdn-global.com/live4/09f95be318544ddd8180e45af70161f4_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/15a9573b6fde86e1839327c815ecfc72/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/fe15ed93adcdd8c997980fd601cc45b0/image/small",13h30 Rush & Cash vs KB Stars (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4912a446a2cb501283bb825bb88fb3f5/playlist.m3u8
 
 #EXTGRP:LƯƠNG SƠN
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1757912216.png",12h00 Everton vs Aston Villa (LS) BLV YẾN THANH flv
