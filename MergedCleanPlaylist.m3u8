@@ -287,10 +287,10 @@ https://2893950149.global.cdnfastest.com/live/68c9578f2f366_4439.flv?expire=1758
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c9578f2f366_4439/index.m3u8?expire=1758630415&sign=52762c4f5e68061ae0291bcb7b85c0ee
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/94f4b5c04d9b9d9e41c9d0cdabbb9e21.png",20h45 Mohun Bagan Super Giant vs Ahal FK 1 (Bc)
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/livehd/ddf0a18972d706bfcd9ab3dc7d7b51e8/playlist.m3u8
+https://live.alilicloud.com/live/019ecd9f534617f62e9aadcd800820b2/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/94f4b5c04d9b9d9e41c9d0cdabbb9e21.png",20h45 Mohun Bagan Super Giant vs Ahal FK [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -299,6 +299,14 @@ https://2893950149.global.cdnfastest.com/live/68c95b075baba_4908.flv?expire=1758
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c95b075baba_4908/index.m3u8?expire=1758631303&sign=4cbb6ab7d7e0c40e09ab525b120794fb
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68c964bc5baba_4733.flv?expire=1758633788&sign=a017172019fa28faee82ed7d663c7d07
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68c964bc5baba_4733/index.m3u8?expire=1758633788&sign=a017172019fa28faee82ed7d663c7d07
 
 #EXTGRP:CHUỐI CHIÊN
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134412_c11c4866.png",19h00 ngày 16 Juventus U19 vs Borussia Dortmund U19 (Chuối Chiên) HD1
@@ -373,6 +381,14 @@ https://stream.chuoichien.tv/chuoi99/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133527_bc14001f.png",20h30 ngày 16 FC Orenburg vs Rubin (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133527_bc14001f.png",20h30 ngày 16 FC Orenburg vs Rubin (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://media.api-sports.io/volley/teams/2204.png",20h30 ngày 16 Italy vs Belgium (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -397,6 +413,14 @@ https://stream.chuoichien.tv/manze/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134453_6703439b.png",20h45 ngày 16 ATK Mohun Bagan vs Ahal (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134453_6703439b.png",20h45 ngày 16 ATK Mohun Bagan vs Ahal (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134416_29837a89.png",21h00 ngày 16 Real Madrid U19 vs Olympique Marseille U19 (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -437,30 +461,6 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDR4FOl8kWzkxVxQjAw==/index.m3u8
 
 #EXTGRP:CÀ KHỊA
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paohd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (Cà Khịa) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paosd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (Cà Khịa) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1.flv
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/6c5a330bea9e5d26a1d3b108f79bd3a3.png",19h00 Juventus U19 vs Borussia Dortmund U19 (Cà Khịa) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -581,36 +581,104 @@ https://ckhot-179939170.cdnfree.pro/live/phusd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (Cà Khịa) HD 1
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (Cà Khịa) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phuhd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (Cà Khịa) HD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (Cà Khịa) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (Cà Khịa) HD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (Cà Khịa) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (Cà Khịa) SD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phusd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (Cà Khịa) SD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (Cà Khịa) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (Cà Khịa) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (Cà Khịa) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paohd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (Cà Khịa) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paosd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (Cà Khịa) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@muhd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/muhd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (Cà Khịa) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@muhd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@musd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/musd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (Cà Khịa) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@musd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maohd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (Cà Khịa) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (Cà Khịa) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
 
 #EXTGRP:CÁ HEO
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/d8954914be101e0ba72dc55c8f92604b.png",18h30 Lokomotiv Tashkent vs FK Olympic Tashkent B (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m402nd/playlist.m3u8
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/6c5a330bea9e5d26a1d3b108f79bd3a3.png",19h00 Juventus U19 vs Borussia Dortmund U19 (CH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -719,6 +787,54 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m202nd/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paohd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@paohd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paosd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@paosd1.flv
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/6814cbd2bce2a7b4bd8758c7b6e2aa3d.png",21h00 Al Hashemeya vs Al Aqaba SC (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -735,6 +851,54 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m203nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m302nd/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@muhd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/muhd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@muhd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@musd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/musd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@musd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (CH) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maohd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/maohd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (CH) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/maosd2/playlist.m3u8
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/7dee6e7168bd3658618d16097dfc5380.png",22h00 Rodina Moskva III vs Salyut-Energia Belgorod (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -785,6 +949,26 @@ https://apisportzz179528093.nsnd.live/UbOFdmGDO2sV069d7Tgs5Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/MEwJfYjecbvCc37KgFDCgw/Fv2lucGIbhPi2caWYvF5Lg/1758049669934/live/sd-6MvY6pAj6aFWsYo9xP/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 ngày 16.09 Gazovik Orenburg vs Rubin Kazan (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/iZgo32FRfkdtPEw9S-92MQ/Fv2lucGIbhPi2caWYvF5Lg/1758051370543/live/sd-6MuTMoiqjK3THNJB2s/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 ngày 16.09 Gazovik Orenburg vs Rubin Kazan (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/XSvf1yZGiGCuhW9_29IYKg/6b78b4ff262c15bca3bdb372d5d5d695/1758051370/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 ngày 16.09 Gazovik Orenburg vs Rubin Kazan (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758051370/e31b305982cec5cda92a44752583025e/950547788/live/satHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 ngày 16.09 Gazovik Orenburg vs Rubin Kazan (CK) HD nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758051370/3ead3437491c2d1898db08b16c0aa97f/674475596/live/satHD.flv
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 ngày 16.09 Gazovik Orenburg vs Rubin Kazan (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/6bLVCmuGypcvT8GxiOYc0Q/Fv2lucGIbhPi2caWYvF5Lg/1758051370543/live/satSD/playlist.m3u8
 
 #EXTGRP:Diğer
 #EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer",FASHION TV
@@ -909,6 +1093,10 @@ https://live.alilicloud.com/live/ae29b674d451bbf336bd97a92ae9d27d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/9b47b6192c7d746abf4f20d87f7e0b6a/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/ee0173d0360cae24b5fdf05ab8bbca23/image/small",20h30 Gazovik Orenburg vs Rubin Kazan (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/019ecd9f534617f62e9aadcd800820b2/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/a6991bfd37c89e445db64f9f6f725624/image/small",20h30 Italy vs Belgium (Gà Vàng) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -933,6 +1121,34 @@ https://live8.fastestcdn-global.com/live8/6308cc7a36a246f4b4f03cabc2b4f3ec_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc43163716.stream.hdplaylink.com/live7/6308cc7a36a246f4b4f03cabc2b4f3ec_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/5bc1c7b81580667f88689fa11a5f8db9/image/small",20h45 Mohun Bagan Super Giant vs Ahal FK (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/9ac268c488554780a311ca97361bc889_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/5bc1c7b81580667f88689fa11a5f8db9/image/small",20h45 Mohun Bagan Super Giant vs Ahal FK (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/9ac268c488554780a311ca97361bc889_720/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/5bc1c7b81580667f88689fa11a5f8db9/image/small",20h45 Mohun Bagan Super Giant vs Ahal FK (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/9ac268c488554780a311ca97361bc889_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/5bc1c7b81580667f88689fa11a5f8db9/image/small",20h45 Mohun Bagan Super Giant vs Ahal FK (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/9ac268c488554780a311ca97361bc889_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/5bc1c7b81580667f88689fa11a5f8db9/image/small",20h45 Mohun Bagan Super Giant vs Ahal FK (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/9ac268c488554780a311ca97361bc889_480/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/5bc1c7b81580667f88689fa11a5f8db9/image/small",20h45 Mohun Bagan Super Giant vs Ahal FK (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/9ac268c488554780a311ca97361bc889_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/5bc1c7b81580667f88689fa11a5f8db9/image/small",20h45 Mohun Bagan Super Giant vs Ahal FK (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ddf0a18972d706bfcd9ab3dc7d7b51e8/playlist.m3u8
 
 #EXTGRP:Haber
 #EXTINF:-1 tvg-id="97" tvg-name="24 HABER HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg" group-title="Haber",24 HABER HD
@@ -1239,12 +1455,38 @@ https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb84
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/4028/1gtqmgs3q21w.png?win007=sell",19h15 Buriram United vs Johor Darul Takzim (LS) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20181105093134.png?win007=sell",20h30 Gazovik Orenburg vs Rubin Kazan (LS) BLV PHONG VÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20181105093134.png?win007=sell",20h30 Gazovik Orenburg vs Rubin Kazan (LS) BLV PHONG VÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20181105093134.png?win007=sell",20h30 Gazovik Orenburg vs Rubin Kazan (LS) BLV THẠCH TÚ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/THACHTU.flv?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20181105093134.png?win007=sell",20h30 Gazovik Orenburg vs Rubin Kazan (LS) BLV THẠCH TÚ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/THACHTU/index.m3u8?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20181105093134.png?win007=sell",20h30 Gazovik Orenburg vs Rubin Kazan (LS) BLV TRƯƠNG THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20181105093134.png?win007=sell",20h30 Gazovik Orenburg vs Rubin Kazan (LS) BLV TRƯƠNG THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20181105093134.png?win007=sell",20h30 Gazovik Orenburg vs Rubin Kazan (LS) BLV TÔN LẬP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20181105093134.png?win007=sell",20h30 Gazovik Orenburg vs Rubin Kazan (LS) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20181105093134.png?win007=sell",20h30 Gazovik Orenburg vs Rubin Kazan (LS) BLV ZORO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/ZORO.flv?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20181105093134.png?win007=sell",20h30 Gazovik Orenburg vs Rubin Kazan (LS) BLV ZORO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
 
 #EXTGRP:LẤY KINH
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/d8954914be101e0ba72dc55c8f92604b.png",18h30 Lokomotiv Tashkent vs FK Olympic Tashkent B (LẤY KINH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m402nd/playlist.m3u8
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/6c5a330bea9e5d26a1d3b108f79bd3a3.png",19h00 Juventus U19 vs Borussia Dortmund U19 (LẤY KINH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1353,6 +1595,54 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m202nd/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paohd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paosd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/6814cbd2bce2a7b4bd8758c7b6e2aa3d.png",21h00 Al Hashemeya vs Al Aqaba SC (LẤY KINH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1369,6 +1659,54 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m203nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m302nd/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@muhd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/muhd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@musd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@musd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/musd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/ec53a5cfbb2cafce9c7aaef6e3478492.png",21h00 Real Madrid U19 vs Marseille U19 (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@muhd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maohd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (LẤY KINH) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/7dee6e7168bd3658618d16097dfc5380.png",22h00 Rodina Moskva III vs Salyut-Energia Belgorod (LẤY KINH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1413,30 +1751,6 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8?toke
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8?token=o08PEmjVJ6tBP3osOS1ZbA&tms=1756725008
 
 #EXTGRP:QUAY TAY
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paohd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paosd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1.flv
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/d8954914be101e0ba72dc55c8f92604b.png",18h30 Lokomotiv Tashkent vs FK Olympic Tashkent B (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1549,6 +1863,54 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m202nd/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paohd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paosd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1.flv
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6814cbd2bce2a7b4bd8758c7b6e2aa3d.png",21h00 Al Hashemeya vs Al Aqaba SC (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1565,14 +1927,34 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m203nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m302nd/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maohd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (QUAY TAY) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/7dee6e7168bd3658618d16097dfc5380.png",22h00 Rodina Moskva III vs Salyut-Energia Belgorod (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m303nd/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/87c83d22e6d8a0f78954930ea5a3a7a0.png",22h30 FK Spartak Tambov vs Znamya Truda (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1583,30 +1965,6 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m402nd/playlist.m
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m403nd/playlist.m3u8
 
 #EXTGRP:RA KHƠI
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paohd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (Ra Khơi) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paosd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6e447db66bb9d74f0a60a2cc15e3c57a.png",18h00 Santa Clara U23 vs Uniao Leiria U23 (Ra Khơi) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1.flv
 #EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/6c5a330bea9e5d26a1d3b108f79bd3a3.png",19h00 Juventus U19 vs Borussia Dortmund U19 (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1727,30 +2085,78 @@ https://ckhot-179939170.cdnfree.pro/live/phusd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (Ra Khơi) HD 1
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phuhd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (Ra Khơi) HD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (Ra Khơi) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (Ra Khơi) HD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (Ra Khơi) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (Ra Khơi) SD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phusd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (Ra Khơi) SD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (Ra Khơi) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/89159.png?lm=1726950908",22h00 Tire 2021 FK vs Bodrum FK (Ra Khơi) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png",20h30 Gazovik Orenburg vs Rubin Kazan (Ra Khơi) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paohd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (Ra Khơi) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paosd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/bdc4f33aadb95c9167c89ae8078c016c.png",20h45 Mohun Bagan Super Giant vs FC Ahal (Ra Khơi) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (Ra Khơi) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maohd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (Ra Khơi) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/9d107cb9d7aff7af5a85859ea1afbd3c.png",21h00 Sokol Lanzho vs FC Viktoria Plzen (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
 
 #EXTGRP:RỔ BÓNG
 #EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/6c5a330bea9e5d26a1d3b108f79bd3a3.png",19h00 Juventus U19 vs Borussia Dortmund U19 (Rổ) FHD
@@ -1767,6 +2173,8 @@ https://rblive.starxcdn.xyz/live/689c914a66f7b7eee4c190db_pxwrxlhyv04wryk_footba
 https://cr7.rbncdn.net/live/689c914a66f7b7eee4c190db_pxwrxlhyv04wryk_football_sd/playlist.m3u8
 #EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/649a85f258f62ec83a62983488e4b347.png",19h15 Buriram United vs Johor Darul Ta'zim (Rổ) SD Nhanh
 https://rblive.starxcdn.xyz/live/689c914a66f7b7eee4c190db_pxwrxlhyv04wryk_football_sd.flv
+#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/0f5f64c52541a333596d8892b25aa310.png",20h30 Orenburg vs Rubin Kazan (Rổ) FHD
+https://2988376792.global.cdnfastest.com/auto_hls/3glrw7hnyz2nqdy_football_fhd/index.m3u8
 
 #EXTGRP:SAO KÊ
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",08:00 TRỰC TIẾP CẦU LÔNG vs China Masters (Sao kê) SÂN 1
@@ -1809,6 +2217,34 @@ https://wtyi0525.edgemaxcdn.org/live/x9y3-8303/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",20:30 Italy vs Belgium (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/132286_small.png",20:30 Xem trực tiếp bình luận bóng đá full HD hôm nay: Orenburg và Rubin (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x6y2/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/132286_small.png",20:30 Xem trực tiếp bình luận bóng đá full HD hôm nay: Orenburg và Rubin (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x6y3-0023/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/132286_small.png",20:30 Xem trực tiếp bình luận bóng đá full HD hôm nay: Orenburg và Rubin (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x6y1/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578651_small.png",20:45 Xem trực tiếp bình luận bóng đá full HD hôm nay: Mohun Bagan SG và Ahal (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x1y2/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578651_small.png",20:45 Xem trực tiếp bình luận bóng đá full HD hôm nay: Mohun Bagan SG và Ahal (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x1y1/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578651_small.png",20:45 Xem trực tiếp bình luận bóng đá full HD hôm nay: Mohun Bagan SG và Ahal (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x1y3-2754/playlist.m3u8
 
 #EXTGRP:Sinema
 #EXTINF:-1 tvg-id="76" tvg-name="BS ACTION 1" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/1883f1dfa1e69b6788849eaab4b1f8e7.png" group-title="Sinema",BS ACTION 1
@@ -2447,6 +2883,210 @@ https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1758031187-0-0-7d9d
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/f3bdf7b50a5b371b56cd5755150c8dfe.png",20h30 ngày 16/09 Gazovik Orenburg vs Rubin Kazan [BLV QUAN VŨ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1758031187-0-0-1b26e56cdec39bf7c12ec67c168ab849
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/f3bdf7b50a5b371b56cd5755150c8dfe.png",20h30 ngày 16/09 Gazovik Orenburg vs Rubin Kazan [MR BÍCH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1758032267-0-0-f5367a503f12f81d3dbf2cb6841cb70c
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/f3bdf7b50a5b371b56cd5755150c8dfe.png",20h30 ngày 16/09 Gazovik Orenburg vs Rubin Kazan [MR BÍCH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1758032267-0-0-88b8953499929cf9266462d58bd3a2a1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/f3bdf7b50a5b371b56cd5755150c8dfe.png",20h30 ngày 16/09 Gazovik Orenburg vs Rubin Kazan [MR BÍCH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1758032267-0-0-f17dcd3d4e2ceae4931e46ed0d355d35
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/f3bdf7b50a5b371b56cd5755150c8dfe.png",20h30 ngày 16/09 Gazovik Orenburg vs Rubin Kazan [MR BÍCH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1758032267-0-0-89acdbf740f442d0f6271a768a19810e
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1758032987-0-0-f9e86078cb98db42dec6c8b2ae9b4b52
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1758032987-0-0-5677391f2d80806dd631760f9588688a
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1758032987-0-0-4ac310b72fb00b1f1ed9eebac5f3d39d
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1758032987-0-0-656e2e472dd39e00cf8d1f77c34550fc
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=dbec3b180b3a3193809d756c6b95c1ce&txTime=68c9b7db
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=bc6530c4ed9dd9fd69cddd9a853340ce&txTime=68c9b7db
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=bc6530c4ed9dd9fd69cddd9a853340ce&txTime=68c9b7db
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=dbec3b180b3a3193809d756c6b95c1ce&txTime=68c9b7db
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=23b54b7f12bfde88f77799a00c520c4d&txTime=68c9b7db
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=6f236a77c589c356107299275926f6bf&txTime=68c9b7db
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=6f236a77c589c356107299275926f6bf&txTime=68c9b7db
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=23b54b7f12bfde88f77799a00c520c4d&txTime=68c9b7db
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1758032987-0-0-9ca20586c736877dde3b286baaeca114
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1758032987-0-0-9cf21c1831342e310b9e427b69d2af65
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1758032987-0-0-7374f95fc08bebf5302371e8cf432036
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1758032987-0-0-5a94052c65a7996364e0c10f0db25b97
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV GÔN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=d2d3060b3e0713ed4ac107218add1633&txTime=68c9b7e1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=62388d4e0c3b1b2a598605445cf33282&txTime=68c9b7e1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=62388d4e0c3b1b2a598605445cf33282&txTime=68c9b7e1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=d2d3060b3e0713ed4ac107218add1633&txTime=68c9b7e1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=84febc8be8b290d58c6d62dde43f8354&txTime=68c9b7db
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=a8cbab374ea67e9e215b1daaa9c6deec&txTime=68c9b7db
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=a8cbab374ea67e9e215b1daaa9c6deec&txTime=68c9b7db
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/2739e34652ae4e3ffb3d6c7f8f7c8982.png",20h45 ngày 16/09 Mohun Bagan Super Giant vs Ahal FK [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=84febc8be8b290d58c6d62dde43f8354&txTime=68c9b7db
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1758033347-0-0-b566bbd0bdde452da8e1d1e54050b380
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1758033347-0-0-4e7583942df55f0d1119d5c64d1362b0
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1758033347-0-0-7749195fbf2613d6078ce2e6c6cf5dbb
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1758033347-0-0-690c834b3efb4ae235819909dad67069
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1758032987-0-0-502ad756e3c926a0267c1478ec1fd262
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1758032987-0-0-009f2d1969be8eb3da515879bddb32be
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1758032987-0-0-ae3b788593640af08407fca9af468e3b
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1758032987-0-0-2a82768b3c9833f5cf1a0fe81541b0ee
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV FANTA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912104_lsd.flv?auth_key=1758033347-0-0-999a74b993e0863963bbfdabea1ab90c
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV FANTA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912104_lhd.flv?auth_key=1758033347-0-0-7718eaee617fd06c4f9f60d74c9bc343
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV FANTA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1758033347-0-0-7dd1c2a67dcd05226f827d8d6ebc1f5b
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV FANTA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1758033347-0-0-b51397b2b6d111d5f6cf0c42fdc891b3
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV Hổ Lùn] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-308080_lsd.flv?txSecret=5d6020e77a60c1ef76ecd9c1a728c09a&txTime=68c9bc13
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV Hổ Lùn] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-308080_lhd.flv?txSecret=2adf2cd1d1fc1694e9bb12fc02658dfb&txTime=68c9bc13
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV Hổ Lùn] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=2adf2cd1d1fc1694e9bb12fc02658dfb&txTime=68c9bc13
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [BLV Hổ Lùn] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=5d6020e77a60c1ef76ecd9c1a728c09a&txTime=68c9bc13
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1758033347-0-0-5fcbe60b7de38bc8aaab9410463fe424
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1758033347-0-0-dc9a15767767daab96f4f221e6b73db6
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1758033347-0-0-7fcf562f61131e542c998a193087832b
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1758033347-0-0-bfab9c5dc74d74d6c43596ef60a75e89
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1758033347-0-0-c392e973665b6ac6cf92ab8fd35d4e29
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1758033347-0-0-ec9052a46bbfc8b4faeb4d7bf22239ad
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1758033347-0-0-54aafadcd86e71b35bb40dc96872fcd1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4eeff87b7896628cd3bb58399d4fbe59.png",21h00 ngày 16/09 Real Madrid U19 vs Marseille U19 [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1758033347-0-0-5d47c51d29cc2817fb259ad3283094ea
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4566cdec2f20512b5835ce2e8f12eb56.png",21h00 ngày 16/09 Rio Ave U23 vs Academico Viseu U23 [QUANG VINH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1758032987-0-0-5c85e91eef01c5c622170a414b57312f
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4566cdec2f20512b5835ce2e8f12eb56.png",21h00 ngày 16/09 Rio Ave U23 vs Academico Viseu U23 [QUANG VINH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1758032987-0-0-d6d92321487917ed82f16c5115f67870
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4566cdec2f20512b5835ce2e8f12eb56.png",21h00 ngày 16/09 Rio Ave U23 vs Academico Viseu U23 [QUANG VINH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1758032987-0-0-e4c58b10b2e8dc9938e3eb46197669c0
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4566cdec2f20512b5835ce2e8f12eb56.png",21h00 ngày 16/09 Rio Ave U23 vs Academico Viseu U23 [QUANG VINH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1758032987-0-0-3595adfc94cf34eb1baf7b6d3eb2f0fe
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4566cdec2f20512b5835ce2e8f12eb56.png",21h00 ngày 16/09 Rio Ave U23 vs Academico Viseu U23 [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/501412-480p.flv
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4566cdec2f20512b5835ce2e8f12eb56.png",21h00 ngày 16/09 Rio Ave U23 vs Academico Viseu U23 [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/501412-720p.flv
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4566cdec2f20512b5835ce2e8f12eb56.png",21h00 ngày 16/09 Rio Ave U23 vs Academico Viseu U23 [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/501412-720p.m3u8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/4566cdec2f20512b5835ce2e8f12eb56.png",21h00 ngày 16/09 Rio Ave U23 vs Academico Viseu U23 [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/501412-480p.m3u8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250914/5d452a051387585ba05d5eceeddc4577.png",21h00 ngày 16/09 Sokol Lanzho vs FC Viktoria Plzen [BLV NOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/537460-480p.flv
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250914/5d452a051387585ba05d5eceeddc4577.png",21h00 ngày 16/09 Sokol Lanzho vs FC Viktoria Plzen [BLV NOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/537460-720p.flv
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250914/5d452a051387585ba05d5eceeddc4577.png",21h00 ngày 16/09 Sokol Lanzho vs FC Viktoria Plzen [BLV NOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/537460-720p.m3u8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250914/5d452a051387585ba05d5eceeddc4577.png",21h00 ngày 16/09 Sokol Lanzho vs FC Viktoria Plzen [BLV NOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/537460-480p.m3u8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250914/5d452a051387585ba05d5eceeddc4577.png",21h00 ngày 16/09 Sokol Lanzho vs FC Viktoria Plzen [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/534055-480p.flv
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250914/5d452a051387585ba05d5eceeddc4577.png",21h00 ngày 16/09 Sokol Lanzho vs FC Viktoria Plzen [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/534055-720p.flv
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250914/5d452a051387585ba05d5eceeddc4577.png",21h00 ngày 16/09 Sokol Lanzho vs FC Viktoria Plzen [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/534055-720p.m3u8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250914/5d452a051387585ba05d5eceeddc4577.png",21h00 ngày 16/09 Sokol Lanzho vs FC Viktoria Plzen [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/534055-480p.m3u8
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1757584785-0-0-b00451300a5506d7b49b2a3c44ca19db
@@ -2459,18 +3099,6 @@ https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1757584785-0-0-e360
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1757584785-0-0-6ef33b1ef382abb42c1055a4158a2f04
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",POR LRU23: Santa Clara U23 vs Uniao Leiria U23 [BLV KUDO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-334434_lsd.flv?auth_key=1758031907-0-0-8e2a2f5fb17ad58fbaa021db015a2da1
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",POR LRU23: Santa Clara U23 vs Uniao Leiria U23 [BLV KUDO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-334434_lhd.flv?auth_key=1758031907-0-0-338f240386ffabd9dd997b91b7bfaacd
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",POR LRU23: Santa Clara U23 vs Uniao Leiria U23 [BLV KUDO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1758031907-0-0-3899d5b9a1449b5c56c9ffbe11f1ae08
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",POR LRU23: Santa Clara U23 vs Uniao Leiria U23 [BLV KUDO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-334434_lsd.m3u8?auth_key=1758031907-0-0-67caa0e714a6c6a90ded5855e86c8fa9
 
 #EXTGRP:Spor
 #EXTINF:-1 tvg-id="130" tvg-name="A Spor HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" group-title="Spor",A Spor HD
@@ -2923,6 +3551,14 @@ https://flv.cdnvankhanh.com/live/VEVAN.flv?expire=1848307620&sign=5779030852f8ca
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/VEVAN/index.m3u8?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20181105093134.png?win007=sell",20h30 Gazovik Orenburg vs Rubin Kazan (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20181105093134.png?win007=sell",20h30 Gazovik Orenburg vs Rubin Kazan (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 
 #EXTGRP:WWE
 #EXTINF:-1 tvg-id="98ca7e1b711db0534fe65b1e46ca9628" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="WWE",WWE Monday Night RAW (NETFLIX PPV)
