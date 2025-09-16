@@ -247,14 +247,6 @@ https://2893950149.global.cdnfastest.com/live/68c8c7605baba_4439.flv?expire=1758
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c8c7605baba_4439/index.m3u8?expire=1758593504&sign=62465c25fdba389110c8c0c903471ac4
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/13cbde0aa7993ac8e3142f970268a854.jpg",10h00 Mads VESTERGAARD vs Kevin LEE [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68c8b7c15baba_19013.flv?expire=1758589505&sign=4e4d9722e5fb47e29650afd31d620bc4
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/13cbde0aa7993ac8e3142f970268a854.jpg",10h00 Mads VESTERGAARD vs Kevin LEE [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68c8b7c15baba_19013/index.m3u8?expire=1758589505&sign=4e4d9722e5fb47e29650afd31d620bc4
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/f09db346c88c42b3c1cd924cedc0716e.jpg",10h20 LU Guang Zu vs Koki WATANABE [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -271,6 +263,26 @@ https://2893950149.global.cdnfastest.com/live/68c8b4352f366_42127.flv?expire=175
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68c8b4352f366_42127/index.m3u8?expire=1758588597&sign=8efa518f2960a626edeac8c964c9e378
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/546bac569e7d10ed432793e658e27d91.jpg",10h40 GOH Soon Huat vs WONG Tien Ci [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68c8b7c15baba_19013.flv?expire=1758589505&sign=4e4d9722e5fb47e29650afd31d620bc4
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/546bac569e7d10ed432793e658e27d91.jpg",10h40 GOH Soon Huat vs WONG Tien Ci [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68c8b7c15baba_19013/index.m3u8?expire=1758589505&sign=4e4d9722e5fb47e29650afd31d620bc4
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",14h45 Melbourne City vs Sanfrecce Hiroshima 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/livehd/88b573516ca1629ebd66ad07f9ad22c2/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png",17h00 Gangwon Football Club vs Shanghai Shenhua FC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/livehd/bb6475e430c8be9c29a7e6795f26cab4/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png",17h00 Machida Zelvia vs Football Club Seoul 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/livehd/4083473ae55761bcceb64b88e19c2d5e/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/649a85f258f62ec83a62983488e4b347.png",19h15 Buriram United vs Johor Darul Ta'zim FC 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -281,30 +293,6 @@ https://live.alilicloud.com/livehd/a5dae9102d01f0d122d76df22cd9f986/playlist.m3u
 https://live.alilicloud.com/livehd/ddf0a18972d706bfcd9ab3dc7d7b51e8/playlist.m3u8
 
 #EXTGRP:CHUỐI CHIÊN
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",09h00 ngày 16 Brazil vs Czech Republic (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",09h00 ngày 16 Brazil vs Czech Republic (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",09h00 ngày 16 Brazil vs Czech Republic (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",09h00 ngày 16 Brazil vs Czech Republic (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99.flv
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",09h00 ngày 16 Brazil vs Czech Republic (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",09h00 ngày 16 Brazil vs Czech Republic (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://media.api-sports.io/volley/teams/2196.png",09h30 ngày 16 Argentina vs South Korea (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -415,18 +403,6 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUz
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8ADB4yVzZaJDxaBj8L/index.m3u8
 #EXTINF:-1 tvg-id="15180f547b2a140ae6a517d1b4701eae" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="CRICKET",Marsh One-Day Cup : New South Wales vs Tasmanian Tigers (SKY SPORT 4 NZ)
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDR4FOl8kWzkxVxQjAw==/index.m3u8
-
-#EXTGRP:CÁ HEO
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/899ba9e1bfbb1984e0adc85ba820afc6.png",08h30 Alianza FC (PAN) vs San Francisco FC (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
-
-#EXTGRP:CÁ KÈO
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/899ba9e1bfbb1984e0adc85ba820afc6.png",08h30 ngày 16.09 Alianza FC (PAN) VS San Francisco FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/1eWdVmXoFEg6rJVQ3JepAQ/Fv2lucGIbhPi2caWYvF5Lg/1758012847175/live/sd-6MuTMyULqAL3PNARwy/playlist.m3u8
 
 #EXTGRP:Diğer
 #EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer",FASHION TV
@@ -599,14 +575,6 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUz
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbBAQ6WjlTKStbBicD/index.m3u8
 
 #EXTGRP:KHÁN ĐÀI A
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/eac9916f6a1fc224a379a5c273d8cd12/image/small",04h00 Deportes Quindio vs Leones (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c6cd700a5f5d5d6e91b56a0a3babac30/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/ea4b82a38f9cbae9db3af56bdd0f9cee/image/small",04h30 Génesis Policía Nacional vs Real Espana (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/53eb10f8b4e357343be03f77c733df23/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/58f6d81108feaeb339db698b59a67909/image/small",05h00 Ferroviaria SP vs Gremio Novorizontino (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -716,12 +684,6 @@ https://flv.cdnok9.com/live/TEST.flv?expire=1788427256&sign=47963ed63da3360fd84d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 
-#EXTGRP:LẤY KINH
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/899ba9e1bfbb1984e0adc85ba820afc6.png",08h30 Alianza FC (PAN) vs San Francisco FC (LẤY KINH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
-
 #EXTGRP:MOTORSPORT
 #EXTINF:-1 tvg-id="7095b4907f5880d0929f9835c122044b" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",Premiership Speedway - Leicester Lions vs Sheffield Tigers (TNT SPORTS 2 UK)
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbBgA6WjlTKStbBicD/index.m3u8
@@ -752,17 +714,7 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8?toke
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8?token=o08PEmjVJ6tBP3osOS1ZbA&tms=1756725008
 
-#EXTGRP:QUAY TAY
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/899ba9e1bfbb1984e0adc85ba820afc6.png",08h30 Alianza FC (PAN) vs San Francisco FC (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
-
 #EXTGRP:SAO KÊ
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",09:00 Brazil vs Czech Republic (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",09:00 TRỰC TIẾP CẦU LÔNG vs China Masters (Sao kê) SÂN 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1177,54 +1129,6 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbBD4GOkcsVjY4WgMiAw==/index.m3u8
 
 #EXTGRP:SOCOLIVE
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV  TYPN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1757987266-0-0-420527d73653fa3a9f666294d827f64b
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV  TYPN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1757987266-0-0-657259d29d9e4d026d449319527a53bd
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV  TYPN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1757987266-0-0-df8bdae69080b09644d834c41cda7c83
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV  TYPN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1757987266-0-0-a7f74ad460e9d17282c09bc4e9522604
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=024f6428a455a1f22a47f6573a20a023&txTime=68c906af
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=5a438ac2a737a8650db6b8aecef15331&txTime=68c906af
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=5a438ac2a737a8650db6b8aecef15331&txTime=68c906af
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=024f6428a455a1f22a47f6573a20a023&txTime=68c906af
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=c5548cd65f390dec19e0ad427c558050&txTime=68c906aa
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=5186be2aec754ff443469f2c56a4bb4e&txTime=68c906aa
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=5186be2aec754ff443469f2c56a4bb4e&txTime=68c906aa
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c5548cd65f390dec19e0ad427c558050&txTime=68c906aa
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [CÔNG LÝ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1757988346-0-0-44bae4221dcd53742b837714284f0fe9
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [CÔNG LÝ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1757988346-0-0-3dfb875794289ce24020e2823070e065
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [CÔNG LÝ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1757988346-0-0-1981c87f273a6b1287a5a476be4a04a1
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [CÔNG LÝ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1757988346-0-0-ce8878b43c464b9c82a417e550df1e82
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1757584785-0-0-b00451300a5506d7b49b2a3c44ca19db
@@ -1237,42 +1141,6 @@ https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1757584785-0-0-e360
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1757584785-0-0-6ef33b1ef382abb42c1055a4158a2f04
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1757995546-0-0-41e3da2bdbe54c1486e82d3fe04b632d
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1757995546-0-0-f70a94a9c5158c5f8e575295d89026e7
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1757995546-0-0-e9b2fc88f806f946dbd9a35c247542e6
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1757995546-0-0-1bca06eddda3de027e798a401ddebdc5
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=8d89f78cc43b63bd02ed20385d62433c&txTime=68c9286a
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=8673e410d7c1289b18c662f16e948eff&txTime=68c9286a
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=8673e410d7c1289b18c662f16e948eff&txTime=68c9286a
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=8d89f78cc43b63bd02ed20385d62433c&txTime=68c9286a
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912101_lsd.flv?auth_key=1757995546-0-0-622b3be6764309d7b4ec0d3872769b0e
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912101_lhd.flv?auth_key=1757995546-0-0-bee3e4516afc68c4d80595e1a6bebe4c
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1757995546-0-0-d0d2196f0c990cb5723015de0be008da
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1757995546-0-0-b17ee1f30dc27ef82a6a84624ae324ed
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",Tường thuật: ITA D1 - AC Milan vs Bologna [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1757995546-0-0-2c2ac2e04467ddbc13e06678610665ac
@@ -1763,16 +1631,6 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8EBxsyVzZaJDxaBj8L/index.m3u8
 #EXTINF:-1 tvg-id="8087aa26e7e15c887b365bd08a14d8c0" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",FIVB World Championship : USA vs Portugal (SPORT KLUB 2 CROATIA)
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8EOxgyVzZaJDxaBj8L/index.m3u8
-
-#EXTGRP:VĂN KHÁNH
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/164714350712.png?win007=sell",08h30 Alianza FC (PAN) vs San Francisco FC (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANVOI.flv?expire=1892616120&sign=e1a63bd0d6c0ae487212cdaf5617d073
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/164714350712.png?win007=sell",08h30 Alianza FC (PAN) vs San Francisco FC (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANVOI/index.m3u8?expire=1892616120&sign=e1a63bd0d6c0ae487212cdaf5617d073
 
 #EXTGRP:WWE
 #EXTINF:-1 tvg-id="98ca7e1b711db0534fe65b1e46ca9628" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="WWE",WWE Monday Night RAW (NETFLIX PPV)
