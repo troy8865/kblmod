@@ -451,30 +451,6 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
 
 #EXTGRP:CÁ HEO
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/hplushd2/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/hplussd2/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",14h45 Melbourne City vs Sanfrecce Hiroshima (CH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -520,27 +496,35 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m303nd/playlist.m
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="",14h00 ngày 16.09 Kunming City Star U21 VS Changchun Yatai U21 (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/uorUA_JVCPxIogNPqfUUrw/Fv2lucGIbhPi2caWYvF5Lg/1758029414999/live/sd-6MvY6eTRcyBx2jQRwR/playlist.m3u8
+https://apisportzz179528093.nsnd.live/jC9ypgTq5Pa8ttJemP-_lw/Fv2lucGIbhPi2caWYvF5Lg/1758034089018/live/sd-6MvY6eTRcyBx2jQRwR/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",14h45 ngày 16.09 Melbourne City vs Sanfrecce Hiroshima (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Zd5PCkKU36l9Fly7gh81Wg/Fv2lucGIbhPi2caWYvF5Lg/1758034089507/live/sd-6MvXc3quC6daQH8ED9/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",14h45 ngày 16.09 Melbourne City vs Sanfrecce Hiroshima (CK) Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/FZCP8CV53wTsbHD8ET214g/Fv2lucGIbhPi2caWYvF5Lg/1758034089507/live/hd-en-6MvXc3quC6daQH8ED9/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",14h45 ngày 16.09 Melbourne City vs Sanfrecce Hiroshima (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/QKhwUiqSa4sYGQFGR-3Q8A/883ca40e5184f080c92fcfdbaf37405d/1758030491/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/31KhU0tct0LEma1yjk3VqA/883ca40e5184f080c92fcfdbaf37405d/1758034089/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",14h45 ngày 16.09 Melbourne City vs Sanfrecce Hiroshima (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758030491/24c230a60dee2965510b2103f0140424/224682535/live/lungHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1758034089/1aa0bb6daec307d204c4374d1eed5dc3/103403184/live/lungHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",14h45 ngày 16.09 Melbourne City vs Sanfrecce Hiroshima (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758030491/410314942623dd8be6bb881c30423bff/379966745/live/lungHD.flv
+https://9ceg0825.edgemaxcdn.org/1758034089/2b24af6d0d579aa04c8766a1dce0306c/138388476/live/lungHD.flv
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",14h45 ngày 16.09 Melbourne City vs Sanfrecce Hiroshima (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Biml6fXBPs3nBcyizZTg3g/Fv2lucGIbhPi2caWYvF5Lg/1758030491232/live/lungSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ceIyR2eFMUmY09bhjk4VxA/Fv2lucGIbhPi2caWYvF5Lg/1758034089507/live/lungSD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/adc9a8d697f1b5a2e9ea74962caef4d1.png",15h00 ngày 16.09 Bangalore Dream United FC VS Kickstart Karnataka FC (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/XmvETbQCIbWIFL7yraJNog/Fv2lucGIbhPi2caWYvF5Lg/1758032289358/live/sd-6MvY76WdS9hdcnT5TR/playlist.m3u8
+https://apisportzz179528093.nsnd.live/ce_qC-i8KsGjAs64lGEQtQ/Fv2lucGIbhPi2caWYvF5Lg/1758034088522/live/sd-6MvY76WdS9hdcnT5TR/playlist.m3u8
 
 #EXTGRP:Diğer
 #EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer",FASHION TV
@@ -561,10 +545,6 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GBB4yVzZaJDxaBj8L/index.m3u8
 
 #EXTGRP:GÀ VÀNG
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/68f1d217547bcc212aac26401e5812b0/image/small",09h30 Argentina vs South Korea (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8f0b0e514c50e666c338771189b15a4f/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/bb4922179e669646f3ca377ef4c917f3/image/small",12h30 FC Agniputhra vs Parikrma FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -821,30 +801,6 @@ https://flv.cdnok9.com/live/ZORO.flv?expire=1788427256&sign=8e04682553e334be697e
 https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
 
 #EXTGRP:LẤY KINH
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (LẤY KINH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (LẤY KINH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179245845.cdnfree.pro/live/hplushd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (LẤY KINH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (LẤY KINH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (LẤY KINH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179245845.cdnfree.pro/live/hplussd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (LẤY KINH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",14h45 Melbourne City vs Sanfrecce Hiroshima (LẤY KINH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -917,30 +873,6 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8?toke
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8?token=o08PEmjVJ6tBP3osOS1ZbA&tms=1756725008
 
 #EXTGRP:QUAY TAY
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179245845.cdnfree.pro/live/hplushd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179245845.cdnfree.pro/live/hplussd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/929c6f5a25d9ee16e7e7cf8d571b0319.png",13h30 Dinthar FC vs Aizawl FC (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",14h45 Melbourne City vs Sanfrecce Hiroshima (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
