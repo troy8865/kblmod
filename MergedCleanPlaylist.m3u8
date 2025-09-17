@@ -259,10 +259,6 @@ https://image.yorganuzmani.lol/live/viasathistory.m3u8?token=o08PEmjVJ6tBP3osOS1
 https://image.yorganuzmani.lol/live/yaban.m3u8?token=3Cu7J5vqrbiZnkIy8YliZw&tms=1756725007
 
 #EXTGRP:Bún chả
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/a610baafc567c695c4be20d8a961f68e.png",03h30 ngày 18/09 San Antonio(ECU) vs Club Leones del Norte 1 (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/ccd7a9c6820f9b4d07b45c6717139d87/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/845eed665066a19144dad9f96e550b50.png",04h00 ngày 18/09 Club Atlético Newell's Old Boys vs Belgrano 1 (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -299,6 +295,10 @@ https://live.alilicloud.com/live/d6d420114d075fdc9dbaaafa8e5e478a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/a59fa1da8dccd42d118c2b581b8b82f4/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/5d83c47462e5afb6f1add0ad508c300b.png",05h30 ngày 18/09 Botafogo RJ vs Mirassol 1 (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/0a0d3fae5a95a26314545affc00e5a86/playlist.m3u8
 
 #EXTGRP:Chuối chiên
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",02h00 ngày 19/09 Eintracht Frankfurt vs Galatasaray (Chuối Chiên) HD1
@@ -791,30 +791,6 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbBgI6WjlTKStbBicD/index.m3u8
 
 #EXTGRP:Cà khịa
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1afe830878ba831fd0ae50d1236d6c7b.png",03h15 ngày 18/09 Comerciantes Unidos vs Sport Huancayo (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1afe830878ba831fd0ae50d1236d6c7b.png",03h15 ngày 18/09 Comerciantes Unidos vs Sport Huancayo (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1afe830878ba831fd0ae50d1236d6c7b.png",03h15 ngày 18/09 Comerciantes Unidos vs Sport Huancayo (Cà Khịa) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1afe830878ba831fd0ae50d1236d6c7b.png",03h15 ngày 18/09 Comerciantes Unidos vs Sport Huancayo (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1afe830878ba831fd0ae50d1236d6c7b.png",03h15 ngày 18/09 Comerciantes Unidos vs Sport Huancayo (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1afe830878ba831fd0ae50d1236d6c7b.png",03h15 ngày 18/09 Comerciantes Unidos vs Sport Huancayo (Cà Khịa) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/845eed665066a19144dad9f96e550b50.png",04h00 ngày 18/09 Newell's Old Boys vs Belgrano (Cà Khịa) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -970,12 +946,6 @@ https://179245845.cdnfree.pro/live/buisd2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
 
-#EXTGRP:CÁ KÈO
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/0822416345e2d8d33a657df506467eea.png",12h30 ngày 17.09 MEG VS Royal Banga Lu Lu (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/C7xDvQSKoj8a0n1GMSu3_A/Fv2lucGIbhPi2caWYvF5Lg/1758109690717/live/sd-6MvY76XPm4MHGjp3fH/playlist.m3u8
-
 #EXTGRP:Diğer
 #EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer",FASHION TV
 #EXTVLCOPT:http-user-agent=googleusercontent
@@ -1031,6 +1001,10 @@ https://live.alilicloud.com/live/d6d420114d075fdc9dbaaafa8e5e478a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/a59fa1da8dccd42d118c2b581b8b82f4/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6f9ab606179c957ae9297733b2d7e19c/image/small",05h30 ngày 17/09 Botafogo RJ vs Mirassol (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0a0d3fae5a95a26314545affc00e5a86/playlist.m3u8
 
 #EXTGRP:Haber
 #EXTINF:-1 tvg-id="97" tvg-name="24 HABER HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg" group-title="Haber",24 HABER HD
@@ -1365,14 +1339,10 @@ https://live.alilicloud.com/live/d6d420114d075fdc9dbaaafa8e5e478a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a59fa1da8dccd42d118c2b581b8b82f4/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fb750491145bd56e9b761b77828b2007/image/small",23h30 ngày 16/09 Birmingham Legion vs Tampa Bay Rowdies (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6f9ab606179c957ae9297733b2d7e19c/image/small",05h30 ngày 17/09 Botafogo RJ vs Mirassol (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5e245c69226061027e2b95fc2cc37c20/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6e5884479d17e9c156c46a335ed1d07b/image/small",23h30 ngày 16/09 JK Tallinna Kalev vs Paide Linnameeskond (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/48e6c878a91990e22fd932908a546f8e/playlist.m3u8
+https://live.alilicloud.com/live/0a0d3fae5a95a26314545affc00e5a86/playlist.m3u8
 
 #EXTGRP:Lương sơn
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/16494091542.png?win007=sell",04h00 ngày 18/09 Newells Old Boys vs Belgrano (Lương Sơn) BLV PEP flv
@@ -1405,6 +1375,24 @@ https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee84
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1062/1h51a813012f.png?win007=sell",05h00 ngày 18/09 Bolivar vs Atletico Mineiro (Lương Sơn) BLV TỐNG GIANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/467/1gtqm76wzmz.png?win007=sell",05h30 ngày 18/09 Botafogo RJ vs Mirassol (Lương Sơn) BLV TIÊU PHONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TIEUPHONG.flv?expire=1788427256&sign=30f6cc3c5000450c81ffb13b077432b8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/467/1gtqm76wzmz.png?win007=sell",05h30 ngày 18/09 Botafogo RJ vs Mirassol (Lương Sơn) BLV TIÊU PHONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TIEUPHONG/index.m3u8?expire=1788427256&sign=30f6cc3c5000450c81ffb13b077432b8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/467/1gtqm76wzmz.png?win007=sell",05h30 ngày 18/09 Botafogo RJ vs Mirassol (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/467/1gtqm76wzmz.png?win007=sell",05h30 ngày 18/09 Botafogo RJ vs Mirassol (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/467/1gtqm76wzmz.png?win007=sell",05h30 ngày 18/09 Botafogo RJ vs Mirassol (Lương Sơn) BLV ĐỊCH NHÂN KIỆT flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHANKIET.flv?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/467/1gtqm76wzmz.png?win007=sell",05h30 ngày 18/09 Botafogo RJ vs Mirassol (Lương Sơn) BLV ĐỊCH NHÂN KIỆT m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHANKIET/index.m3u8?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
 
 #EXTGRP:Lấy kinh
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/845eed665066a19144dad9f96e550b50.png",04h00 ngày 18/09 Newell's Old Boys vs Belgrano (Lấy kinh) HD 1
@@ -1685,6 +1673,8 @@ https://rblive.starxcdn.xyz/live/689c8ed2d0757b966b83f774_318q66hx7o77qo9_Bóng 
 https://cr7.rbncdn.net/live/689c8ed2d0757b966b83f774_318q66hx7o77qo9_Bóng đá_sd/playlist.m3u8
 #EXTINF:0 group-title="Rổ bóng" tvg-logo="https://img.thesports.com/Bóng đá/team/97b953630af2877305a6bcb90444dc72.png",05h00 ngày 18/09 Bolivar vs Atletico Mineiro (Rổ bóng) SD Nhanh
 https://rblive.starxcdn.xyz/live/689c8ed2d0757b966b83f774_318q66hx7o77qo9_Bóng đá_sd.flv
+#EXTINF:0 group-title="Rổ bóng" tvg-logo="https://img.thesports.com/Bóng đá/team/5d83c47462e5afb6f1add0ad508c300b.png",05h30 ngày 18/09 Botafogo vs Mirassol (Rổ bóng) FHD
+https://2988376792.global.cdnfastest.com/auto_hls/n54qllh7l4o7qvy_Bóng đá_fhd/index.m3u8
 
 #EXTGRP:Sao kê
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10201_small.png",04h00 ngày 18/09 Newell's Old Boys và Belgrano (Sao kê) Nhà đài
@@ -1707,6 +1697,18 @@ https://saoke.cdn.khmer-hd.com/x16y1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8517_small.png",05h30 ngày 18/09 Botafogo RJ và Mirassol (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x7y2/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8517_small.png",05h30 ngày 18/09 Botafogo RJ và Mirassol (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x7y3-2982/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8517_small.png",05h30 ngày 18/09 Botafogo RJ và Mirassol (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x7y1/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",08h00 ngày 18/09 TRỰC TIẾP CẦU LÔNG vs China Masters (Sao kê) SÂN 1+4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -3459,6 +3461,14 @@ https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/467/1gtqm76wzmz.png?win007=sell",05h30 ngày 18/09 Botafogo RJ vs Mirassol (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/467/1gtqm76wzmz.png?win007=sell",05h30 ngày 18/09 Botafogo RJ vs Mirassol (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
 
 #EXTGRP:WWE
 #EXTINF:-1 tvg-id="c5859f7bcc12f51550055536aca6d80f" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="WWE",All Elite Wrestling: Dynamite (FOX SPORTS PREMIUM MX)
