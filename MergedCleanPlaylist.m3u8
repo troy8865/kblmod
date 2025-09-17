@@ -343,10 +343,6 @@ https://live.alilicloud.com/live/f4a6292d204f1f6cfc034c32fd4aae54/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/779adcf759ec5dc3209ad3e10ce76443/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/2e92bcc55aba795bd64c93005279c590.png",05h00 ngày 18/09 Guadalupe FC vs Municipal Liberia 1 (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/d6d420114d075fdc9dbaaafa8e5e478a/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",05h00 ngày 18/09 Jorge Wilstermann vs Nacional Potosi 1 (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -355,18 +351,6 @@ https://live.alilicloud.com/live/a59fa1da8dccd42d118c2b581b8b82f4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/0a0d3fae5a95a26314545affc00e5a86/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/f5bbc8573e1b019164b11b13c49598bd.png",06h30 ngày 18/09 New York City FC vs Columbus Crew 1 (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/8727d95f72ae2131364082c3e4f3f5cf/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/ed26c7fa635172508dbfd68b2f92daab.png",07h00 Cavalier FC vs National Defense Forces (Bún Chả) [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://2893950149.global.cdnfastest.com/live/68cb453c5baba_161.flv?expire=1758756796&sign=391c192f15d2427db9f7d951ab6ec2ef
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/ed26c7fa635172508dbfd68b2f92daab.png",07h00 Cavalier FC vs National Defense Forces (Bún Chả) [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://2893254555.global.cdnfastest.com/live/68cb453c5baba_161/index.m3u8?expire=1758756796&sign=391c192f15d2427db9f7d951ab6ec2ef
 
 #EXTGRP:Chuối chiên
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",02h00 ngày 19/09 Eintracht Frankfurt vs Galatasaray (Chuối Chiên) HD1
@@ -1251,6 +1235,10 @@ https://live8.fastestcdn-global.com/live8/285f7fe046b949b78ae00d929543daa2_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc43163716.stream.hdplaylink.com/live7/285f7fe046b949b78ae00d929543daa2_480/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0e45165994c00c7e606e8428a2511ad2/image/small",06h30 ngày 17/09 New York City FC vs Columbus Crew (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8727d95f72ae2131364082c3e4f3f5cf/playlist.m3u8
 
 #EXTGRP:Haber
 #EXTINF:-1 tvg-id="97" tvg-name="24 HABER HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg" group-title="Haber",24 HABER HD
@@ -1677,6 +1665,10 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m502nd/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/e868bb2eac1923c5aecaddd492860b32.png",07h30 ngày 18/09 Cienciano vs Sport Boys (Lấy kinh) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m505nd/playlist.m3u8
 
 #EXTGRP:Müzik
 #EXTINF:-1 tvg-id="51" tvg-name="DREAM TÜRK TV HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/9756196c45fab27cf682ca813c12ceee.png" group-title="Müzik",DREAM TÜRK TV HD
@@ -1825,6 +1817,10 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m502nd/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e868bb2eac1923c5aecaddd492860b32.png",07h30 ngày 18/09 Cienciano vs Sport Boys (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m505nd/playlist.m3u8
 
 #EXTGRP:Ra khơi
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/97b953630af2877305a6bcb90444dc72.png",05h00 ngày 18/09 Bolivar vs Atletico Mineiro (Ra Khơi) HD 1
