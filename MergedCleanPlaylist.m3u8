@@ -1,5 +1,23 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
 
+#EXTGRP:10Cam
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/97b953630af2877305a6bcb90444dc72.png",05:00 ngày 18/09 Bolivar vs Atletico Mineiro (1) [Mỳ Tôm] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/t-uEbreVv2Gr1zNxb7HAjA/37c56eb4aaf958eda25bed5c53705fc2/1758166570/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/97b953630af2877305a6bcb90444dc72.png",05:00 ngày 18/09 Bolivar vs Atletico Mineiro (1) [Mỳ Tôm] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758166570/54ecbee766a19bd0360c2aff5ee0dcc8/723859386/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/97b953630af2877305a6bcb90444dc72.png",05:00 ngày 18/09 Bolivar vs Atletico Mineiro (1) [Mỳ Tôm] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758166570/2d2ccc8939c1648435c2eae50aa2208c/659441187/live/myHD.flv
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/97b953630af2877305a6bcb90444dc72.png",05:00 ngày 18/09 Bolivar vs Atletico Mineiro (1) [Mỳ Tôm] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/IvzTGt0g8d2zENIosXL9Lw/Fv2lucGIbhPi2caWYvF5Lg/1758166570802/live/mySD/playlist.m3u8
+
 #EXTGRP:__THÔNG BÁO__
 #EXTINF:0 group-title="__THÔNG BÁO__",1. !!! Link XEM LẠI đã tách sang byvn.net/KHXg
 https://hello
@@ -867,6 +885,10 @@ https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/9481fdb686a097b03b454ffd6a396304.png",05h30 ngày 18/09 Richmond Kickers vs Portland Hearts of Pine (Cá heo) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
 
 #EXTGRP:CÁ KÈO
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/0822416345e2d8d33a657df506467eea.png",12h30 ngày 17.09 MEG VS Royal Banga Lu Lu (CK) Backup 1
@@ -1337,6 +1359,10 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/9481fdb686a097b03b454ffd6a396304.png",05h30 ngày 18/09 Richmond Kickers vs Portland Hearts of Pine (Lấy kinh) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
 
 #EXTGRP:MOTORSPORT
 #EXTINF:-1 tvg-id="7095b4907f5880d0929f9835c122044b" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",Premiership Speedway - Leicester Lions vs Sheffield Tigers (TNT SPORTS 2 UK)
@@ -1445,6 +1471,10 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/9481fdb686a097b03b454ffd6a396304.png",05h30 ngày 18/09 Richmond Kickers vs Portland Hearts of Pine (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
 
 #EXTGRP:Ra khơi
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1afe830878ba831fd0ae50d1236d6c7b.png",03h15 ngày 18/09 Comerciantes Unidos vs Sport Huancayo (Ra Khơi) HD 1
@@ -1525,66 +1555,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
 https://2988376792.global.cdnfastest.com/auto_hls/2y8m4zh54xlyql0_Bóng đá_fhd/index.m3u8
 
 #EXTGRP:Sao kê
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",02h00 ngày 18/09 Ajax và Inter (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x2y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",02h00 ngày 18/09 Ajax và Inter (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x2y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",02h00 ngày 18/09 Ajax và Inter (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x2y3-4595/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",02h00 ngày 18/09 Bayern München và Chelsea (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x0y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",02h00 ngày 18/09 Bayern München và Chelsea (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x0y3-3361/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",02h00 ngày 18/09 Bayern München và Chelsea (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x0y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",02h00 ngày 18/09 Liverpool và Atletico Madrid (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x1y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",02h00 ngày 18/09 Liverpool và Atletico Madrid (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x1y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",02h00 ngày 18/09 Liverpool và Atletico Madrid (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x1y3-2757/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",02h00 ngày 18/09 PSG và Atalanta (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x10y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",02h00 ngày 18/09 PSG và Atalanta (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x10y3-1377/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",02h00 ngày 18/09 PSG và Atalanta (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x10y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10003_small.png",02h00 ngày 18/09 Swansea và Nottm Forest (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x8y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10003_small.png",02h00 ngày 18/09 Swansea và Nottm Forest (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x8y3-0451/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10003_small.png",02h00 ngày 18/09 Swansea và Nottm Forest (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x8y1/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10201_small.png",04h00 ngày 18/09 Newell's Old Boys và Belgrano (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
