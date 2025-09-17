@@ -733,6 +733,18 @@ https://flv.cdnokvip.com/live/TEST2.flv?expire=1892296680&sign=1977a4202a07089c0
 #EXTINF:0 group-title="Bóng đá" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1758094669.png",14h30 ngày 17/09 Chelsea vs Brentford (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/TEST2/index.m3u8?expire=1892296680&sign=1977a4202a07089c09e7170aee5cebb8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250916/f72eb5b422c8fbd52a472454d6034872.png",15h00 ngày 17/09 Sarangani Marlins vs Paranaque Patriots [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1758098867-0-0-72579826ed0768b9f63fac3d560f3e1d
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250916/f72eb5b422c8fbd52a472454d6034872.png",15h00 ngày 17/09 Sarangani Marlins vs Paranaque Patriots [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1758098867-0-0-a84b257d10455f68570b8b5c6ff44b95
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250916/f72eb5b422c8fbd52a472454d6034872.png",15h00 ngày 17/09 Sarangani Marlins vs Paranaque Patriots [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1758098867-0-0-17bb24843a140bc987b1262f5c97f3f4
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250916/f72eb5b422c8fbd52a472454d6034872.png",15h00 ngày 17/09 Sarangani Marlins vs Paranaque Patriots [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1758098867-0-0-624e2bbca0d557699fb3a198137cd428
 #EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/91008a96b5de8c75376d17057f89890e.png",17h00 ngày 17/09 Gamba Osaka vs Eastern Football Team 1 (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -1105,6 +1117,18 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUz
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbBAQ6WjlTKStbBicD/index.m3u8
 
 #EXTGRP:Khác
+#EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250916/f72eb5b422c8fbd52a472454d6034872.png",15h00 ngày 17/09 Sarangani Marlins vs Paranaque Patriots [BLV BEAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912111-480p.flv
+#EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250916/f72eb5b422c8fbd52a472454d6034872.png",15h00 ngày 17/09 Sarangani Marlins vs Paranaque Patriots [BLV BEAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912111-720p.flv
+#EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250916/f72eb5b422c8fbd52a472454d6034872.png",15h00 ngày 17/09 Sarangani Marlins vs Paranaque Patriots [BLV BEAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8
+#EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250916/f72eb5b422c8fbd52a472454d6034872.png",15h00 ngày 17/09 Sarangani Marlins vs Paranaque Patriots [BLV BEAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8
 #EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250916/f72eb5b422c8fbd52a472454d6034872.png",15h00 ngày 17/09 Sarangani Marlins vs Paranaque Patriots [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1758098507-0-0-1268de01fb3926df315622244b82f46d
