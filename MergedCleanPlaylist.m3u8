@@ -255,11 +255,11 @@ https://2893950149.global.cdnfastest.com/live/68ca5b422f366_103.flv?expire=17586
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://2893254555.global.cdnfastest.com/live/68ca5b422f366_103/index.m3u8?expire=1758696898&sign=b27503a453a21bf1dd8ff82ffb277317
-#EXTINF:0 group-title="Billiards" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/dc13e4d8b9fa40ac8e02ae326dfd0a83.jpg",15h30 Nghiêm Uy Lân vs Moritz Neuhausen (Bún Chả) [flv]
+#EXTINF:0 group-title="Billiards" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/95422fa62a60686db1fb83c16ccf6cbb.jpg",15h30 Phan Văn Kiên vs Henry NGUYEN (Bún Chả) [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://2893950149.global.cdnfastest.com/live/68ca6d055baba_17480.flv?expire=1758701445&sign=17f58918826f125e1a7ffbae11c03886
-#EXTINF:0 group-title="Billiards" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/dc13e4d8b9fa40ac8e02ae326dfd0a83.jpg",15h30 Nghiêm Uy Lân vs Moritz Neuhausen (Bún Chả) [hls]
+#EXTINF:0 group-title="Billiards" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/95422fa62a60686db1fb83c16ccf6cbb.jpg",15h30 Phan Văn Kiên vs Henry NGUYEN (Bún Chả) [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://2893254555.global.cdnfastest.com/live/68ca6d055baba_17480/index.m3u8?expire=1758701445&sign=17f58918826f125e1a7ffbae11c03886
@@ -673,6 +673,126 @@ https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1758098867-0-0-17b
 #EXTINF:0 group-title="Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250916/f72eb5b422c8fbd52a472454d6034872.png",15h00 ngày 17/09 Sarangani Marlins vs Paranaque Patriots [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1758098867-0-0-624e2bbca0d557699fb3a198137cd428
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Cà Khịa) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoihd1.flv
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Cà Khịa) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Cá heo) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Cá heo) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Cá heo) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@chuoihd1.flv
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Cá heo) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Cá heo) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Cá heo) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Lấy kinh) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoihd1.flv
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Lấy kinh) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoihd1.flv
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Ra Khơi) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoihd1.flv
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",16h00 ngày 17/09 Ho Chi Minh City B (w) vs Ha Noi (w) (Ra Khơi) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
 #EXTINF:0 group-title="Bóng đá" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_135809_7670cc2d.png",16h00 ngày 17/09 Hồ Chí Minh II vs Hà Nội (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -681,6 +801,14 @@ https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/91008a96b5de8c75376d17057f89890e.png",17h00 Gamba Osaka vs Eastern Football Team (Bún Chả) [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://2893950149.global.cdnfastest.com/live/68ca73f02f366_28.flv?expire=1758703216&sign=81cc30280451d075747cc8dc0338bd00
+#EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/91008a96b5de8c75376d17057f89890e.png",17h00 Gamba Osaka vs Eastern Football Team (Bún Chả) [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://2893254555.global.cdnfastest.com/live/68ca73f02f366_28/index.m3u8?expire=1758703216&sign=81cc30280451d075747cc8dc0338bd00
 #EXTINF:0 group-title="Bóng đá" tvg-logo="https://img.thesports.com/football/team/91008a96b5de8c75376d17057f89890e.png",17h00 ngày 17/09 Gamba Osaka vs Eastern Football Team 1 (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -1077,6 +1205,18 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1758098507-0-0-4a1
 #EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250916/f72eb5b422c8fbd52a472454d6034872.png",15h00 ngày 17/09 Sarangani Marlins vs Paranaque Patriots [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1758098507-0-0-c137b9ef9730d745532c96bd5ff2f4be
+#EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250913/f21f6a32c5ce504ce1f86c30023dc52d.png",16h00 ngày 17/09 Ho Chi Minh City B Women vs Ha Noi Women [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-480p.flv
+#EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250913/f21f6a32c5ce504ce1f86c30023dc52d.png",16h00 ngày 17/09 Ho Chi Minh City B Women vs Ha Noi Women [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-720p.flv
+#EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250913/f21f6a32c5ce504ce1f86c30023dc52d.png",16h00 ngày 17/09 Ho Chi Minh City B Women vs Ha Noi Women [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-720p.m3u8
+#EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250913/f21f6a32c5ce504ce1f86c30023dc52d.png",16h00 ngày 17/09 Ho Chi Minh City B Women vs Ha Noi Women [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-480p.m3u8
 #EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250913/f21f6a32c5ce504ce1f86c30023dc52d.png",16h00 ngày 17/09 Ho Chi Minh City B Women vs Ha Noi Women [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1758101027-0-0-fe33f82e6818a7e41e994f1475ad159b
@@ -1089,6 +1229,18 @@ https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1758101027-0-0-c114
 #EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250913/f21f6a32c5ce504ce1f86c30023dc52d.png",16h00 ngày 17/09 Ho Chi Minh City B Women vs Ha Noi Women [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1758101027-0-0-a6c8e508b51c529edf6c27a289b69841
+#EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250913/f21f6a32c5ce504ce1f86c30023dc52d.png",16h00 ngày 17/09 Ho Chi Minh City B Women vs Ha Noi Women [VIÊN THIỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536186_lsd.flv?auth_key=1758102107-0-0-a1aac30f1618bbb9ae09d57a3a88195c
+#EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250913/f21f6a32c5ce504ce1f86c30023dc52d.png",16h00 ngày 17/09 Ho Chi Minh City B Women vs Ha Noi Women [VIÊN THIỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536186_lhd.flv?auth_key=1758102107-0-0-20a8dd12d6887026c759e0d3bab4de45
+#EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250913/f21f6a32c5ce504ce1f86c30023dc52d.png",16h00 ngày 17/09 Ho Chi Minh City B Women vs Ha Noi Women [VIÊN THIỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536186_lhd.m3u8?auth_key=1758102107-0-0-e17f6129a10a61dca8f0f8da4bc91d81
+#EXTINF:0 group-title="Khác" tvg-logo="https://sta.vnres.co/file/common/20250913/f21f6a32c5ce504ce1f86c30023dc52d.png",16h00 ngày 17/09 Ho Chi Minh City B Women vs Ha Noi Women [VIÊN THIỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536186_lsd.m3u8?auth_key=1758102107-0-0-01360f75fe1ca0e9ac15bf5a9fc97455
 
 #EXTGRP:MOTORSPORT
 #EXTINF:-1 tvg-id="7095b4907f5880d0929f9835c122044b" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",Premiership Speedway - Leicester Lions vs Sheffield Tigers (TNT SPORTS 2 UK)
