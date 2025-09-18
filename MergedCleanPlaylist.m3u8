@@ -299,10 +299,6 @@ https://image.yorganuzmani.lol/live/viasathistory.m3u8?token=o08PEmjVJ6tBP3osOS1
 https://image.yorganuzmani.lol/live/yaban.m3u8?token=3Cu7J5vqrbiZnkIy8YliZw&tms=1756725007
 
 #EXTGRP:Bún chả
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa 1 (Bún Chả1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/a77d479059158a0ec75528d7d15182e0/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/19ea9ea1eafe06b67600653432bfb22f.png",17h00 ngày 18/09 Kaya FC vs Tampines Rovers FC 1 (Bún Chả1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -315,6 +311,376 @@ https://live.alilicloud.com/livehd/9b357a4e11129c6fa2375f55a839237c/playlist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/livehd/1295f76fd5399c8b359a434b7f7679a7/playlist.m3u8
+
+#EXTGRP:Chuối chiên
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",02h00 ngày 19/09 Eintracht Frankfurt vs Galatasaray (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilun/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",02h00 ngày 19/09 Eintracht Frankfurt vs Galatasaray (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilun/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",02h00 ngày 19/09 Eintracht Frankfurt vs Galatasaray (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilun.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",02h00 ngày 19/09 Eintracht Frankfurt vs Galatasaray (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilun.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",02h00 ngày 19/09 Eintracht Frankfurt vs Galatasaray (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilun/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",02h00 ngày 19/09 Eintracht Frankfurt vs Galatasaray (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilun.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125550_090f6609.png",02h00 ngày 19/09 Manchester City vs Napoli (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125550_090f6609.png",02h00 ngày 19/09 Manchester City vs Napoli (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125550_090f6609.png",02h00 ngày 19/09 Manchester City vs Napoli (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125550_090f6609.png",02h00 ngày 19/09 Manchester City vs Napoli (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125550_090f6609.png",02h00 ngày 19/09 Manchester City vs Napoli (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125550_090f6609.png",02h00 ngày 19/09 Manchester City vs Napoli (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125545_2cdfd5d4.png",02h00 ngày 19/09 Newcastle vs Barcelona (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125545_2cdfd5d4.png",02h00 ngày 19/09 Newcastle vs Barcelona (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125545_2cdfd5d4.png",02h00 ngày 19/09 Newcastle vs Barcelona (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125545_2cdfd5d4.png",02h00 ngày 19/09 Newcastle vs Barcelona (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125545_2cdfd5d4.png",02h00 ngày 19/09 Newcastle vs Barcelona (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125545_2cdfd5d4.png",02h00 ngày 19/09 Newcastle vs Barcelona (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132252_b2dbc342.png",05h00 ngày 19/09 LDU de Quito vs Sao Paulo (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132252_b2dbc342.png",05h00 ngày 19/09 LDU de Quito vs Sao Paulo (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132252_b2dbc342.png",05h00 ngày 19/09 LDU de Quito vs Sao Paulo (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132252_b2dbc342.png",05h00 ngày 19/09 LDU de Quito vs Sao Paulo (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132252_b2dbc342.png",05h00 ngày 19/09 LDU de Quito vs Sao Paulo (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132252_b2dbc342.png",05h00 ngày 19/09 LDU de Quito vs Sao Paulo (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125537_af573eed.png",07h30 ngày 19/09 Flamengo vs Estudiantes L.P. (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125537_af573eed.png",07h30 ngày 19/09 Flamengo vs Estudiantes L.P. (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125537_af573eed.png",07h30 ngày 19/09 Flamengo vs Estudiantes L.P. (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125537_af573eed.png",07h30 ngày 19/09 Flamengo vs Estudiantes L.P. (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125537_af573eed.png",07h30 ngày 19/09 Flamengo vs Estudiantes L.P. (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125537_af573eed.png",07h30 ngày 19/09 Flamengo vs Estudiantes L.P. (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250917_192606_760e64ee.png",09h30 ngày 18/09 Finland vs South Korea (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250917_192606_760e64ee.png",09h30 ngày 18/09 Finland vs South Korea (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2235.png",12h30 ngày 18/09 Egypt vs Tunisia (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2235.png",12h30 ngày 18/09 Egypt vs Tunisia (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2235.png",12h30 ngày 18/09 Egypt vs Tunisia (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2235.png",12h30 ngày 18/09 Egypt vs Tunisia (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2235.png",12h30 ngày 18/09 Egypt vs Tunisia (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2235.png",12h30 ngày 18/09 Egypt vs Tunisia (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250903_205412_f148dbb7.png",15h30 ngày 18/09 Phong Phú Hà Nam Nữ vs Thái Nguyên Nữ (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250903_205412_f148dbb7.png",15h30 ngày 18/09 Phong Phú Hà Nam Nữ vs Thái Nguyên Nữ (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250903_205412_f148dbb7.png",15h30 ngày 18/09 Phong Phú Hà Nam Nữ vs Thái Nguyên Nữ (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250903_205412_f148dbb7.png",15h30 ngày 18/09 Phong Phú Hà Nam Nữ vs Thái Nguyên Nữ (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250903_205412_f148dbb7.png",15h30 ngày 18/09 Phong Phú Hà Nam Nữ vs Thái Nguyên Nữ (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250903_205412_f148dbb7.png",15h30 ngày 18/09 Phong Phú Hà Nam Nữ vs Thái Nguyên Nữ (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2841.png",16h30 ngày 18/09 Philippines vs Iran (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2841.png",16h30 ngày 18/09 Philippines vs Iran (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2841.png",16h30 ngày 18/09 Philippines vs Iran (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2841.png",16h30 ngày 18/09 Philippines vs Iran (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2841.png",16h30 ngày 18/09 Philippines vs Iran (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2841.png",16h30 ngày 18/09 Philippines vs Iran (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133504_eae218ac.png",19h15 ngày 18/09 Beijing Guoan vs Công An Hà Nội (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133504_eae218ac.png",19h15 ngày 18/09 Beijing Guoan vs Công An Hà Nội (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilua/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133504_eae218ac.png",19h15 ngày 18/09 Beijing Guoan vs Công An Hà Nội (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133504_eae218ac.png",19h15 ngày 18/09 Beijing Guoan vs Công An Hà Nội (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilua.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133504_eae218ac.png",19h15 ngày 18/09 Beijing Guoan vs Công An Hà Nội (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilua/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133504_eae218ac.png",19h15 ngày 18/09 Beijing Guoan vs Công An Hà Nội (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilua.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250917_192647_7c80c2b2.png",20h00 ngày 18/09 Czech Republic vs China (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250917_192647_7c80c2b2.png",20h00 ngày 18/09 Czech Republic vs China (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250917_192647_7c80c2b2.png",20h00 ngày 18/09 Czech Republic vs China (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250917_192647_7c80c2b2.png",20h00 ngày 18/09 Czech Republic vs China (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250917_192647_7c80c2b2.png",20h00 ngày 18/09 Czech Republic vs China (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250917_192647_7c80c2b2.png",20h00 ngày 18/09 Czech Republic vs China (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2204.png",20h30 ngày 18/09 Italy vs Ukraine (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2204.png",20h30 ngày 18/09 Italy vs Ukraine (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2204.png",20h30 ngày 18/09 Italy vs Ukraine (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2204.png",20h30 ngày 18/09 Italy vs Ukraine (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2204.png",20h30 ngày 18/09 Italy vs Ukraine (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2204.png",20h30 ngày 18/09 Italy vs Ukraine (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134414_459543d1.png",21h00 ngày 18/09 Manchester City U19 vs Napoli U19 (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134414_459543d1.png",21h00 ngày 18/09 Manchester City U19 vs Napoli U19 (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134414_459543d1.png",21h00 ngày 18/09 Manchester City U19 vs Napoli U19 (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134414_459543d1.png",21h00 ngày 18/09 Manchester City U19 vs Napoli U19 (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134414_459543d1.png",21h00 ngày 18/09 Manchester City U19 vs Napoli U19 (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134414_459543d1.png",21h00 ngày 18/09 Manchester City U19 vs Napoli U19 (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134003_9cc81345.png",22h40 ngày 18/09 Al Taawon vs Al-Ettifaq (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilun/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134003_9cc81345.png",22h40 ngày 18/09 Al Taawon vs Al-Ettifaq (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilun/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134003_9cc81345.png",22h40 ngày 18/09 Al Taawon vs Al-Ettifaq (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilun.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134003_9cc81345.png",22h40 ngày 18/09 Al Taawon vs Al-Ettifaq (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilun.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134003_9cc81345.png",22h40 ngày 18/09 Al Taawon vs Al-Ettifaq (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilun/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134003_9cc81345.png",22h40 ngày 18/09 Al Taawon vs Al-Ettifaq (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilun.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125524_8ec816f8.png",23h45 ngày 18/09 Club Brugge KV vs Monaco (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125524_8ec816f8.png",23h45 ngày 18/09 Club Brugge KV vs Monaco (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilua/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125524_8ec816f8.png",23h45 ngày 18/09 Club Brugge KV vs Monaco (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125524_8ec816f8.png",23h45 ngày 18/09 Club Brugge KV vs Monaco (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilua.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125524_8ec816f8.png",23h45 ngày 18/09 Club Brugge KV vs Monaco (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilua/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125524_8ec816f8.png",23h45 ngày 18/09 Club Brugge KV vs Monaco (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilua.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130611_87bcfaa1.png",23h45 ngày 18/09 FC Copenhagen vs Bayer Leverkusen (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130611_87bcfaa1.png",23h45 ngày 18/09 FC Copenhagen vs Bayer Leverkusen (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130611_87bcfaa1.png",23h45 ngày 18/09 FC Copenhagen vs Bayer Leverkusen (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130611_87bcfaa1.png",23h45 ngày 18/09 FC Copenhagen vs Bayer Leverkusen (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130611_87bcfaa1.png",23h45 ngày 18/09 FC Copenhagen vs Bayer Leverkusen (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130611_87bcfaa1.png",23h45 ngày 18/09 FC Copenhagen vs Bayer Leverkusen (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot.flv
 
 #EXTGRP:CRICKET
 #EXTINF:-1 tvg-id="2868c252f87880a95962a163400810d5" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="CRICKET",Asia Cup : United Arab Emirates vs Pakistan (ASTRO CRICKET)
@@ -462,81 +828,31 @@ https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lulusd1.flv
 
-#EXTGRP:Cá heo
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (Cá heo) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@luluhd1/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (Cá heo) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (Cá heo) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@luluhd1.flv
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (Cá heo) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lulusd1/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (Cá heo) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (Cá heo) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@lulusd1.flv
-
 #EXTGRP:Cá kèo
-#EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC (Cá Kèo) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/0HwLS8UjOe6ACY9zIWFBTw/Fv2lucGIbhPi2caWYvF5Lg/1758183488991/live/sd-6MtMPPaKtntNyPURMD/playlist.m3u8
-#EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC (Cá Kèo) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/b2wKpsosoObw38dtIVXB8Q/f7d74fcca7b86aaec98d69192d99ee8f/1758183488/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
-#EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC (Cá Kèo) HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758183488/609aa807dd708f95c318e7086a1896d6/234865943/live/coHD/playlist.m3u8
-#EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC (Cá Kèo) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758183488/5b2bab4026f40dd7d6a43274ef1d2a2d/998999196/live/coHD.flv
-#EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC (Cá Kèo) SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/j7YPZGvDge3h6mgM49EnZg/Fv2lucGIbhPi2caWYvF5Lg/1758183488991/live/coSD/playlist.m3u8
-#EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/d5a21d689cd054086e3506555035ee3e.png",09h00 ngày 18/09 Diriangen VS Real Madriz FC (Cá Kèo) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/bttbX9q3FDj8jNtXsPledg/Fv2lucGIbhPi2caWYvF5Lg/1758183510397/live/sd-6MvY76XP694nS2Ms8X/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano VS Deportivo Saprissa (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/ofK4MraDuXqjos14ItsWLQ/Fv2lucGIbhPi2caWYvF5Lg/1758183508962/live/sd-6MvXc72TWrsRCKYyes/playlist.m3u8
+https://apisportzz179528093.nsnd.live/nvB_gywGRSPjYqkPpajA4g/Fv2lucGIbhPi2caWYvF5Lg/1758189252774/live/sd-6MvXc72TWrsRCKYyes/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/e8a82975e71014b3298d2c3130cbe445.png",09h50 ngày 18/09 Chivas Guadalajara vs Tigres UANL (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/k8IOM4THhrCeBLXyNVzlgw/Fv2lucGIbhPi2caWYvF5Lg/1758186015213/live/sd-6MuSNiyauqdnw9z7gw/playlist.m3u8
+https://apisportzz179528093.nsnd.live/JgkhairmawkJdEOJ8WWlYA/Fv2lucGIbhPi2caWYvF5Lg/1758189266187/live/sd-6MuSNiyauqdnw9z7gw/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/e8a82975e71014b3298d2c3130cbe445.png",09h50 ngày 18/09 Chivas Guadalajara vs Tigres UANL (Cá Kèo) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/cgOIet01gm4s3XsGb-sXgQ/e56ce8a755cda33e7f050da0b700d013/1758186015/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/0XtvW-Bc7L92KR4Bk5Fs2Q/e56ce8a755cda33e7f050da0b700d013/1758189266/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/e8a82975e71014b3298d2c3130cbe445.png",09h50 ngày 18/09 Chivas Guadalajara vs Tigres UANL (Cá Kèo) HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758186015/49d139b915f9cb3490b66facab5ece90/418312582/live/oldHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1758189266/25f53f106e4f4ccbb367556522599bf2/198220987/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/e8a82975e71014b3298d2c3130cbe445.png",09h50 ngày 18/09 Chivas Guadalajara vs Tigres UANL (Cá Kèo) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758186015/d800e43da63ed5992600d146b6a85c20/721460244/live/oldHD.flv
+https://9ceg0825.edgemaxcdn.org/1758189266/21fb9277ceb99927e42e414bc3241670/799770071/live/oldHD.flv
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/e8a82975e71014b3298d2c3130cbe445.png",09h50 ngày 18/09 Chivas Guadalajara vs Tigres UANL (Cá Kèo) SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/RgKgGYsXTlBkOTVNjNFRVg/Fv2lucGIbhPi2caWYvF5Lg/1758186015214/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Uh19DH_QvJeZ0KY8GzSr4w/Fv2lucGIbhPi2caWYvF5Lg/1758189266187/live/oldSD/playlist.m3u8
 
 #EXTGRP:Diğer
 #EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer",FASHION TV
@@ -593,34 +909,6 @@ https://live.alilicloud.com/live/0aa7a954d6a6d78f93f867f1994f9e0c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/6efe780406d9829d83ac5d832505b0e1/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fed4c11b15e2e32bb89bfc46b003fd49/image/small",08h30 ngày 17/09 Real Salt Lake vs Los Angeles FC (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/2d57fefa853f4f7f9de76386f9f1b8c1_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fed4c11b15e2e32bb89bfc46b003fd49/image/small",08h30 ngày 17/09 Real Salt Lake vs Los Angeles FC (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/2d57fefa853f4f7f9de76386f9f1b8c1_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fed4c11b15e2e32bb89bfc46b003fd49/image/small",08h30 ngày 17/09 Real Salt Lake vs Los Angeles FC (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/2d57fefa853f4f7f9de76386f9f1b8c1_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fed4c11b15e2e32bb89bfc46b003fd49/image/small",08h30 ngày 17/09 Real Salt Lake vs Los Angeles FC (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/2d57fefa853f4f7f9de76386f9f1b8c1_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fed4c11b15e2e32bb89bfc46b003fd49/image/small",08h30 ngày 17/09 Real Salt Lake vs Los Angeles FC (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/2d57fefa853f4f7f9de76386f9f1b8c1_480/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fed4c11b15e2e32bb89bfc46b003fd49/image/small",08h30 ngày 17/09 Real Salt Lake vs Los Angeles FC (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/2d57fefa853f4f7f9de76386f9f1b8c1_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fed4c11b15e2e32bb89bfc46b003fd49/image/small",08h30 ngày 17/09 Real Salt Lake vs Los Angeles FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/787bae64f7d111f7d15cb676f41e9c26/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/878cef15ab813379c1e0af48f370a6b5/image/small",09h00 ngày 17/09 Brazil vs Serbia (Gà Vàng) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -777,26 +1065,6 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbBQQ6WjlTKStbBicD/index.m3u8
 
 #EXTGRP:Khán đài a
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/451df3af6a644056d30046a1358391a0/image/small",05h00 ngày 17/09 Bolivar vs Atletico Mineiro (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/864c13ff25bca497a1a01687c0304f79/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fd1b4a0de5ab7b0ca6a6042309c61f39/image/small",05h00 ngày 17/09 Central Cordoba SdE Reserves vs Tigre Reserves (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f4a6292d204f1f6cfc034c32fd4aae54/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f7fd67cfe8246ab5bb2c0e414180f8a5/image/small",05h00 ngày 17/09 Cerro Porteno vs Atlético Tembetary (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/779adcf759ec5dc3209ad3e10ce76443/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/baada40a559e902434d6733dc72e8436/image/small",05h00 ngày 17/09 Guadalupe FC vs Municipal Liberia (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d6d420114d075fdc9dbaaafa8e5e478a/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0261047b0259587ab7bc5014c7e9e0dd/image/small",05h00 ngày 17/09 Jorge Wilstermann vs Nacional Potosi (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a59fa1da8dccd42d118c2b581b8b82f4/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6f9ab606179c957ae9297733b2d7e19c/image/small",05h30 ngày 17/09 Botafogo RJ vs Mirassol (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -915,18 +1183,12 @@ https://live4.fastestcdn-global.com/live4/40975c6f947342f6be2e7c59708a6b7f_480/i
 https://live.alilicloud.com/live/d0edbbdd70809be80e28e70ad2d5a3de/playlist.m3u8
 
 #EXTGRP:Lương sơn
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20161018103215.jpg?win007=sell",09h00 ngày 18/09 Antigua GFC vs CSD Municipal (Lương Sơn) TRỢ LÝ ĐIÊU THUYỀN flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1758168234.png",11h00 ngày 18/09 Real Madrid vs Athletic Bilbao (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DIEUTHUYEN.flv?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20161018103215.jpg?win007=sell",09h00 ngày 18/09 Antigua GFC vs CSD Municipal (Lương Sơn) TRỢ LÝ ĐIÊU THUYỀN m3u
+https://flv.cdnokvip.com/live/TEST2.flv?expire=1892296680&sign=1977a4202a07089c09e7170aee5cebb8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1758168234.png",11h00 ngày 18/09 Real Madrid vs Athletic Bilbao (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/6085/1h6wfek5q11g.png?win007=sell",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (Lương Sơn) BLV TIÊU PHONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TIEUPHONG.flv?expire=1788427256&sign=30f6cc3c5000450c81ffb13b077432b8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/6085/1h6wfek5q11g.png?win007=sell",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (Lương Sơn) BLV TIÊU PHONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TIEUPHONG/index.m3u8?expire=1788427256&sign=30f6cc3c5000450c81ffb13b077432b8
+https://hls.cdnokvip.com/live/TEST2/index.m3u8?expire=1892296680&sign=1977a4202a07089c09e7170aee5cebb8
 
 #EXTGRP:Lấy kinh
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (Lấy kinh) HD 1
@@ -967,22 +1229,6 @@ https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6606_small.png",08:30 ngày 09/18 Salt Lake và LAFC (Mãn nhãn) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x17y2/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6606_small.png",08:30 ngày 09/18 Salt Lake và LAFC (Mãn nhãn) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x17y1/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6606_small.png",08:30 ngày 09/18 Salt Lake và LAFC (Mãn nhãn) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x17y3-0273/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",09:00 ngày 09/18 Brazil vs Serbia (Mãn nhãn) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x4/playlist.m3u8
 #EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49726_small.png",09:00 ngày 09/18 Club Sport Herediano và Deportivo Saprissa (Mãn nhãn) HD 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1025,32 +1271,6 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8?toke
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8?token=o08PEmjVJ6tBP3osOS1ZbA&tms=1756725008
-
-#EXTGRP:Quay tay
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@luluhd1/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@luluhd1.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lulusd1/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lulusd1.flv
 
 #EXTGRP:Ra khơi
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/256ff71a20fb72145a66dcef2f604a48.png",07h30 ngày 18/09 Minnesota United FC vs Austin FC (Ra Khơi) HD 1
@@ -1139,22 +1359,6 @@ https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6606_small.png",08:30 ngày 09/18 Salt Lake và LAFC (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x17y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6606_small.png",08:30 ngày 09/18 Salt Lake và LAFC (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x17y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6606_small.png",08:30 ngày 09/18 Salt Lake và LAFC (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x17y3-0273/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",09:00 ngày 09/18 Brazil vs Serbia (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x4/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49726_small.png",09:00 ngày 09/18 Club Sport Herediano và Deportivo Saprissa (Sao kê) HD 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1939,78 +2143,6 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GOx4yVzZaJDxaBj8L/index.m3u8
 
 #EXTGRP:socolive
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/8e5cccfe32600effc6224b3cb6366b47.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC [BLV CRIS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=4386b7c067cc115699a633fa2bd7f9d4&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/8e5cccfe32600effc6224b3cb6366b47.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC [BLV CRIS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=0bdd4b81bf5c222e08630345720aa9d7&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/8e5cccfe32600effc6224b3cb6366b47.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC [BLV CRIS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=0bdd4b81bf5c222e08630345720aa9d7&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/8e5cccfe32600effc6224b3cb6366b47.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC [BLV CRIS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=4386b7c067cc115699a633fa2bd7f9d4&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/8e5cccfe32600effc6224b3cb6366b47.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=099f0b426d479ccc8406c9bac938fb8e&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/8e5cccfe32600effc6224b3cb6366b47.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=162d063234922ccf1a7dccb8158e6e6f&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/8e5cccfe32600effc6224b3cb6366b47.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=162d063234922ccf1a7dccb8158e6e6f&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/8e5cccfe32600effc6224b3cb6366b47.png",08h30 ngày 18/09 Real Salt Lake vs Los Angeles FC [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=099f0b426d479ccc8406c9bac938fb8e&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/3cdea989e0a1f9fed6d50156d096855d.png",09h00 ngày 18/09 Abejas vs Soles [BLV GẤU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912107_lsd.flv?auth_key=1758168075-0-0-66b98b3524ccb80f6ae5816efdc82298
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/3cdea989e0a1f9fed6d50156d096855d.png",09h00 ngày 18/09 Abejas vs Soles [BLV GẤU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912107_lhd.flv?auth_key=1758168075-0-0-6dbba190a8f3dd64ffba3669e128392e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/3cdea989e0a1f9fed6d50156d096855d.png",09h00 ngày 18/09 Abejas vs Soles [BLV GẤU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1758168075-0-0-30b44e5d70068982d90c99c238592d41
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/3cdea989e0a1f9fed6d50156d096855d.png",09h00 ngày 18/09 Abejas vs Soles [BLV GẤU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1758168075-0-0-df6731f2f7d1f8d75bf812115d9ac0ad
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/3cdea989e0a1f9fed6d50156d096855d.png",09h00 ngày 18/09 Abejas vs Soles [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=88aa0c6367f1d1a7e4cca5ee35efd99a&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/3cdea989e0a1f9fed6d50156d096855d.png",09h00 ngày 18/09 Abejas vs Soles [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=663c736dbcd79b7b48847f0a9469b760&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/3cdea989e0a1f9fed6d50156d096855d.png",09h00 ngày 18/09 Abejas vs Soles [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=663c736dbcd79b7b48847f0a9469b760&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/3cdea989e0a1f9fed6d50156d096855d.png",09h00 ngày 18/09 Abejas vs Soles [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=88aa0c6367f1d1a7e4cca5ee35efd99a&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/26b3215d7c91f4daf14fbcf6ec307b57.png",09h00 ngày 18/09 Antigua GFC vs CSD Municipal [CÔNG LÝ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1758168075-0-0-407922b27433e4d3176164869a04afcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/26b3215d7c91f4daf14fbcf6ec307b57.png",09h00 ngày 18/09 Antigua GFC vs CSD Municipal [CÔNG LÝ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1758168075-0-0-bf2c041e43046cd27e78df2d82e5a694
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/26b3215d7c91f4daf14fbcf6ec307b57.png",09h00 ngày 18/09 Antigua GFC vs CSD Municipal [CÔNG LÝ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1758168075-0-0-0bebbcb62dea615be6e3451984b85e67
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/26b3215d7c91f4daf14fbcf6ec307b57.png",09h00 ngày 18/09 Antigua GFC vs CSD Municipal [CÔNG LÝ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1758168075-0-0-99ad94862c5cb4ca43d2b2dacc10272e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/e2890cfba9425fbae753029b27f907e0.png",09h00 ngày 18/09 Diriangen vs Real Madriz [BLV NOKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/537460-480p.flv
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/e2890cfba9425fbae753029b27f907e0.png",09h00 ngày 18/09 Diriangen vs Real Madriz [BLV NOKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/537460-720p.flv
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/e2890cfba9425fbae753029b27f907e0.png",09h00 ngày 18/09 Diriangen vs Real Madriz [BLV NOKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/537460-720p.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/e2890cfba9425fbae753029b27f907e0.png",09h00 ngày 18/09 Diriangen vs Real Madriz [BLV NOKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/537460-480p.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/e3002dfc78af0aa9a21bf5cf7a503938.png",09h00 ngày 18/09 Golden State Valkyries W vs Minnesota Lynx W [BLV BEAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-480p.flv
@@ -2059,42 +2191,6 @@ https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1758168075-0-0-f1c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/e3002dfc78af0aa9a21bf5cf7a503938.png",09h00 ngày 18/09 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1758168075-0-0-e0206419c3a2d177c83baa810c6cd30e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV NIBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1758168075-0-0-e8986709eb7cb2b943800de01d4149ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV NIBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1758168075-0-0-18548ece08da62e00b0a129bf37db7c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV NIBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1758168075-0-0-17e688f70c7c0faf08e7a3e50229f341
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV NIBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1758168075-0-0-149dcd26c522157430c624d1c9013a74
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV RAMBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/534055-480p.flv
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV RAMBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/534055-720p.flv
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV RAMBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/534055-720p.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV RAMBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/534055-480p.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=f6b2692909ea0e0d988735400d676bff&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=318c771a810fc87096b41a500fd2b171&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=318c771a810fc87096b41a500fd2b171&txTime=68cbca5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=f6b2692909ea0e0d988735400d676bff&txTime=68cbca5b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbeb884634c7d4486c64d40dac3f00ac.png",09h00 ngày 18/09 Herediano vs Deportivo Saprissa [BLV VODKA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1758168075-0-0-98de8f1cf1b40bc32ae6bda7eea747cc
@@ -2617,24 +2713,6 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GBBwyVzZaJDxaBj8L/index.m3u8
 #EXTINF:-1 tvg-id="2650e4dc50f72f80782f0b250f1dbdc1" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Women's College Volleyball : Wisconsin vs Marquette (BTN USA)
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0hfIl8GDB8yVzZaJDxaBj8L/index.m3u8
-
-#EXTGRP:Văn khánh
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20161018103215.jpg?win007=sell",09h00 ngày 18/09 Antigua GFC vs CSD Municipal (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/GIAOSUXOAY.flv?expire=1892730180&sign=c561b814d05f14cf153b87d973755453
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20161018103215.jpg?win007=sell",09h00 ngày 18/09 Antigua GFC vs CSD Municipal (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c561b814d05f14cf153b87d973755453
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/6085/1h6wfek5q11g.png?win007=sell",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/6085/1h6wfek5q11g.png?win007=sell",09h00 ngày 18/09 Herediano vs Deportivo Saprissa (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
 
 #EXTGRP:WWE
 #EXTINF:-1 tvg-id="c5859f7bcc12f51550055536aca6d80f" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="WWE",All Elite Wrestling: Dynamite (FOX SPORTS PREMIUM MX)
