@@ -467,10 +467,6 @@ https://image.yorganuzmani.lol/live/yaban.m3u8?token=3Cu7J5vqrbiZnkIy8YliZw&tms=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/f4274b20267168cf5b12f0a5f21e4f9f/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/8db543b804198eba62d7ca7c1d5aeb1b.png",14h00 ngày 18/09 Boeun Sangmu (w) vs KSPO FC (w) 1 (Bún Chả1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/0f6782c795ded3d0eb185b777ab42bfd/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/19ea9ea1eafe06b67600653432bfb22f.png",17h00 ngày 18/09 Kaya FC vs Tampines Rovers FC 1 (Bún Chả1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -1015,6 +1011,18 @@ https://apisportzz179528093.nsnd.live/J3fte2BjzDJN4qJjC8FvSg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/JpW3Wf6vQ1CUygsxdnxnTw/Fv2lucGIbhPi2caWYvF5Lg/1758200772447/live/sd-6MuRsjYMwa38Kschh5/playlist.m3u8
+#EXTINF:0 group-title="Cá kèo" tvg-logo="",14h00 ngày 18/09 Jiangxi Lushan U21 VS Qingdao Hainiu U21 (Cá Kèo) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/OTvpNcOefOlAAAfaueKnMg/Fv2lucGIbhPi2caWYvF5Lg/1758201848660/live/sd-6MvY6eSfdesjLpAG35/playlist.m3u8
+#EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/f5136724b43d8e2f6c5b712fe0ab0f40.png",14h00 ngày 18/09 Shenzhen Xinpengcheng U21	 VS Henan FC U21 (Cá Kèo) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ybEZ38dSRwbpBN_5FxV3nw/Fv2lucGIbhPi2caWYvF5Lg/1758201883258/live/sd-6MvY6eSfdaUmbrWRjH/playlist.m3u8
+#EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/3746e3fba62790b0f2694bf858180c04.png",14h00 ngày 18/09 Zhejiang Professional FC U21 VS Lanzhou Longyuan Athletics U21 (Cá Kèo) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/wzXV4Z7ETNO71oqHZ_Z0lw/Fv2lucGIbhPi2caWYvF5Lg/1758201879170/live/sd-6MvY6eSfdYHHjNgWaP/playlist.m3u8
 
 #EXTGRP:Diğer
 #EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer",FASHION TV
@@ -3059,18 +3067,6 @@ https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1758181275-0-0-4ba
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/bbe60c85ae62eb8589045db815cbc206.png",14h00 ngày 18/09 Mungyeong Sangmu WFC vs Hwacheon KSPO WFC [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1758181275-0-0-e4e7f26f9eac283ae9746cd50c0b4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250913/6d25ec0e400a4b16111781b985b6aa31.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1758090227-0-0-276dd5b8eb2e2878c2bd8283ab4ea5c3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250913/6d25ec0e400a4b16111781b985b6aa31.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1758090227-0-0-bd0b9f3656160acda2a46ef47f6c2e7f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250913/6d25ec0e400a4b16111781b985b6aa31.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1758090227-0-0-cc92045e95189d6dfe51d46c5e60b2e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250913/6d25ec0e400a4b16111781b985b6aa31.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1758090227-0-0-344c47c0b837f10ffeda390dd6f01337
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/87e9d0c79bcd10b899b8ccf56e7c1086.png",Tường thuật: ACL2 - Al Nassr FC vs FC Istiklol Dushanbe [Sóc chó điên] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1758176595-0-0-3c0938a27982dcbb754ae1328e29f2ef
