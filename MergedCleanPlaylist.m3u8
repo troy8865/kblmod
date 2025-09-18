@@ -1,26 +1,6 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
 
 #EXTGRP:10Cam
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8a46aa40f1fc7f38c910e65bc940aaf1.png",09:00 ngày 18/09 Kazakhstan vs USA (1) [Thịt Xiên] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/x8pXL3U4Ir1js1aDS06KFA/cac03b136a8c356be180b4618c6bfeb5/1758181337/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8a46aa40f1fc7f38c910e65bc940aaf1.png",09:00 ngày 18/09 Kazakhstan vs USA (1) [Thịt Xiên] HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758181337/f845bacc22df42a6cfb6bf99c5640628/467147304/live/xienHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8a46aa40f1fc7f38c910e65bc940aaf1.png",09:00 ngày 18/09 Kazakhstan vs USA (1) [Thịt Xiên] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758181337/4588b7b1d06de3490eb6043693794c08/849723029/live/xienHD.flv
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8a46aa40f1fc7f38c910e65bc940aaf1.png",09:00 ngày 18/09 Kazakhstan vs USA (1) [Thịt Xiên] Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ojBSIGwfxy_GYBycPgP7MA/Fv2lucGIbhPi2caWYvF5Lg/1758181337637/live/may21/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8a46aa40f1fc7f38c910e65bc940aaf1.png",09:00 ngày 18/09 Kazakhstan vs USA (1) [Thịt Xiên] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/xsOMsXf3ejbE4aH4JGmNAQ/Fv2lucGIbhPi2caWYvF5Lg/1758181337636/live/xienSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/unique-tournament/c7117c381874dfc74eebdba1cc2d429d.png",12:00 ngày 18/09 ATP250 Chengdu Open (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -89,6 +69,62 @@ https://9ceg0825.edgemaxcdn.org/1758202572/a3ddfa9a06b7872cae00807269b1f608/4259
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/wHY4-J3xrHVD70s26cRNaA/Fv2lucGIbhPi2caWYvF5Lg/1758202572806/live/luaSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",15:30 ngày 18/09 Marin Cilic vs Nishesh Basavareddy (1) [Người Cồn] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/cahc6ZitoQTIO0Euxpzb0w/7135f49323c9408d9b4f4a596ce26852/1758205810/live/_definst_/stream_1_1bda7@conFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",15:30 ngày 18/09 Marin Cilic vs Nishesh Basavareddy (1) [Người Cồn] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758205810/636fa7ffe21232c8d3c144bce3f088a1/646078367/live/conHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",15:30 ngày 18/09 Marin Cilic vs Nishesh Basavareddy (1) [Người Cồn] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758205810/c21d301bc92a4b0b2e9ae410dbd39f10/948739524/live/conHD.flv
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",15:30 ngày 18/09 Marin Cilic vs Nishesh Basavareddy (1) [Người Cồn] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/fUe85fjCX9bDvDMq7iy8Gw/Fv2lucGIbhPi2caWYvF5Lg/1758205810053/live/conSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8759d4a56a54ddee0a13e57539ed952e.png",15:40 ngày 18/09 Alexander Shevchenko vs Gael Monfils (1) [Bánh Cuốn] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/XFQB_nduLyPO-r65s1VDHg/ecdd2fe3d570b8f38d7664bb44af6d73/1758206169/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8759d4a56a54ddee0a13e57539ed952e.png",15:40 ngày 18/09 Alexander Shevchenko vs Gael Monfils (1) [Bánh Cuốn] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758206169/32419e51a93964c5c7762da8ee3ecbc7/201732674/live/cuonHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8759d4a56a54ddee0a13e57539ed952e.png",15:40 ngày 18/09 Alexander Shevchenko vs Gael Monfils (1) [Bánh Cuốn] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758206169/d1b4b1ad507cc581e37102d8e07288fb/866517165/live/cuonHD.flv
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8759d4a56a54ddee0a13e57539ed952e.png",15:40 ngày 18/09 Alexander Shevchenko vs Gael Monfils (1) [Bánh Cuốn] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/eB7XfWCYDF926uKYok6SvQ/Fv2lucGIbhPi2caWYvF5Lg/1758206169613/live/cuonSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",15:50 ngày 18/09 Katerina Siniakova vs Daria Kasatkina (1) [Mèo Ú] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/5PEe-GrfqzCAnIqIq6xwJQ/aa2414c41b563aa2e0f4a276a0f50172/1758206171/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",15:50 ngày 18/09 Katerina Siniakova vs Daria Kasatkina (1) [Mèo Ú] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758206171/a7e6d402f336322709f63fbc68f787ea/120457577/live/meoHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",15:50 ngày 18/09 Katerina Siniakova vs Daria Kasatkina (1) [Mèo Ú] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758206171/f463c2ae741df24df9427c00ea233e02/235902117/live/meoHD.flv
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",15:50 ngày 18/09 Katerina Siniakova vs Daria Kasatkina (1) [Mèo Ú] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/SI4Iywd7nHXeh88tBqKB4w/Fv2lucGIbhPi2caWYvF5Lg/1758206171473/live/meoSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/japan1.png",16:00 ngày 18/09 Japan vs Great Britain (1) [Nhà Đài] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/DsVrLWjNW_S5gaFyeL2J4A/Fv2lucGIbhPi2caWYvF5Lg/1758206173531/live/may25/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://insideathletics.com.au/wp-content/uploads/2025/09/2025_World_Athletics_Championships_logo.svg_.png",17:00 ngày 18/09 Giải vô địch điền kinh thế giới Tokyo 2025 (1) [Nhà Đài] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/jJpyrUgVTNRk95B6PCHLzg/Fv2lucGIbhPi2caWYvF5Lg/1758205808782/live/may10/playlist.m3u8
 
 #EXTGRP:__THÔNG BÁO__
 #EXTINF:0 group-title="__THÔNG BÁO__",1. !!! Link XEM LẠI đã tách sang byvn.net/KHXg
@@ -467,10 +503,18 @@ https://live.alilicloud.com/live/0f6782c795ded3d0eb185b777ab42bfd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/c7e4a4878eb15cc93513e4b44a619228/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/f5136724b43d8e2f6c5b712fe0ab0f40.png",14h00 ngày 18/09 Shenzhen Peng City U21 vs Henan FC U21 1 (Bún Chả1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/55b9fdfd04d06d96a9743472a87210f1/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/3746e3fba62790b0f2694bf858180c04.png",14h00 ngày 18/09 Zhejiang Professional FC U21 vs Lanzhou Longyuan Athletics U21 1 (Bún Chả1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/15e4558824df021b95779d63423848fb/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/50ce7bce72e26e6d0bbf86e1b2fa763d.png",15h00 ngày 18/09 Kodagu FC vs Bengaluru Roots FC 1 (Bún Chả1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/c70f2cd93a8bd2405e4d7ea82f321ee2/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/19ea9ea1eafe06b67600653432bfb22f.png",17h00 ngày 18/09 Kaya FC vs Tampines Rovers FC 1 (Bún Chả1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -577,30 +621,30 @@ https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Cà Khịa) HD 1
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Cà Khịa) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Cà Khịa) HD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Cà Khịa) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/hplushd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Cà Khịa) HD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Cà Khịa) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Cà Khịa) SD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Cà Khịa) SD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Cà Khịa) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/hplussd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Cà Khịa) SD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Cà Khịa) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 
 #EXTGRP:Cá heo
 #EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/8db543b804198eba62d7ca7c1d5aeb1b.png",14h00 ngày 18/09 Boeun Sangmu (w) vs KSPO FC (w) (Cá heo) HD 1
@@ -627,48 +671,52 @@ https://179245845.cdnfree.pro/live/duongtiensd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Cá heo) HD 1
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Cá heo) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Cá heo) HD 2
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Cá heo) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/hplushd2/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Cá heo) HD 3 (Nhanh)
+https://179245845.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Cá heo) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Cá heo) SD 1
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Cá heo) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Cá heo) SD 2
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Cá heo) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/hplussd2/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Cá heo) SD 3 (Nhanh)
+https://179245845.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Cá heo) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 
 #EXTGRP:Cá kèo
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/8db543b804198eba62d7ca7c1d5aeb1b.png",14h00 ngày 18/09 Boeun Sangmu (w) VS KSPO FC (w) (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/JpW3Wf6vQ1CUygsxdnxnTw/Fv2lucGIbhPi2caWYvF5Lg/1758200772447/live/sd-6MuRsjYMwa38Kschh5/playlist.m3u8
+https://apisportzz179528093.nsnd.live/8Q7rhC8VV0xurt9w754YzA/Fv2lucGIbhPi2caWYvF5Lg/1758206169487/live/sd-6MuRsjYMwa38Kschh5/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",14h00 ngày 18/09 Jiangxi Lushan U21 VS Qingdao Hainiu U21 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/OTvpNcOefOlAAAfaueKnMg/Fv2lucGIbhPi2caWYvF5Lg/1758201848660/live/sd-6MvY6eSfdesjLpAG35/playlist.m3u8
+https://apisportzz179528093.nsnd.live/bROuoKgflQ3CSPr8OEt7ew/Fv2lucGIbhPi2caWYvF5Lg/1758206167788/live/sd-6MvY6eSfdesjLpAG35/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/f5136724b43d8e2f6c5b712fe0ab0f40.png",14h00 ngày 18/09 Shenzhen Xinpengcheng U21	 VS Henan FC U21 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/ybEZ38dSRwbpBN_5FxV3nw/Fv2lucGIbhPi2caWYvF5Lg/1758201883258/live/sd-6MvY6eSfdaUmbrWRjH/playlist.m3u8
+https://apisportzz179528093.nsnd.live/BzNqvEGHhOR-1yH-qxaMuw/Fv2lucGIbhPi2caWYvF5Lg/1758206171951/live/sd-6MvY6eSfdaUmbrWRjH/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/3746e3fba62790b0f2694bf858180c04.png",14h00 ngày 18/09 Zhejiang Professional FC U21 VS Lanzhou Longyuan Athletics U21 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/wzXV4Z7ETNO71oqHZ_Z0lw/Fv2lucGIbhPi2caWYvF5Lg/1758201879170/live/sd-6MvY6eSfdYHHjNgWaP/playlist.m3u8
+https://apisportzz179528093.nsnd.live/_D-mgBbulky86r_pKmqVnA/Fv2lucGIbhPi2caWYvF5Lg/1758206170741/live/sd-6MvY6eSfdYHHjNgWaP/playlist.m3u8
+#EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/54eeda903c49b713fc922ce060d32d92.png",15h00 ngày 18/09 Kodagu FC VS Bengaluru Roots FC (Cá Kèo) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/jZFz3icDLprkLn-TTv1b4g/Fv2lucGIbhPi2caWYvF5Lg/1758206168912/live/sd-6MvY73AV85nCna3tLK/playlist.m3u8
 
 #EXTGRP:Diğer
 #EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer",FASHION TV
@@ -733,10 +781,6 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUz
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8MOxkyVzZaJDxaBj8L/index.m3u8
 
 #EXTGRP:Gà vàng
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/76e76f7ee7dc16fed866f096352764ee/image/small",09h30 ngày 17/09 Finland vs South Korea (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d0edbbdd70809be80e28e70ad2d5a3de/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/f0f7fff5d838167439ce3225122d638c/image/small",12h30 ngày 17/09 Egypt vs Tunisia (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -789,6 +833,10 @@ https://live.alilicloud.com/live/55b9fdfd04d06d96a9743472a87210f1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/15e4558824df021b95779d63423848fb/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/72f72414cf6f7f0a1cb85e56a48cceea/image/small",15h00 ngày 17/09 Kodagu FC vs Bengaluru Roots FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c70f2cd93a8bd2405e4d7ea82f321ee2/playlist.m3u8
 
 #EXTGRP:Haber
 #EXTINF:-1 tvg-id="97" tvg-name="24 HABER HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg" group-title="Haber",24 HABER HD
@@ -1053,6 +1101,10 @@ https://live.alilicloud.com/live/55b9fdfd04d06d96a9743472a87210f1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/15e4558824df021b95779d63423848fb/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/72f72414cf6f7f0a1cb85e56a48cceea/image/small",15h00 ngày 17/09 Kodagu FC vs Bengaluru Roots FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c70f2cd93a8bd2405e4d7ea82f321ee2/playlist.m3u8
 
 #EXTGRP:Lương sơn
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 ngày 18/09 Boeun Sangmu (W) vs KSPO FC (W) (Lương Sơn) BLV DẾ LỬA flv
@@ -1105,30 +1157,30 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Lấy kinh) HD 1
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Lấy kinh) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Lấy kinh) HD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Lấy kinh) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179245845.cdnfree.pro/live/hplushd2/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Lấy kinh) HD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Lấy kinh) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Lấy kinh) SD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Lấy kinh) SD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Lấy kinh) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179245845.cdnfree.pro/live/hplussd2/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Lấy kinh) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Lấy kinh) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 
 #EXTGRP:MOTORSPORT
 #EXTINF:-1 tvg-id="bb19377cf76b3175584d1b29b9b6785e" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",British Premiership Play-Off | Semi-Final | Second Leg Sheffield Tigers - Leicester Lions (TNT SPORTS 3 UK)
@@ -1159,18 +1211,6 @@ https://saoke.cdn.khmer-hd.com/x21y1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x21y3-8074/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://img0.aiscore.com/football/team/a60899e8cdf54bc29a058073fb11d176.png!w60",15:30 ngày 09/18 PP Hà Nam vs Thái Nguyên T&T (Mãn nhãn) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x1y2/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://img0.aiscore.com/football/team/a60899e8cdf54bc29a058073fb11d176.png!w60",15:30 ngày 09/18 PP Hà Nam vs Thái Nguyên T&T (Mãn nhãn) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x1y1/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://img0.aiscore.com/football/team/a60899e8cdf54bc29a058073fb11d176.png!w60",15:30 ngày 09/18 PP Hà Nam vs Thái Nguyên T&T (Mãn nhãn) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x1y3-2759/playlist.m3u8
 
 #EXTGRP:Müzik
 #EXTINF:-1 tvg-id="51" tvg-name="DREAM TÜRK TV HD" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/9756196c45fab27cf682ca813c12ceee.png" group-title="Müzik",DREAM TÜRK TV HD
@@ -1223,30 +1263,30 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (QUAY TAY) HD 1
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (QUAY TAY) HD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (QUAY TAY) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179245845.cdnfree.pro/live/hplushd2/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (QUAY TAY) HD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (QUAY TAY) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (QUAY TAY) SD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (QUAY TAY) SD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (QUAY TAY) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179245845.cdnfree.pro/live/hplussd2/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (QUAY TAY) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 
 #EXTGRP:Ra khơi
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/8db543b804198eba62d7ca7c1d5aeb1b.png",14h00 ngày 18/09 Boeun Sangmu (w) vs KSPO FC (w) (Ra Khơi) HD 1
@@ -1273,30 +1313,30 @@ https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Ra Khơi) HD 1
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Ra Khơi) HD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Ra Khơi) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Ra Khơi) HD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Ra Khơi) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Ra Khơi) SD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Ra Khơi) SD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Ra Khơi) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/a60899e8cdf54bc29a058073fb11d176.png",15h30 ngày 18/09 Phong Phu Ha Nam (w) vs TNG Thai Nguyen (w) (Ra Khơi) SD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d659af726f5fa75d16d3e08c6470e844.png",16h00 ngày 18/09 Than KSVN (w) vs CLB TPHCM (w) (Ra Khơi) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 
 #EXTGRP:RUGBY UNION
 #EXTINF:-1 tvg-id="083d26d1ef0c203e288923316eaabc01" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/rugby-logo.png" group-title="RUGBY UNION",Pro D2 : Grenoble FC vs Nevers (CANAL+ SPORT FRANCE)
@@ -1327,18 +1367,6 @@ https://saoke.cdn.khmer-hd.com/x21y1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x21y3-8074/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://img0.aiscore.com/football/team/a60899e8cdf54bc29a058073fb11d176.png!w60",15:30 ngày 09/18 PP Hà Nam vs Thái Nguyên T&T (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x1y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://img0.aiscore.com/football/team/a60899e8cdf54bc29a058073fb11d176.png!w60",15:30 ngày 09/18 PP Hà Nam vs Thái Nguyên T&T (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x1y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://img0.aiscore.com/football/team/a60899e8cdf54bc29a058073fb11d176.png!w60",15:30 ngày 09/18 PP Hà Nam vs Thái Nguyên T&T (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x1y3-2759/playlist.m3u8
 
 #EXTGRP:SHOOTING
 #EXTINF:-1 tvg-id="c9107dee7ed94384e1703c46a1309c5f" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="SHOOTING",2025 Italian Clay Shooting Championship - Malpensa: Olympic Trap Finals (RAI SPORT 1 ITALY)
@@ -2721,6 +2749,42 @@ https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=4e91878d12a332ea6fb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a8f4554c39525b3dca414792588d8dc4.png",15h00 ngày 18/09 Bulacan Kuyas vs GenSan Warriors [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=c26389711ec84be2be9b4698a9a3bfa2&txTime=68cc0a93
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532081_lsd.flv?txSecret=9df986031fdfa270b40e93d8ee46a5c2&txTime=68cc18a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532081_lhd.flv?txSecret=1754dd9a2ca3845f1054ff488cdbc9ac&txTime=68cc18a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=1754dd9a2ca3845f1054ff488cdbc9ac&txTime=68cc18a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=9df986031fdfa270b40e93d8ee46a5c2&txTime=68cc18a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=2fe93fd444b6661407de2600ae4c01b3&txTime=68cc18a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=ea48d9a256d2096a95755dd1faee386f&txTime=68cc18a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ea48d9a256d2096a95755dd1faee386f&txTime=68cc18a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=2fe93fd444b6661407de2600ae4c01b3&txTime=68cc18a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/534055-480p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/534055-720p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/534055-720p.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/534055-480p.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250915/91e0739496c3f3773fec8323b21082bd.png",16h00 ngày 18/09 Than KSVN Women vs Hồ Chí Minh City Women [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1758187035-0-0-f68852100b7b4dfca7ced390f20bb7cb
@@ -3423,14 +3487,6 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0hfIl8GDB8yVzZaJDxaBj8L/index.m3u8
 
 #EXTGRP:Văn khánh
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1758171925.png",12h00 ngày 18/09 Bayern Munich vs Chelsea (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1758171925.png",12h00 ngày 18/09 Bayern Munich vs Chelsea (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 ngày 18/09 Boeun Sangmu (W) vs KSPO FC (W) (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
