@@ -1,26 +1,6 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
 
 #EXTGRP:10Cam
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",04:55 ngày 20/09 Jakub Mensik vs Alex Michelsen (1) [Mỳ Tôm] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/vovxuNIIlzlpXXR91Oqu8w/37c56eb4aaf958eda25bed5c53705fc2/1758340446/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",04:55 ngày 20/09 Jakub Mensik vs Alex Michelsen (1) [Mỳ Tôm] HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758340446/c272c9897f5a66e2a1a11ac4932c42a4/721222933/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",04:55 ngày 20/09 Jakub Mensik vs Alex Michelsen (1) [Mỳ Tôm] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758340446/39e535f4b234dddd3ecabc5a663f74d6/972760588/live/myHD.flv
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",04:55 ngày 20/09 Jakub Mensik vs Alex Michelsen (1) [Mỳ Tôm] Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/8exF-Y3BgfcGb9yDcSnELA/Fv2lucGIbhPi2caWYvF5Lg/1758340446275/live/may24/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",04:55 ngày 20/09 Jakub Mensik vs Alex Michelsen (1) [Mỳ Tôm] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/3kYvEq2ug2uGuuBBe-Kzeg/Fv2lucGIbhPi2caWYvF5Lg/1758340446275/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/zw4xp5Wg-Ol3GCYT2.png",05:15 ngày 20/09 San Martin San Juan vs Velez Sarsfield (1) [Moon Knight] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -97,6 +77,22 @@ https://hotlivezz179026907.akainu.xyz/oetU4w6kSKFMYzQuQ8N7wQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/9ec5_byY2BnB6oG1i6tTfQ/Fv2lucGIbhPi2caWYvF5Lg/1758346932396/live/nuiSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/caff6f729db9dc68b1938f6533b0fa14.png",07:15 ngày 20/09 Lanus vs CA Platense (1) [Người Dưng] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/p2AsjLZLrDO7DnN1MN_fOw/09b8150fd09801bcc1dbb7e4e226d0e0/1758347646/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/caff6f729db9dc68b1938f6533b0fa14.png",07:15 ngày 20/09 Lanus vs CA Platense (1) [Người Dưng] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758347646/f07f1c899c4c98cf90f52ffa0c207844/742098719/live/dungHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/caff6f729db9dc68b1938f6533b0fa14.png",07:15 ngày 20/09 Lanus vs CA Platense (1) [Người Dưng] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758347646/93067ec0108279dfa427d265bd098ebe/376204749/live/dungHD.flv
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/caff6f729db9dc68b1938f6533b0fa14.png",07:15 ngày 20/09 Lanus vs CA Platense (1) [Người Dưng] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Tmql_vbkz-3ZZOFr89-fiw/Fv2lucGIbhPi2caWYvF5Lg/1758347646402/live/dungSD/playlist.m3u8
 
 #EXTGRP:AM. FOOTBALL
 #EXTINF:-1 tvg-id="117f3525eeacfcbdca6040a60ffcdfbe" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cfl-logo.png" group-title="AM. FOOTBALL",CFL : Calgary Stampeders vs BC Lions (TSN1)
@@ -407,6 +403,12 @@ https://live5.k8v4dh4.app/live/90865415.flv
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDNkOGUxMzYyYzYtNjJjMg/YTdiY2I1NGJhMWItYWYzZA.png",ARG D1 CA Huracan vs Racing Club BLV 247 (Colalive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/90865415.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZDRmZDQ3OWJhNmYtZmY0Nw/YjBjNTQ5MjM0ODMtMTdmOQ.png",ARG D1 Club Atletico Lanus vs CA Platense BLV TEPPY (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/59444581.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZDRmZDQ3OWJhNmYtZmY0Nw/YjBjNTQ5MjM0ODMtMTdmOQ.png",ARG D1 Club Atletico Lanus vs CA Platense BLV TEPPY (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/59444581.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MWJkY2I3MzRkOTUtNGNiYQ/YWE5YTQ0ZjM4NzUtMWY0Zg.png",ARG D1 San Martin San Juan vs Velez Sarsfield BLV MOUNTAIN DEW (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/87547578.flv
